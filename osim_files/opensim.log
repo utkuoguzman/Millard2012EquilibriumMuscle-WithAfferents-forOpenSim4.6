@@ -1,0 +1,2923 @@
+[2026-08-31 21:14:02.392] [info] Updating Model file from 30000 to latest format...
+[2026-08-31 21:14:02.455] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:14:02.455] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:14:02.455] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:14:02.455] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:14:02.455] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:14:02.455] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:14:02.455] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:14:02.455] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:14:02.465] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:14:02.465] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:14:02.466] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:14:02.466] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:14:02.466] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:14:02.466] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:14:02.466] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:14:02.466] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:14:02.466] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:14:02.466] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:14:02.466] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:14:02.466] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:14:02.466] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:14:02.466] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:14:02.466] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:14:02.466] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:14:02.467] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:14:02.467] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:14:02.467] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:14:02.467] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:14:02.468] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:14:02.468] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:14:02.468] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:14:02.468] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:14:02.468] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:14:02.468] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:14:02.468] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:14:02.468] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:14:02.468] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:14:02.468] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:14:02.468] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:14:02.468] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:14:02.469] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:14:02.469] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:14:02.469] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:14:02.469] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:14:02.469] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:14:02.469] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:14:02.469] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:14:02.469] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:14:02.470] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:14:02.470] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:14:02.470] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:14:02.470] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:14:02.470] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:14:02.470] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:14:02.470] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:14:02.470] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:14:02.488] [info] Loaded model HYOID_Scaled from file D:\Akademik\PhD_Thesis\OpenSim\Proprioception_Plugin_Opensim4_6_Explicit\osim_files\HYOID_ScaledStrength_v1.2andEye_v1_IndependentEyes_Afferents.osim
+[2026-08-31 21:14:02.659] [info] 'ComponentSet' was renamed and is being set to 'componentset'.
+[2026-08-31 21:14:34.057] [info] -------
+[2026-08-31 21:14:34.057] [info] Manager
+[2026-08-31 21:14:34.057] [info] -------
+[2026-08-31 21:14:34.058] [info] Starting integration at initial time 0.00 s...
+[2026-08-31 21:14:35.736] [info] Integration complete at final time 0.10 s.
+[2026-08-31 21:14:35.736] [info]  - CPU time elapsed: 1.765625 s
+[2026-08-31 21:14:35.736] [info]  - real time elapsed: 1.678049 s
+[2026-08-31 21:14:35.736] [info]  - ratio sim-to-real time: 0.060
+[2026-08-31 21:14:35.736] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:14:35.736] [info]  - number of realizations: 1298
+[2026-08-31 21:14:35.736] [info]  - number of steps taken / attempted: 152 / 229
+[2026-08-31 21:14:35.736] [info]  - number of projections: 1
+[2026-08-31 21:14:35.736] [info]  - number of iterations: 229
+[2026-08-31 21:14:35.737] [info] -------
+[2026-08-31 21:14:35.737] [info] Manager
+[2026-08-31 21:14:35.737] [info] -------
+[2026-08-31 21:14:35.737] [info] Starting integration at initial time 0.10 s...
+[2026-08-31 21:14:37.325] [info] Integration complete at final time 0.20 s.
+[2026-08-31 21:14:37.325] [info]  - CPU time elapsed: 1.625000 s
+[2026-08-31 21:14:37.325] [info]  - real time elapsed: 1.588343 s
+[2026-08-31 21:14:37.325] [info]  - ratio sim-to-real time: 0.126
+[2026-08-31 21:14:37.325] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:14:37.325] [info]  - number of realizations: 2500
+[2026-08-31 21:14:37.325] [info]  - number of steps taken / attempted: 304 / 439
+[2026-08-31 21:14:37.325] [info]  - number of projections: 1
+[2026-08-31 21:14:37.325] [info]  - number of iterations: 439
+[2026-08-31 21:14:37.326] [info] -------
+[2026-08-31 21:14:37.326] [info] Manager
+[2026-08-31 21:14:37.326] [info] -------
+[2026-08-31 21:14:37.326] [info] Starting integration at initial time 0.20 s...
+[2026-08-31 21:14:38.911] [info] Integration complete at final time 0.30 s.
+[2026-08-31 21:14:38.911] [info]  - CPU time elapsed: 1.609375 s
+[2026-08-31 21:14:38.911] [info]  - real time elapsed: 1.585247 s
+[2026-08-31 21:14:38.911] [info]  - ratio sim-to-real time: 0.189
+[2026-08-31 21:14:38.911] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:14:38.911] [info]  - number of realizations: 3679
+[2026-08-31 21:14:38.911] [info]  - number of steps taken / attempted: 463 / 643
+[2026-08-31 21:14:38.911] [info]  - number of projections: 1
+[2026-08-31 21:14:38.911] [info]  - number of iterations: 643
+[2026-08-31 21:14:38.912] [info] -------
+[2026-08-31 21:14:38.912] [info] Manager
+[2026-08-31 21:14:38.912] [info] -------
+[2026-08-31 21:14:38.912] [info] Starting integration at initial time 0.30 s...
+[2026-08-31 21:14:40.496] [info] Integration complete at final time 0.40 s.
+[2026-08-31 21:14:40.496] [info]  - CPU time elapsed: 1.515625 s
+[2026-08-31 21:14:40.496] [info]  - real time elapsed: 1.584088 s
+[2026-08-31 21:14:40.496] [info]  - ratio sim-to-real time: 0.253
+[2026-08-31 21:14:40.496] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:14:40.496] [info]  - number of realizations: 4869
+[2026-08-31 21:14:40.497] [info]  - number of steps taken / attempted: 613 / 851
+[2026-08-31 21:14:40.497] [info]  - number of projections: 1
+[2026-08-31 21:14:40.497] [info]  - number of iterations: 851
+[2026-08-31 21:14:40.497] [info] -------
+[2026-08-31 21:14:40.497] [info] Manager
+[2026-08-31 21:14:40.497] [info] -------
+[2026-08-31 21:14:40.497] [info] Starting integration at initial time 0.40 s...
+[2026-08-31 21:14:41.972] [info] Integration complete at final time 0.50 s.
+[2026-08-31 21:14:41.973] [info]  - CPU time elapsed: 1.546875 s
+[2026-08-31 21:14:41.973] [info]  - real time elapsed: 1.475065 s
+[2026-08-31 21:14:41.973] [info]  - ratio sim-to-real time: 0.339
+[2026-08-31 21:14:41.973] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:14:41.973] [info]  - number of realizations: 5989
+[2026-08-31 21:14:41.973] [info]  - number of steps taken / attempted: 753 / 1047
+[2026-08-31 21:14:41.973] [info]  - number of projections: 1
+[2026-08-31 21:14:41.973] [info]  - number of iterations: 1047
+[2026-08-31 21:14:41.973] [info] -------
+[2026-08-31 21:14:41.973] [info] Manager
+[2026-08-31 21:14:41.973] [info] -------
+[2026-08-31 21:14:41.973] [info] Starting integration at initial time 0.50 s...
+[2026-08-31 21:14:43.857] [info] Integration complete at final time 0.60 s.
+[2026-08-31 21:14:43.858] [info]  - CPU time elapsed: 1.953125 s
+[2026-08-31 21:14:43.858] [info]  - real time elapsed: 1.884221 s
+[2026-08-31 21:14:43.858] [info]  - ratio sim-to-real time: 0.318
+[2026-08-31 21:14:43.858] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:14:43.858] [info]  - number of realizations: 7387
+[2026-08-31 21:14:43.858] [info]  - number of steps taken / attempted: 921 / 1293
+[2026-08-31 21:14:43.858] [info]  - number of projections: 1
+[2026-08-31 21:14:43.858] [info]  - number of iterations: 1293
+[2026-08-31 21:14:43.858] [info] -------
+[2026-08-31 21:14:43.858] [info] Manager
+[2026-08-31 21:14:43.858] [info] -------
+[2026-08-31 21:14:43.858] [info] Starting integration at initial time 0.60 s...
+[2026-08-31 21:14:45.678] [info] Integration complete at final time 0.70 s.
+[2026-08-31 21:14:45.678] [info]  - CPU time elapsed: 1.890625 s
+[2026-08-31 21:14:45.678] [info]  - real time elapsed: 1.819376 s
+[2026-08-31 21:14:45.678] [info]  - ratio sim-to-real time: 0.385
+[2026-08-31 21:14:45.678] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:14:45.678] [info]  - number of realizations: 8747
+[2026-08-31 21:14:45.678] [info]  - number of steps taken / attempted: 1081 / 1533
+[2026-08-31 21:14:45.678] [info]  - number of projections: 1
+[2026-08-31 21:14:45.678] [info]  - number of iterations: 1533
+[2026-08-31 21:14:45.678] [info] -------
+[2026-08-31 21:14:45.678] [info] Manager
+[2026-08-31 21:14:45.679] [info] -------
+[2026-08-31 21:14:45.679] [info] Starting integration at initial time 0.70 s...
+[2026-08-31 21:14:47.350] [info] Integration complete at final time 0.80 s.
+[2026-08-31 21:14:47.350] [info]  - CPU time elapsed: 1.750000 s
+[2026-08-31 21:14:47.350] [info]  - real time elapsed: 1.671168 s
+[2026-08-31 21:14:47.350] [info]  - ratio sim-to-real time: 0.479
+[2026-08-31 21:14:47.350] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:14:47.350] [info]  - number of realizations: 10019
+[2026-08-31 21:14:47.350] [info]  - number of steps taken / attempted: 1243 / 1755
+[2026-08-31 21:14:47.350] [info]  - number of projections: 1
+[2026-08-31 21:14:47.350] [info]  - number of iterations: 1755
+[2026-08-31 21:14:47.351] [info] -------
+[2026-08-31 21:14:47.351] [info] Manager
+[2026-08-31 21:14:47.351] [info] -------
+[2026-08-31 21:14:47.351] [info] Starting integration at initial time 0.80 s...
+[2026-08-31 21:14:48.939] [info] Integration complete at final time 0.90 s.
+[2026-08-31 21:14:48.939] [info]  - CPU time elapsed: 1.578125 s
+[2026-08-31 21:14:48.939] [info]  - real time elapsed: 1.587854 s
+[2026-08-31 21:14:48.939] [info]  - ratio sim-to-real time: 0.567
+[2026-08-31 21:14:48.939] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:14:48.939] [info]  - number of realizations: 11262
+[2026-08-31 21:14:48.939] [info]  - number of steps taken / attempted: 1401 / 1972
+[2026-08-31 21:14:48.939] [info]  - number of projections: 1
+[2026-08-31 21:14:48.939] [info]  - number of iterations: 1972
+[2026-08-31 21:14:48.939] [info] -------
+[2026-08-31 21:14:48.939] [info] Manager
+[2026-08-31 21:14:48.939] [info] -------
+[2026-08-31 21:14:48.939] [info] Starting integration at initial time 0.90 s...
+[2026-08-31 21:14:50.711] [info] Integration complete at final time 1.00 s.
+[2026-08-31 21:14:50.711] [info]  - CPU time elapsed: 1.765625 s
+[2026-08-31 21:14:50.711] [info]  - real time elapsed: 1.771791 s
+[2026-08-31 21:14:50.711] [info]  - ratio sim-to-real time: 0.564
+[2026-08-31 21:14:50.711] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:14:50.711] [info]  - number of realizations: 12628
+[2026-08-31 21:14:50.711] [info]  - number of steps taken / attempted: 1577 / 2210
+[2026-08-31 21:14:50.711] [info]  - number of projections: 1
+[2026-08-31 21:14:50.711] [info]  - number of iterations: 2210
+[2026-08-31 21:14:50.712] [info] -------
+[2026-08-31 21:14:50.712] [info] Manager
+[2026-08-31 21:14:50.712] [info] -------
+[2026-08-31 21:14:50.712] [info] Starting integration at initial time 1.00 s...
+[2026-08-31 21:14:50.722] [info] Integration complete at final time 1.00 s.
+[2026-08-31 21:14:50.722] [info]  - CPU time elapsed: 0.000000 s
+[2026-08-31 21:14:50.722] [info]  - real time elapsed: 0.010292 s
+[2026-08-31 21:14:50.722] [info]  - ratio sim-to-real time: 97.160
+[2026-08-31 21:14:50.722] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:14:50.722] [info]  - number of realizations: 12634
+[2026-08-31 21:14:50.722] [info]  - number of steps taken / attempted: 1578 / 2211
+[2026-08-31 21:14:50.722] [info]  - number of projections: 1
+[2026-08-31 21:14:50.722] [info]  - number of iterations: 2211
+[2026-08-31 21:24:06.645] [warning] Coordinate.setValue:  coordinate gndpitch is locked. Unable to change its value.
+[2026-08-31 21:24:06.645] [warning] Coordinate.setValue:  coordinate gndroll is locked. Unable to change its value.
+[2026-08-31 21:24:06.645] [warning] Coordinate.setValue:  coordinate gndyaw is locked. Unable to change its value.
+[2026-08-31 21:24:06.645] [warning] Coordinate.setValue:  coordinate spine_tx is locked. Unable to change its value.
+[2026-08-31 21:24:06.645] [warning] Coordinate.setValue:  coordinate spine_ty is locked. Unable to change its value.
+[2026-08-31 21:24:06.645] [warning] Coordinate.setValue:  coordinate spine_tz is locked. Unable to change its value.
+[2026-08-31 21:24:19.590] [info] -------
+[2026-08-31 21:24:19.590] [info] Manager
+[2026-08-31 21:24:19.590] [info] -------
+[2026-08-31 21:24:19.591] [info] Starting integration at initial time 0.00 s...
+[2026-08-31 21:27:30.143] [info] Integration complete at final time 0.10 s.
+[2026-08-31 21:27:30.143] [info]  - CPU time elapsed: 193.234375 s
+[2026-08-31 21:27:30.143] [info]  - real time elapsed: 190.551029 s
+[2026-08-31 21:27:30.143] [info]  - ratio sim-to-real time: 0.001
+[2026-08-31 21:27:30.143] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:27:30.143] [info]  - number of realizations: 160336
+[2026-08-31 21:27:30.143] [info]  - number of steps taken / attempted: 21450 / 27777
+[2026-08-31 21:27:30.143] [info]  - number of projections: 1
+[2026-08-31 21:27:30.143] [info]  - number of iterations: 27777
+[2026-08-31 21:27:30.144] [info] -------
+[2026-08-31 21:27:30.144] [info] Manager
+[2026-08-31 21:27:30.144] [info] -------
+[2026-08-31 21:27:30.144] [info] Starting integration at initial time 0.10 s...
+[2026-08-31 21:29:14.173] [info] Updating Model file from 30000 to latest format...
+[2026-08-31 21:29:14.178] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:29:14.178] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:29:14.178] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:29:14.178] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:29:14.178] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:29:14.178] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:29:14.178] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:29:14.178] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:29:14.178] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:29:14.178] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:29:14.178] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:29:14.178] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:29:14.178] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:29:14.178] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:29:14.178] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:29:14.179] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:29:14.179] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:29:14.179] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:29:14.179] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:29:14.179] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:29:14.179] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:29:14.179] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:29:14.179] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:29:14.179] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:29:14.179] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:29:14.179] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:29:14.179] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:29:14.179] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:29:14.179] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:29:14.179] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:29:14.179] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:29:14.179] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:29:14.180] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:29:14.180] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:29:14.180] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:29:14.180] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:29:14.180] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:29:14.180] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:29:14.180] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:29:14.180] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:29:14.180] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:29:14.180] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:29:14.180] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:29:14.180] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:29:14.180] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:29:14.180] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:29:14.180] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:29:14.180] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:29:14.180] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:29:14.180] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:29:14.180] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:29:14.180] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:29:14.180] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:29:14.180] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:29:14.180] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:29:14.180] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:29:14.189] [info] Loaded model HYOID_Scaled from file D:\Akademik\PhD_Thesis\OpenSim\Proprioception_Plugin_Opensim4_6_Explicit\osim_files\HYOID_ScaledStrength_v1.2andEye_v1_IndependentEyes_Afferents.osim
+[2026-08-31 21:29:14.261] [info] 'ComponentSet' was renamed and is being set to 'componentset'.
+[2026-08-31 21:35:08.883] [info] -------
+[2026-08-31 21:35:08.883] [info] Manager
+[2026-08-31 21:35:08.883] [info] -------
+[2026-08-31 21:35:08.883] [info] Starting integration at initial time 0.00 s...
+[2026-08-31 21:35:15.456] [info] Integration complete at final time 0.10 s.
+[2026-08-31 21:35:15.456] [info]  - CPU time elapsed: 6.843750 s
+[2026-08-31 21:35:15.456] [info]  - real time elapsed: 6.572169 s
+[2026-08-31 21:35:15.456] [info]  - ratio sim-to-real time: 0.015
+[2026-08-31 21:35:15.456] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:35:15.456] [info]  - number of realizations: 5663
+[2026-08-31 21:35:15.456] [info]  - number of steps taken / attempted: 917 / 949
+[2026-08-31 21:35:15.456] [info]  - number of projections: 1
+[2026-08-31 21:35:15.456] [info]  - number of iterations: 949
+[2026-08-31 21:35:15.456] [info] -------
+[2026-08-31 21:35:15.456] [info] Manager
+[2026-08-31 21:35:15.456] [info] -------
+[2026-08-31 21:35:15.456] [info] Starting integration at initial time 0.10 s...
+[2026-08-31 21:35:22.190] [info] Integration complete at final time 0.20 s.
+[2026-08-31 21:35:22.190] [info]  - CPU time elapsed: 6.968750 s
+[2026-08-31 21:35:22.190] [info]  - real time elapsed: 6.733693 s
+[2026-08-31 21:35:22.190] [info]  - ratio sim-to-real time: 0.030
+[2026-08-31 21:35:22.190] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:35:22.190] [info]  - number of realizations: 11286
+[2026-08-31 21:35:22.190] [info]  - number of steps taken / attempted: 1825 / 1892
+[2026-08-31 21:35:22.190] [info]  - number of projections: 1
+[2026-08-31 21:35:22.190] [info]  - number of iterations: 1892
+[2026-08-31 21:35:22.191] [info] -------
+[2026-08-31 21:35:22.191] [info] Manager
+[2026-08-31 21:35:22.191] [info] -------
+[2026-08-31 21:35:22.191] [info] Starting integration at initial time 0.20 s...
+[2026-08-31 21:35:30.861] [info] Integration complete at final time 0.30 s.
+[2026-08-31 21:35:30.861] [info]  - CPU time elapsed: 9.187500 s
+[2026-08-31 21:35:30.861] [info]  - real time elapsed: 8.669939 s
+[2026-08-31 21:35:30.861] [info]  - ratio sim-to-real time: 0.035
+[2026-08-31 21:35:30.861] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:35:30.861] [info]  - number of realizations: 18298
+[2026-08-31 21:35:30.861] [info]  - number of steps taken / attempted: 2992 / 3061
+[2026-08-31 21:35:30.861] [info]  - number of projections: 1
+[2026-08-31 21:35:30.861] [info]  - number of iterations: 3061
+[2026-08-31 21:35:30.862] [info] -------
+[2026-08-31 21:35:30.862] [info] Manager
+[2026-08-31 21:35:30.862] [info] -------
+[2026-08-31 21:35:30.862] [info] Starting integration at initial time 0.30 s...
+[2026-08-31 21:35:39.601] [info] Integration complete at final time 0.40 s.
+[2026-08-31 21:35:39.601] [info]  - CPU time elapsed: 9.156250 s
+[2026-08-31 21:35:39.601] [info]  - real time elapsed: 8.739161 s
+[2026-08-31 21:35:39.601] [info]  - ratio sim-to-real time: 0.046
+[2026-08-31 21:35:39.601] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:35:39.601] [info]  - number of realizations: 25196
+[2026-08-31 21:35:39.601] [info]  - number of steps taken / attempted: 4140 / 4211
+[2026-08-31 21:35:39.601] [info]  - number of projections: 1
+[2026-08-31 21:35:39.601] [info]  - number of iterations: 4211
+[2026-08-31 21:35:39.601] [info] -------
+[2026-08-31 21:35:39.602] [info] Manager
+[2026-08-31 21:35:39.602] [info] -------
+[2026-08-31 21:35:39.602] [info] Starting integration at initial time 0.40 s...
+[2026-08-31 21:35:48.676] [info] Integration complete at final time 0.50 s.
+[2026-08-31 21:35:48.676] [info]  - CPU time elapsed: 9.734375 s
+[2026-08-31 21:35:48.676] [info]  - real time elapsed: 9.074010 s
+[2026-08-31 21:35:48.676] [info]  - ratio sim-to-real time: 0.055
+[2026-08-31 21:35:48.676] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:35:48.676] [info]  - number of realizations: 32198
+[2026-08-31 21:35:48.676] [info]  - number of steps taken / attempted: 5307 / 5378
+[2026-08-31 21:35:48.676] [info]  - number of projections: 1
+[2026-08-31 21:35:48.676] [info]  - number of iterations: 5378
+[2026-08-31 21:35:48.677] [info] -------
+[2026-08-31 21:35:48.677] [info] Manager
+[2026-08-31 21:35:48.677] [info] -------
+[2026-08-31 21:35:48.677] [info] Starting integration at initial time 0.50 s...
+[2026-08-31 21:35:57.464] [info] Integration complete at final time 0.60 s.
+[2026-08-31 21:35:57.464] [info]  - CPU time elapsed: 9.312500 s
+[2026-08-31 21:35:57.464] [info]  - real time elapsed: 8.786997 s
+[2026-08-31 21:35:57.464] [info]  - ratio sim-to-real time: 0.068
+[2026-08-31 21:35:57.464] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:35:57.464] [info]  - number of realizations: 39200
+[2026-08-31 21:35:57.464] [info]  - number of steps taken / attempted: 6474 / 6545
+[2026-08-31 21:35:57.464] [info]  - number of projections: 1
+[2026-08-31 21:35:57.464] [info]  - number of iterations: 6545
+[2026-08-31 21:35:57.465] [info] -------
+[2026-08-31 21:35:57.465] [info] Manager
+[2026-08-31 21:35:57.465] [info] -------
+[2026-08-31 21:35:57.465] [info] Starting integration at initial time 0.60 s...
+[2026-08-31 21:36:05.930] [info] Integration complete at final time 0.70 s.
+[2026-08-31 21:36:05.930] [info]  - CPU time elapsed: 9.125000 s
+[2026-08-31 21:36:05.930] [info]  - real time elapsed: 8.465002 s
+[2026-08-31 21:36:05.930] [info]  - ratio sim-to-real time: 0.083
+[2026-08-31 21:36:05.930] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:36:05.930] [info]  - number of realizations: 46202
+[2026-08-31 21:36:05.930] [info]  - number of steps taken / attempted: 7641 / 7712
+[2026-08-31 21:36:05.930] [info]  - number of projections: 1
+[2026-08-31 21:36:05.930] [info]  - number of iterations: 7712
+[2026-08-31 21:36:05.931] [info] -------
+[2026-08-31 21:36:05.931] [info] Manager
+[2026-08-31 21:36:05.931] [info] -------
+[2026-08-31 21:36:05.931] [info] Starting integration at initial time 0.70 s...
+[2026-08-31 21:36:14.519] [info] Integration complete at final time 0.80 s.
+[2026-08-31 21:36:14.519] [info]  - CPU time elapsed: 9.062500 s
+[2026-08-31 21:36:14.519] [info]  - real time elapsed: 8.588020 s
+[2026-08-31 21:36:14.519] [info]  - ratio sim-to-real time: 0.093
+[2026-08-31 21:36:14.519] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:36:14.519] [info]  - number of realizations: 53204
+[2026-08-31 21:36:14.519] [info]  - number of steps taken / attempted: 8808 / 8879
+[2026-08-31 21:36:14.519] [info]  - number of projections: 1
+[2026-08-31 21:36:14.519] [info]  - number of iterations: 8879
+[2026-08-31 21:36:14.520] [info] -------
+[2026-08-31 21:36:14.520] [info] Manager
+[2026-08-31 21:36:14.520] [info] -------
+[2026-08-31 21:36:14.520] [info] Starting integration at initial time 0.80 s...
+[2026-08-31 21:36:23.150] [info] Integration complete at final time 0.90 s.
+[2026-08-31 21:36:23.151] [info]  - CPU time elapsed: 9.015625 s
+[2026-08-31 21:36:23.151] [info]  - real time elapsed: 8.630746 s
+[2026-08-31 21:36:23.151] [info]  - ratio sim-to-real time: 0.104
+[2026-08-31 21:36:23.151] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:36:23.151] [info]  - number of realizations: 60206
+[2026-08-31 21:36:23.151] [info]  - number of steps taken / attempted: 9975 / 10046
+[2026-08-31 21:36:23.151] [info]  - number of projections: 1
+[2026-08-31 21:36:23.151] [info]  - number of iterations: 10046
+[2026-08-31 21:36:23.151] [info] -------
+[2026-08-31 21:36:23.151] [info] Manager
+[2026-08-31 21:36:23.151] [info] -------
+[2026-08-31 21:36:23.151] [info] Starting integration at initial time 0.90 s...
+[2026-08-31 21:36:31.678] [info] Integration complete at final time 1.00 s.
+[2026-08-31 21:36:31.678] [info]  - CPU time elapsed: 8.984375 s
+[2026-08-31 21:36:31.678] [info]  - real time elapsed: 8.526877 s
+[2026-08-31 21:36:31.678] [info]  - ratio sim-to-real time: 0.117
+[2026-08-31 21:36:31.678] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:36:31.678] [info]  - number of realizations: 67208
+[2026-08-31 21:36:31.678] [info]  - number of steps taken / attempted: 11142 / 11213
+[2026-08-31 21:36:31.678] [info]  - number of projections: 1
+[2026-08-31 21:36:31.678] [info]  - number of iterations: 11213
+[2026-08-31 21:36:31.679] [info] -------
+[2026-08-31 21:36:31.679] [info] Manager
+[2026-08-31 21:36:31.679] [info] -------
+[2026-08-31 21:36:31.679] [info] Starting integration at initial time 1.00 s...
+[2026-08-31 21:36:31.703] [info] Integration complete at final time 1.00 s.
+[2026-08-31 21:36:31.704] [info]  - CPU time elapsed: 0.031250 s
+[2026-08-31 21:36:31.704] [info]  - real time elapsed: 0.024595 s
+[2026-08-31 21:36:31.704] [info]  - ratio sim-to-real time: 40.658
+[2026-08-31 21:36:31.704] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:36:31.704] [info]  - number of realizations: 67214
+[2026-08-31 21:36:31.704] [info]  - number of steps taken / attempted: 11143 / 11214
+[2026-08-31 21:36:31.704] [info]  - number of projections: 1
+[2026-08-31 21:36:31.704] [info]  - number of iterations: 11214
+[2026-08-31 21:48:26.182] [info] -------
+[2026-08-31 21:48:26.182] [info] Manager
+[2026-08-31 21:48:26.182] [info] -------
+[2026-08-31 21:48:26.182] [info] Starting integration at initial time 0.00 s...
+[2026-08-31 21:49:51.272] [info] Integration complete at final time 1.00 s.
+[2026-08-31 21:49:51.273] [info]  - CPU time elapsed: 86.062500 s
+[2026-08-31 21:49:51.273] [info]  - real time elapsed: 85.089676 s
+[2026-08-31 21:49:51.273] [info]  - ratio sim-to-real time: 0.012
+[2026-08-31 21:49:51.273] [info]  - integrator method: RungeKuttaFeldberg
+[2026-08-31 21:49:51.273] [info]  - number of realizations: 67249
+[2026-08-31 21:49:51.273] [info]  - number of steps taken / attempted: 11158 / 11218
+[2026-08-31 21:49:51.273] [info]  - number of projections: 1
+[2026-08-31 21:49:51.273] [info]  - number of iterations: 11218
+[2026-08-31 21:57:27.561] [warning] Running tool HYOID_Scaled...
+[2026-08-31 21:57:27.561] [info] No external loads will be applied (external loads file not specified).
+[2026-08-31 21:57:27.573] [cout] [info] MODEL: HYOID_Scaled
+
+numStates = 572
+numCoordinates = 36
+numSpeeds = 36
+numActuators = 86
+numBodies = 17
+numConstraints = 18
+numProbes = 0
+
+ANALYSES (total: 2)
+analysis[0] = Un-named analysis.
+analysis[1] = Un-named analysis.
+
+BODIES (total: 17)
+body[0] = spine. mass: 70
+              moments of inertia:  ~[1,1,1]
+              products of inertia: ~[0,0,0]
+body[1] = rscapula. mass: 1
+              moments of inertia:  ~[1,1,0.5]
+              products of inertia: ~[0,0,0]
+body[2] = rclavicle. mass: 1
+              moments of inertia:  ~[1,1,0.5]
+              products of inertia: ~[0,0,0]
+body[3] = lscapula. mass: 1
+              moments of inertia:  ~[1,1,0.5]
+              products of inertia: ~[0,0,0]
+body[4] = lclavicle. mass: 1
+              moments of inertia:  ~[1,1,0.5]
+              products of inertia: ~[0,0,0]
+body[5] = ribcage. mass: 1
+              moments of inertia:  ~[1,1,0.75]
+              products of inertia: ~[0,0,0]
+body[6] = cerv7. mass: 0.584085
+              moments of inertia:  ~[0.02,0.08,0.02]
+              products of inertia: ~[0,0,0]
+body[7] = cerv6. mass: 0.507749
+              moments of inertia:  ~[0.02,0.08,0.02]
+              products of inertia: ~[0,0,0]
+body[8] = cerv5. mass: 0.4291
+              moments of inertia:  ~[0.02,0.08,0.02]
+              products of inertia: ~[0,0,0]
+body[9] = cerv4. mass: 0.423317
+              moments of inertia:  ~[0.02,0.08,0.02]
+              products of inertia: ~[0,0,0]
+body[10] = cerv3. mass: 0.419847
+              moments of inertia:  ~[0.02,0.08,0.02]
+              products of inertia: ~[0,0,0]
+body[11] = cerv2. mass: 0.587554
+              moments of inertia:  ~[0.02,0.08,0.02]
+              products of inertia: ~[0,0,0]
+body[12] = cerv1. mass: 0.467268
+              moments of inertia:  ~[0.02,0.08,0.02]
+              products of inertia: ~[0,0,0]
+body[13] = skull. mass: 4.3
+              moments of inertia:  ~[0.02073,0.015,0.022605]
+              products of inertia: ~[0,0,0]
+body[14] = jaw. mass: 0
+              moments of inertia:  ~[0,0,0]
+              products of inertia: ~[0,0,0]
+body[15] = r_eye. mass: 0.0075
+              moments of inertia:  ~[4.32e-07,4.32e-07,4.32e-07]
+              products of inertia: ~[0,0,0]
+body[16] = l_eye. mass: 0.0075
+              moments of inertia:  ~[4.32e-07,4.32e-07,4.32e-07]
+              products of inertia: ~[0,0,0]
+
+JOINTS (total: 17)
+joint[0] = spine. parent: ground_offset, child: spine_offset
+joint[1] = rscapulajnt. parent: spine_offset, child: rscapula_offset
+joint[2] = rclaviclejnt. parent: spine_offset, child: rclavicle_offset
+joint[3] = lscapulajnt. parent: spine_offset, child: lscapula_offset
+joint[4] = lclaviclejnt. parent: spine_offset, child: lclavicle_offset
+joint[5] = ribcagejnt. parent: spine_offset, child: ribcage_offset
+joint[6] = auxt1jnt. parent: spine_offset, child: cerv7_offset
+joint[7] = aux7jnt. parent: cerv7_offset, child: cerv6_offset
+joint[8] = aux6jnt. parent: cerv6_offset, child: cerv5_offset
+joint[9] = aux5jnt. parent: cerv5_offset, child: cerv4_offset
+joint[10] = aux4jnt. parent: cerv4_offset, child: cerv3_offset
+joint[11] = aux3jnt. parent: cerv3_offset, child: cerv2_offset
+joint[12] = aux2jnt. parent: cerv2_offset, child: cerv1_offset
+joint[13] = aux1jnt. parent: cerv1_offset, child: skull_offset
+joint[14] = jawjnt. parent: skull_offset, child: jaw_offset
+joint[15] = Right_Eye_Joint. parent: skull_offset, child: r_eye_offset
+joint[16] = Left_Eye_Joint. parent: skull_offset, child: l_eye_offset
+
+ACTUATORS (total: 86)
+actuator[0] = Skull_Impact
+actuator[1] = Skull_Moment
+actuator[2] = digastric_post
+actuator[3] = digastric_ant
+actuator[4] = Geniohyoid
+actuator[5] = Mylohyoid_Post
+actuator[6] = Mylohyoid_Ant
+actuator[7] = Stylohyoid_Lat
+actuator[8] = Stylohyoid_Med
+actuator[9] = Sterno_hyoid
+actuator[10] = SternoThyroid
+actuator[11] = Omo_hyoid
+actuator[12] = digastric_post_L
+actuator[13] = digastric_ant_L
+actuator[14] = Geniohyoid_L
+actuator[15] = Mylohyoid_Post_L
+actuator[16] = Mylohyoid_Ant_L
+actuator[17] = Stylohyoid_Lat_L
+actuator[18] = Stylohyoid_Med_L
+actuator[19] = Sterno_hyoid_L
+actuator[20] = SternoThyroid_L
+actuator[21] = Omo_hyoid_L
+actuator[22] = stern_mast
+actuator[23] = stern_mast_L
+actuator[24] = cleid_mast
+actuator[25] = cleid_mast_L
+actuator[26] = cleid_occ
+actuator[27] = cleid_occ_L
+actuator[28] = scalenus_ant
+actuator[29] = scalenus_ant_L
+actuator[30] = scalenus_med
+actuator[31] = scalenus_med_L
+actuator[32] = scalenus_post
+actuator[33] = scalenus_post_L
+actuator[34] = long_cap_sklc4
+actuator[35] = long_cap_sklc4_L
+actuator[36] = long_col_c1thx
+actuator[37] = long_col_c1thx_L
+actuator[38] = long_col_c1c5
+actuator[39] = long_col_c1c5_L
+actuator[40] = long_col_c5thx
+actuator[41] = long_col_c5thx_L
+actuator[42] = trap_cl
+actuator[43] = trap_cl_L
+actuator[44] = trap_acr
+actuator[45] = trap_acr_L
+actuator[46] = splen_cap_sklc6
+actuator[47] = splen_cap_sklc6_L
+actuator[48] = splen_cap_sklthx
+actuator[49] = splen_cap_sklthx_L
+actuator[50] = splen_cerv_c3thx
+actuator[51] = splen_cerv_c3thx_L
+actuator[52] = semi_cap_sklc5
+actuator[53] = semi_cap_sklc5_L
+actuator[54] = semi_cap_sklthx
+actuator[55] = semi_cap_sklthx_L
+actuator[56] = semi_cerv_c3thx
+actuator[57] = semi_cerv_c3thx_L
+actuator[58] = levator_scap
+actuator[59] = levator_scap_L
+actuator[60] = longissi_cap_sklc6
+actuator[61] = longissi_cap_sklc6_L
+actuator[62] = longissi_cerv_c4thx
+actuator[63] = longissi_cerv_c4thx_L
+actuator[64] = iliocost_cerv_c5rib
+actuator[65] = iliocost_cerv_c5rib_L
+actuator[66] = rectcap_post_maj
+actuator[67] = rectcap_post_maj_L
+actuator[68] = rectcap_post_min
+actuator[69] = rectcap_post_min_L
+actuator[70] = obl_cap_sup
+actuator[71] = obl_cap_sup_L
+actuator[72] = obl_cap_inf
+actuator[73] = obl_cap_inf_L
+actuator[74] = r_Lateral_Rectus
+actuator[75] = r_Medial_Rectus
+actuator[76] = r_Superior_Rectus
+actuator[77] = r_Inferior_Rectus
+actuator[78] = r_Superior_Oblique
+actuator[79] = r_Inferior_Oblique
+actuator[80] = l_Lateral_Rectus
+actuator[81] = l_Medial_Rectus
+actuator[82] = l_Superior_Rectus
+actuator[83] = l_Inferior_Rectus
+actuator[84] = l_Superior_Oblique
+actuator[85] = l_Inferior_Oblique
+
+STATES (total: 572)
+y[0] = /jointset/spine/gndpitch/value
+y[1] = /jointset/spine/gndpitch/speed
+y[2] = /jointset/spine/gndroll/value
+y[3] = /jointset/spine/gndroll/speed
+y[4] = /jointset/spine/gndyaw/value
+y[5] = /jointset/spine/gndyaw/speed
+y[6] = /jointset/spine/spine_tx/value
+y[7] = /jointset/spine/spine_tx/speed
+y[8] = /jointset/spine/spine_ty/value
+y[9] = /jointset/spine/spine_ty/speed
+y[10] = /jointset/spine/spine_tz/value
+y[11] = /jointset/spine/spine_tz/speed
+y[12] = /jointset/auxt1jnt/pitch2/value
+y[13] = /jointset/auxt1jnt/pitch2/speed
+y[14] = /jointset/auxt1jnt/roll2/value
+y[15] = /jointset/auxt1jnt/roll2/speed
+y[16] = /jointset/auxt1jnt/yaw2/value
+y[17] = /jointset/auxt1jnt/yaw2/speed
+y[18] = /jointset/aux7jnt/aux7jnt_r3/value
+y[19] = /jointset/aux7jnt/aux7jnt_r3/speed
+y[20] = /jointset/aux7jnt/aux7jnt_r1/value
+y[21] = /jointset/aux7jnt/aux7jnt_r1/speed
+y[22] = /jointset/aux7jnt/aux7jnt_r2/value
+y[23] = /jointset/aux7jnt/aux7jnt_r2/speed
+y[24] = /jointset/aux6jnt/aux6jnt_r3/value
+y[25] = /jointset/aux6jnt/aux6jnt_r3/speed
+y[26] = /jointset/aux6jnt/aux6jnt_r1/value
+y[27] = /jointset/aux6jnt/aux6jnt_r1/speed
+y[28] = /jointset/aux6jnt/aux6jnt_r2/value
+y[29] = /jointset/aux6jnt/aux6jnt_r2/speed
+y[30] = /jointset/aux5jnt/aux5jnt_r3/value
+y[31] = /jointset/aux5jnt/aux5jnt_r3/speed
+y[32] = /jointset/aux5jnt/aux5jnt_r1/value
+y[33] = /jointset/aux5jnt/aux5jnt_r1/speed
+y[34] = /jointset/aux5jnt/aux5jnt_r2/value
+y[35] = /jointset/aux5jnt/aux5jnt_r2/speed
+y[36] = /jointset/aux4jnt/aux4jnt_r3/value
+y[37] = /jointset/aux4jnt/aux4jnt_r3/speed
+y[38] = /jointset/aux4jnt/aux4jnt_r1/value
+y[39] = /jointset/aux4jnt/aux4jnt_r1/speed
+y[40] = /jointset/aux4jnt/aux4jnt_r2/value
+y[41] = /jointset/aux4jnt/aux4jnt_r2/speed
+y[42] = /jointset/aux3jnt/aux3jnt_r3/value
+y[43] = /jointset/aux3jnt/aux3jnt_r3/speed
+y[44] = /jointset/aux3jnt/aux3jnt_r1/value
+y[45] = /jointset/aux3jnt/aux3jnt_r1/speed
+y[46] = /jointset/aux3jnt/aux3jnt_r2/value
+y[47] = /jointset/aux3jnt/aux3jnt_r2/speed
+y[48] = /jointset/aux2jnt/pitch1/value
+y[49] = /jointset/aux2jnt/pitch1/speed
+y[50] = /jointset/aux2jnt/roll1/value
+y[51] = /jointset/aux2jnt/roll1/speed
+y[52] = /jointset/aux2jnt/yaw1/value
+y[53] = /jointset/aux2jnt/yaw1/speed
+y[54] = /jointset/aux1jnt/aux1jnt_r3/value
+y[55] = /jointset/aux1jnt/aux1jnt_r3/speed
+y[56] = /jointset/aux1jnt/aux1jnt_r1/value
+y[57] = /jointset/aux1jnt/aux1jnt_r1/speed
+y[58] = /jointset/aux1jnt/aux1jnt_r2/value
+y[59] = /jointset/aux1jnt/aux1jnt_r2/speed
+y[60] = /jointset/Right_Eye_Joint/r_eye_add_abd/value
+y[61] = /jointset/Right_Eye_Joint/r_eye_add_abd/speed
+y[62] = /jointset/Right_Eye_Joint/r_eye_sup_inf/value
+y[63] = /jointset/Right_Eye_Joint/r_eye_sup_inf/speed
+y[64] = /jointset/Right_Eye_Joint/r_eye_inc_exc/value
+y[65] = /jointset/Right_Eye_Joint/r_eye_inc_exc/speed
+y[66] = /jointset/Left_Eye_Joint/l_eye_add_abd/value
+y[67] = /jointset/Left_Eye_Joint/l_eye_add_abd/speed
+y[68] = /jointset/Left_Eye_Joint/l_eye_sup_inf/value
+y[69] = /jointset/Left_Eye_Joint/l_eye_sup_inf/speed
+y[70] = /jointset/Left_Eye_Joint/l_eye_inc_exc/value
+y[71] = /jointset/Left_Eye_Joint/l_eye_inc_exc/speed
+y[72] = /forceset/digastric_post/activation
+y[73] = /forceset/digastric_post/fiber_length
+y[74] = /forceset/digastric_ant/activation
+y[75] = /forceset/digastric_ant/fiber_length
+y[76] = /forceset/Geniohyoid/activation
+y[77] = /forceset/Geniohyoid/fiber_length
+y[78] = /forceset/Mylohyoid_Post/activation
+y[79] = /forceset/Mylohyoid_Post/fiber_length
+y[80] = /forceset/Mylohyoid_Ant/activation
+y[81] = /forceset/Mylohyoid_Ant/fiber_length
+y[82] = /forceset/Stylohyoid_Lat/activation
+y[83] = /forceset/Stylohyoid_Lat/fiber_length
+y[84] = /forceset/Stylohyoid_Med/activation
+y[85] = /forceset/Stylohyoid_Med/fiber_length
+y[86] = /forceset/Sterno_hyoid/activation
+y[87] = /forceset/Sterno_hyoid/fiber_length
+y[88] = /forceset/SternoThyroid/activation
+y[89] = /forceset/SternoThyroid/fiber_length
+y[90] = /forceset/Omo_hyoid/activation
+y[91] = /forceset/Omo_hyoid/fiber_length
+y[92] = /forceset/digastric_post_L/activation
+y[93] = /forceset/digastric_post_L/fiber_length
+y[94] = /forceset/digastric_ant_L/activation
+y[95] = /forceset/digastric_ant_L/fiber_length
+y[96] = /forceset/Geniohyoid_L/activation
+y[97] = /forceset/Geniohyoid_L/fiber_length
+y[98] = /forceset/Mylohyoid_Post_L/activation
+y[99] = /forceset/Mylohyoid_Post_L/fiber_length
+y[100] = /forceset/Mylohyoid_Ant_L/activation
+y[101] = /forceset/Mylohyoid_Ant_L/fiber_length
+y[102] = /forceset/Stylohyoid_Lat_L/activation
+y[103] = /forceset/Stylohyoid_Lat_L/fiber_length
+y[104] = /forceset/Stylohyoid_Med_L/activation
+y[105] = /forceset/Stylohyoid_Med_L/fiber_length
+y[106] = /forceset/Sterno_hyoid_L/activation
+y[107] = /forceset/Sterno_hyoid_L/fiber_length
+y[108] = /forceset/SternoThyroid_L/activation
+y[109] = /forceset/SternoThyroid_L/fiber_length
+y[110] = /forceset/Omo_hyoid_L/activation
+y[111] = /forceset/Omo_hyoid_L/fiber_length
+y[112] = /forceset/stern_mast/activation
+y[113] = /forceset/stern_mast/fiber_length
+y[114] = /forceset/stern_mast/LPF_velocity
+y[115] = /forceset/stern_mast/LPF_acceleration
+y[116] = /forceset/stern_mast/spindle/dynamic_activation
+y[117] = /forceset/stern_mast/spindle/static_activation
+y[118] = /forceset/stern_mast/spindle/tension_bag1
+y[119] = /forceset/stern_mast/spindle/tension_bag2
+y[120] = /forceset/stern_mast/spindle/tension_chain
+y[121] = /forceset/stern_mast/spindle/tension_bag1_deriv
+y[122] = /forceset/stern_mast/spindle/tension_bag2_deriv
+y[123] = /forceset/stern_mast/spindle/tension_chain_deriv
+y[124] = /forceset/stern_mast/GTO/nonlinear
+y[125] = /forceset/stern_mast/GTO/nonlinear_deriv
+y[126] = /forceset/stern_mast/GTO/filter_out
+y[127] = /forceset/stern_mast/GTO/filter_out_deriv
+y[128] = /forceset/stern_mast_L/activation
+y[129] = /forceset/stern_mast_L/fiber_length
+y[130] = /forceset/stern_mast_L/LPF_velocity
+y[131] = /forceset/stern_mast_L/LPF_acceleration
+y[132] = /forceset/stern_mast_L/spindle/dynamic_activation
+y[133] = /forceset/stern_mast_L/spindle/static_activation
+y[134] = /forceset/stern_mast_L/spindle/tension_bag1
+y[135] = /forceset/stern_mast_L/spindle/tension_bag2
+y[136] = /forceset/stern_mast_L/spindle/tension_chain
+y[137] = /forceset/stern_mast_L/spindle/tension_bag1_deriv
+y[138] = /forceset/stern_mast_L/spindle/tension_bag2_deriv
+y[139] = /forceset/stern_mast_L/spindle/tension_chain_deriv
+y[140] = /forceset/stern_mast_L/GTO/nonlinear
+y[141] = /forceset/stern_mast_L/GTO/nonlinear_deriv
+y[142] = /forceset/stern_mast_L/GTO/filter_out
+y[143] = /forceset/stern_mast_L/GTO/filter_out_deriv
+y[144] = /forceset/cleid_mast/activation
+y[145] = /forceset/cleid_mast/fiber_length
+y[146] = /forceset/cleid_mast_L/activation
+y[147] = /forceset/cleid_mast_L/fiber_length
+y[148] = /forceset/cleid_occ/activation
+y[149] = /forceset/cleid_occ/fiber_length
+y[150] = /forceset/cleid_occ_L/activation
+y[151] = /forceset/cleid_occ_L/fiber_length
+y[152] = /forceset/scalenus_ant/activation
+y[153] = /forceset/scalenus_ant/fiber_length
+y[154] = /forceset/scalenus_ant_L/activation
+y[155] = /forceset/scalenus_ant_L/fiber_length
+y[156] = /forceset/scalenus_med/activation
+y[157] = /forceset/scalenus_med/fiber_length
+y[158] = /forceset/scalenus_med_L/activation
+y[159] = /forceset/scalenus_med_L/fiber_length
+y[160] = /forceset/scalenus_post/activation
+y[161] = /forceset/scalenus_post/fiber_length
+y[162] = /forceset/scalenus_post_L/activation
+y[163] = /forceset/scalenus_post_L/fiber_length
+y[164] = /forceset/long_cap_sklc4/activation
+y[165] = /forceset/long_cap_sklc4/fiber_length
+y[166] = /forceset/long_cap_sklc4_L/activation
+y[167] = /forceset/long_cap_sklc4_L/fiber_length
+y[168] = /forceset/long_col_c1thx/activation
+y[169] = /forceset/long_col_c1thx/fiber_length
+y[170] = /forceset/long_col_c1thx_L/activation
+y[171] = /forceset/long_col_c1thx_L/fiber_length
+y[172] = /forceset/long_col_c1c5/activation
+y[173] = /forceset/long_col_c1c5/fiber_length
+y[174] = /forceset/long_col_c1c5_L/activation
+y[175] = /forceset/long_col_c1c5_L/fiber_length
+y[176] = /forceset/long_col_c5thx/activation
+y[177] = /forceset/long_col_c5thx/fiber_length
+y[178] = /forceset/long_col_c5thx_L/activation
+y[179] = /forceset/long_col_c5thx_L/fiber_length
+y[180] = /forceset/trap_cl/activation
+y[181] = /forceset/trap_cl/fiber_length
+y[182] = /forceset/trap_cl_L/activation
+y[183] = /forceset/trap_cl_L/fiber_length
+y[184] = /forceset/trap_acr/activation
+y[185] = /forceset/trap_acr/fiber_length
+y[186] = /forceset/trap_acr_L/activation
+y[187] = /forceset/trap_acr_L/fiber_length
+y[188] = /forceset/splen_cap_sklc6/activation
+y[189] = /forceset/splen_cap_sklc6/fiber_length
+y[190] = /forceset/splen_cap_sklc6/LPF_velocity
+y[191] = /forceset/splen_cap_sklc6/LPF_acceleration
+y[192] = /forceset/splen_cap_sklc6/spindle/dynamic_activation
+y[193] = /forceset/splen_cap_sklc6/spindle/static_activation
+y[194] = /forceset/splen_cap_sklc6/spindle/tension_bag1
+y[195] = /forceset/splen_cap_sklc6/spindle/tension_bag2
+y[196] = /forceset/splen_cap_sklc6/spindle/tension_chain
+y[197] = /forceset/splen_cap_sklc6/spindle/tension_bag1_deriv
+y[198] = /forceset/splen_cap_sklc6/spindle/tension_bag2_deriv
+y[199] = /forceset/splen_cap_sklc6/spindle/tension_chain_deriv
+y[200] = /forceset/splen_cap_sklc6/GTO/nonlinear
+y[201] = /forceset/splen_cap_sklc6/GTO/nonlinear_deriv
+y[202] = /forceset/splen_cap_sklc6/GTO/filter_out
+y[203] = /forceset/splen_cap_sklc6/GTO/filter_out_deriv
+y[204] = /forceset/splen_cap_sklc6_L/activation
+y[205] = /forceset/splen_cap_sklc6_L/fiber_length
+y[206] = /forceset/splen_cap_sklc6_L/LPF_velocity
+y[207] = /forceset/splen_cap_sklc6_L/LPF_acceleration
+y[208] = /forceset/splen_cap_sklc6_L/spindle/dynamic_activation
+y[209] = /forceset/splen_cap_sklc6_L/spindle/static_activation
+y[210] = /forceset/splen_cap_sklc6_L/spindle/tension_bag1
+y[211] = /forceset/splen_cap_sklc6_L/spindle/tension_bag2
+y[212] = /forceset/splen_cap_sklc6_L/spindle/tension_chain
+y[213] = /forceset/splen_cap_sklc6_L/spindle/tension_bag1_deriv
+y[214] = /forceset/splen_cap_sklc6_L/spindle/tension_bag2_deriv
+y[215] = /forceset/splen_cap_sklc6_L/spindle/tension_chain_deriv
+y[216] = /forceset/splen_cap_sklc6_L/GTO/nonlinear
+y[217] = /forceset/splen_cap_sklc6_L/GTO/nonlinear_deriv
+y[218] = /forceset/splen_cap_sklc6_L/GTO/filter_out
+y[219] = /forceset/splen_cap_sklc6_L/GTO/filter_out_deriv
+y[220] = /forceset/splen_cap_sklthx/activation
+y[221] = /forceset/splen_cap_sklthx/fiber_length
+y[222] = /forceset/splen_cap_sklthx_L/activation
+y[223] = /forceset/splen_cap_sklthx_L/fiber_length
+y[224] = /forceset/splen_cerv_c3thx/activation
+y[225] = /forceset/splen_cerv_c3thx/fiber_length
+y[226] = /forceset/splen_cerv_c3thx_L/activation
+y[227] = /forceset/splen_cerv_c3thx_L/fiber_length
+y[228] = /forceset/semi_cap_sklc5/activation
+y[229] = /forceset/semi_cap_sklc5/fiber_length
+y[230] = /forceset/semi_cap_sklc5/LPF_velocity
+y[231] = /forceset/semi_cap_sklc5/LPF_acceleration
+y[232] = /forceset/semi_cap_sklc5/spindle/dynamic_activation
+y[233] = /forceset/semi_cap_sklc5/spindle/static_activation
+y[234] = /forceset/semi_cap_sklc5/spindle/tension_bag1
+y[235] = /forceset/semi_cap_sklc5/spindle/tension_bag2
+y[236] = /forceset/semi_cap_sklc5/spindle/tension_chain
+y[237] = /forceset/semi_cap_sklc5/spindle/tension_bag1_deriv
+y[238] = /forceset/semi_cap_sklc5/spindle/tension_bag2_deriv
+y[239] = /forceset/semi_cap_sklc5/spindle/tension_chain_deriv
+y[240] = /forceset/semi_cap_sklc5/GTO/nonlinear
+y[241] = /forceset/semi_cap_sklc5/GTO/nonlinear_deriv
+y[242] = /forceset/semi_cap_sklc5/GTO/filter_out
+y[243] = /forceset/semi_cap_sklc5/GTO/filter_out_deriv
+y[244] = /forceset/semi_cap_sklc5_L/activation
+y[245] = /forceset/semi_cap_sklc5_L/fiber_length
+y[246] = /forceset/semi_cap_sklc5_L/LPF_velocity
+y[247] = /forceset/semi_cap_sklc5_L/LPF_acceleration
+y[248] = /forceset/semi_cap_sklc5_L/spindle/dynamic_activation
+y[249] = /forceset/semi_cap_sklc5_L/spindle/static_activation
+y[250] = /forceset/semi_cap_sklc5_L/spindle/tension_bag1
+y[251] = /forceset/semi_cap_sklc5_L/spindle/tension_bag2
+y[252] = /forceset/semi_cap_sklc5_L/spindle/tension_chain
+y[253] = /forceset/semi_cap_sklc5_L/spindle/tension_bag1_deriv
+y[254] = /forceset/semi_cap_sklc5_L/spindle/tension_bag2_deriv
+y[255] = /forceset/semi_cap_sklc5_L/spindle/tension_chain_deriv
+y[256] = /forceset/semi_cap_sklc5_L/GTO/nonlinear
+y[257] = /forceset/semi_cap_sklc5_L/GTO/nonlinear_deriv
+y[258] = /forceset/semi_cap_sklc5_L/GTO/filter_out
+y[259] = /forceset/semi_cap_sklc5_L/GTO/filter_out_deriv
+y[260] = /forceset/semi_cap_sklthx/activation
+y[261] = /forceset/semi_cap_sklthx/fiber_length
+y[262] = /forceset/semi_cap_sklthx_L/activation
+y[263] = /forceset/semi_cap_sklthx_L/fiber_length
+y[264] = /forceset/semi_cerv_c3thx/activation
+y[265] = /forceset/semi_cerv_c3thx/fiber_length
+y[266] = /forceset/semi_cerv_c3thx_L/activation
+y[267] = /forceset/semi_cerv_c3thx_L/fiber_length
+y[268] = /forceset/levator_scap/activation
+y[269] = /forceset/levator_scap/fiber_length
+y[270] = /forceset/levator_scap/LPF_velocity
+y[271] = /forceset/levator_scap/LPF_acceleration
+y[272] = /forceset/levator_scap/spindle/dynamic_activation
+y[273] = /forceset/levator_scap/spindle/static_activation
+y[274] = /forceset/levator_scap/spindle/tension_bag1
+y[275] = /forceset/levator_scap/spindle/tension_bag2
+y[276] = /forceset/levator_scap/spindle/tension_chain
+y[277] = /forceset/levator_scap/spindle/tension_bag1_deriv
+y[278] = /forceset/levator_scap/spindle/tension_bag2_deriv
+y[279] = /forceset/levator_scap/spindle/tension_chain_deriv
+y[280] = /forceset/levator_scap/GTO/nonlinear
+y[281] = /forceset/levator_scap/GTO/nonlinear_deriv
+y[282] = /forceset/levator_scap/GTO/filter_out
+y[283] = /forceset/levator_scap/GTO/filter_out_deriv
+y[284] = /forceset/levator_scap_L/activation
+y[285] = /forceset/levator_scap_L/fiber_length
+y[286] = /forceset/levator_scap_L/LPF_velocity
+y[287] = /forceset/levator_scap_L/LPF_acceleration
+y[288] = /forceset/levator_scap_L/spindle/dynamic_activation
+y[289] = /forceset/levator_scap_L/spindle/static_activation
+y[290] = /forceset/levator_scap_L/spindle/tension_bag1
+y[291] = /forceset/levator_scap_L/spindle/tension_bag2
+y[292] = /forceset/levator_scap_L/spindle/tension_chain
+y[293] = /forceset/levator_scap_L/spindle/tension_bag1_deriv
+y[294] = /forceset/levator_scap_L/spindle/tension_bag2_deriv
+y[295] = /forceset/levator_scap_L/spindle/tension_chain_deriv
+y[296] = /forceset/levator_scap_L/GTO/nonlinear
+y[297] = /forceset/levator_scap_L/GTO/nonlinear_deriv
+y[298] = /forceset/levator_scap_L/GTO/filter_out
+y[299] = /forceset/levator_scap_L/GTO/filter_out_deriv
+y[300] = /forceset/longissi_cap_sklc6/activation
+y[301] = /forceset/longissi_cap_sklc6/fiber_length
+y[302] = /forceset/longissi_cap_sklc6/LPF_velocity
+y[303] = /forceset/longissi_cap_sklc6/LPF_acceleration
+y[304] = /forceset/longissi_cap_sklc6/spindle/dynamic_activation
+y[305] = /forceset/longissi_cap_sklc6/spindle/static_activation
+y[306] = /forceset/longissi_cap_sklc6/spindle/tension_bag1
+y[307] = /forceset/longissi_cap_sklc6/spindle/tension_bag2
+y[308] = /forceset/longissi_cap_sklc6/spindle/tension_chain
+y[309] = /forceset/longissi_cap_sklc6/spindle/tension_bag1_deriv
+y[310] = /forceset/longissi_cap_sklc6/spindle/tension_bag2_deriv
+y[311] = /forceset/longissi_cap_sklc6/spindle/tension_chain_deriv
+y[312] = /forceset/longissi_cap_sklc6/GTO/nonlinear
+y[313] = /forceset/longissi_cap_sklc6/GTO/nonlinear_deriv
+y[314] = /forceset/longissi_cap_sklc6/GTO/filter_out
+y[315] = /forceset/longissi_cap_sklc6/GTO/filter_out_deriv
+y[316] = /forceset/longissi_cap_sklc6_L/activation
+y[317] = /forceset/longissi_cap_sklc6_L/fiber_length
+y[318] = /forceset/longissi_cap_sklc6_L/LPF_velocity
+y[319] = /forceset/longissi_cap_sklc6_L/LPF_acceleration
+y[320] = /forceset/longissi_cap_sklc6_L/spindle/dynamic_activation
+y[321] = /forceset/longissi_cap_sklc6_L/spindle/static_activation
+y[322] = /forceset/longissi_cap_sklc6_L/spindle/tension_bag1
+y[323] = /forceset/longissi_cap_sklc6_L/spindle/tension_bag2
+y[324] = /forceset/longissi_cap_sklc6_L/spindle/tension_chain
+y[325] = /forceset/longissi_cap_sklc6_L/spindle/tension_bag1_deriv
+y[326] = /forceset/longissi_cap_sklc6_L/spindle/tension_bag2_deriv
+y[327] = /forceset/longissi_cap_sklc6_L/spindle/tension_chain_deriv
+y[328] = /forceset/longissi_cap_sklc6_L/GTO/nonlinear
+y[329] = /forceset/longissi_cap_sklc6_L/GTO/nonlinear_deriv
+y[330] = /forceset/longissi_cap_sklc6_L/GTO/filter_out
+y[331] = /forceset/longissi_cap_sklc6_L/GTO/filter_out_deriv
+y[332] = /forceset/longissi_cerv_c4thx/activation
+y[333] = /forceset/longissi_cerv_c4thx/fiber_length
+y[334] = /forceset/longissi_cerv_c4thx_L/activation
+y[335] = /forceset/longissi_cerv_c4thx_L/fiber_length
+y[336] = /forceset/iliocost_cerv_c5rib/activation
+y[337] = /forceset/iliocost_cerv_c5rib/fiber_length
+y[338] = /forceset/iliocost_cerv_c5rib_L/activation
+y[339] = /forceset/iliocost_cerv_c5rib_L/fiber_length
+y[340] = /forceset/rectcap_post_maj/activation
+y[341] = /forceset/rectcap_post_maj/fiber_length
+y[342] = /forceset/rectcap_post_maj/LPF_velocity
+y[343] = /forceset/rectcap_post_maj/LPF_acceleration
+y[344] = /forceset/rectcap_post_maj/spindle/dynamic_activation
+y[345] = /forceset/rectcap_post_maj/spindle/static_activation
+y[346] = /forceset/rectcap_post_maj/spindle/tension_bag1
+y[347] = /forceset/rectcap_post_maj/spindle/tension_bag2
+y[348] = /forceset/rectcap_post_maj/spindle/tension_chain
+y[349] = /forceset/rectcap_post_maj/spindle/tension_bag1_deriv
+y[350] = /forceset/rectcap_post_maj/spindle/tension_bag2_deriv
+y[351] = /forceset/rectcap_post_maj/spindle/tension_chain_deriv
+y[352] = /forceset/rectcap_post_maj/GTO/nonlinear
+y[353] = /forceset/rectcap_post_maj/GTO/nonlinear_deriv
+y[354] = /forceset/rectcap_post_maj/GTO/filter_out
+y[355] = /forceset/rectcap_post_maj/GTO/filter_out_deriv
+y[356] = /forceset/rectcap_post_maj_L/activation
+y[357] = /forceset/rectcap_post_maj_L/fiber_length
+y[358] = /forceset/rectcap_post_maj_L/LPF_velocity
+y[359] = /forceset/rectcap_post_maj_L/LPF_acceleration
+y[360] = /forceset/rectcap_post_maj_L/spindle/dynamic_activation
+y[361] = /forceset/rectcap_post_maj_L/spindle/static_activation
+y[362] = /forceset/rectcap_post_maj_L/spindle/tension_bag1
+y[363] = /forceset/rectcap_post_maj_L/spindle/tension_bag2
+y[364] = /forceset/rectcap_post_maj_L/spindle/tension_chain
+y[365] = /forceset/rectcap_post_maj_L/spindle/tension_bag1_deriv
+y[366] = /forceset/rectcap_post_maj_L/spindle/tension_bag2_deriv
+y[367] = /forceset/rectcap_post_maj_L/spindle/tension_chain_deriv
+y[368] = /forceset/rectcap_post_maj_L/GTO/nonlinear
+y[369] = /forceset/rectcap_post_maj_L/GTO/nonlinear_deriv
+y[370] = /forceset/rectcap_post_maj_L/GTO/filter_out
+y[371] = /forceset/rectcap_post_maj_L/GTO/filter_out_deriv
+y[372] = /forceset/rectcap_post_min/activation
+y[373] = /forceset/rectcap_post_min/fiber_length
+y[374] = /forceset/rectcap_post_min_L/activation
+y[375] = /forceset/rectcap_post_min_L/fiber_length
+y[376] = /forceset/obl_cap_sup/activation
+y[377] = /forceset/obl_cap_sup/fiber_length
+y[378] = /forceset/obl_cap_sup_L/activation
+y[379] = /forceset/obl_cap_sup_L/fiber_length
+y[380] = /forceset/obl_cap_inf/activation
+y[381] = /forceset/obl_cap_inf/fiber_length
+y[382] = /forceset/obl_cap_inf_L/activation
+y[383] = /forceset/obl_cap_inf_L/fiber_length
+y[384] = /forceset/Spine_C7_Bushing/dissipated_energy
+y[385] = /forceset/C7_C6_Bushing/dissipated_energy
+y[386] = /forceset/C6_C5_Bushing/dissipated_energy
+y[387] = /forceset/C5_C4_Bushing/dissipated_energy
+y[388] = /forceset/C4_C3_Bushing/dissipated_energy
+y[389] = /forceset/C3_C2_Bushing/dissipated_energy
+y[390] = /forceset/C2_C1_Bushing/dissipated_energy
+y[391] = /forceset/C1_skull_Bushing/dissipated_energy
+y[392] = /forceset/r_Lateral_Rectus/activation
+y[393] = /forceset/r_Lateral_Rectus/LPF_velocity
+y[394] = /forceset/r_Lateral_Rectus/LPF_acceleration
+y[395] = /forceset/r_Lateral_Rectus/spindle/dynamic_activation
+y[396] = /forceset/r_Lateral_Rectus/spindle/static_activation
+y[397] = /forceset/r_Lateral_Rectus/spindle/tension_bag1
+y[398] = /forceset/r_Lateral_Rectus/spindle/tension_bag2
+y[399] = /forceset/r_Lateral_Rectus/spindle/tension_chain
+y[400] = /forceset/r_Lateral_Rectus/spindle/tension_bag1_deriv
+y[401] = /forceset/r_Lateral_Rectus/spindle/tension_bag2_deriv
+y[402] = /forceset/r_Lateral_Rectus/spindle/tension_chain_deriv
+y[403] = /forceset/r_Lateral_Rectus/GTO/nonlinear
+y[404] = /forceset/r_Lateral_Rectus/GTO/nonlinear_deriv
+y[405] = /forceset/r_Lateral_Rectus/GTO/filter_out
+y[406] = /forceset/r_Lateral_Rectus/GTO/filter_out_deriv
+y[407] = /forceset/r_Medial_Rectus/activation
+y[408] = /forceset/r_Medial_Rectus/LPF_velocity
+y[409] = /forceset/r_Medial_Rectus/LPF_acceleration
+y[410] = /forceset/r_Medial_Rectus/spindle/dynamic_activation
+y[411] = /forceset/r_Medial_Rectus/spindle/static_activation
+y[412] = /forceset/r_Medial_Rectus/spindle/tension_bag1
+y[413] = /forceset/r_Medial_Rectus/spindle/tension_bag2
+y[414] = /forceset/r_Medial_Rectus/spindle/tension_chain
+y[415] = /forceset/r_Medial_Rectus/spindle/tension_bag1_deriv
+y[416] = /forceset/r_Medial_Rectus/spindle/tension_bag2_deriv
+y[417] = /forceset/r_Medial_Rectus/spindle/tension_chain_deriv
+y[418] = /forceset/r_Medial_Rectus/GTO/nonlinear
+y[419] = /forceset/r_Medial_Rectus/GTO/nonlinear_deriv
+y[420] = /forceset/r_Medial_Rectus/GTO/filter_out
+y[421] = /forceset/r_Medial_Rectus/GTO/filter_out_deriv
+y[422] = /forceset/r_Superior_Rectus/activation
+y[423] = /forceset/r_Superior_Rectus/LPF_velocity
+y[424] = /forceset/r_Superior_Rectus/LPF_acceleration
+y[425] = /forceset/r_Superior_Rectus/spindle/dynamic_activation
+y[426] = /forceset/r_Superior_Rectus/spindle/static_activation
+y[427] = /forceset/r_Superior_Rectus/spindle/tension_bag1
+y[428] = /forceset/r_Superior_Rectus/spindle/tension_bag2
+y[429] = /forceset/r_Superior_Rectus/spindle/tension_chain
+y[430] = /forceset/r_Superior_Rectus/spindle/tension_bag1_deriv
+y[431] = /forceset/r_Superior_Rectus/spindle/tension_bag2_deriv
+y[432] = /forceset/r_Superior_Rectus/spindle/tension_chain_deriv
+y[433] = /forceset/r_Superior_Rectus/GTO/nonlinear
+y[434] = /forceset/r_Superior_Rectus/GTO/nonlinear_deriv
+y[435] = /forceset/r_Superior_Rectus/GTO/filter_out
+y[436] = /forceset/r_Superior_Rectus/GTO/filter_out_deriv
+y[437] = /forceset/r_Inferior_Rectus/activation
+y[438] = /forceset/r_Inferior_Rectus/LPF_velocity
+y[439] = /forceset/r_Inferior_Rectus/LPF_acceleration
+y[440] = /forceset/r_Inferior_Rectus/spindle/dynamic_activation
+y[441] = /forceset/r_Inferior_Rectus/spindle/static_activation
+y[442] = /forceset/r_Inferior_Rectus/spindle/tension_bag1
+y[443] = /forceset/r_Inferior_Rectus/spindle/tension_bag2
+y[444] = /forceset/r_Inferior_Rectus/spindle/tension_chain
+y[445] = /forceset/r_Inferior_Rectus/spindle/tension_bag1_deriv
+y[446] = /forceset/r_Inferior_Rectus/spindle/tension_bag2_deriv
+y[447] = /forceset/r_Inferior_Rectus/spindle/tension_chain_deriv
+y[448] = /forceset/r_Inferior_Rectus/GTO/nonlinear
+y[449] = /forceset/r_Inferior_Rectus/GTO/nonlinear_deriv
+y[450] = /forceset/r_Inferior_Rectus/GTO/filter_out
+y[451] = /forceset/r_Inferior_Rectus/GTO/filter_out_deriv
+y[452] = /forceset/r_Superior_Oblique/activation
+y[453] = /forceset/r_Superior_Oblique/LPF_velocity
+y[454] = /forceset/r_Superior_Oblique/LPF_acceleration
+y[455] = /forceset/r_Superior_Oblique/spindle/dynamic_activation
+y[456] = /forceset/r_Superior_Oblique/spindle/static_activation
+y[457] = /forceset/r_Superior_Oblique/spindle/tension_bag1
+y[458] = /forceset/r_Superior_Oblique/spindle/tension_bag2
+y[459] = /forceset/r_Superior_Oblique/spindle/tension_chain
+y[460] = /forceset/r_Superior_Oblique/spindle/tension_bag1_deriv
+y[461] = /forceset/r_Superior_Oblique/spindle/tension_bag2_deriv
+y[462] = /forceset/r_Superior_Oblique/spindle/tension_chain_deriv
+y[463] = /forceset/r_Superior_Oblique/GTO/nonlinear
+y[464] = /forceset/r_Superior_Oblique/GTO/nonlinear_deriv
+y[465] = /forceset/r_Superior_Oblique/GTO/filter_out
+y[466] = /forceset/r_Superior_Oblique/GTO/filter_out_deriv
+y[467] = /forceset/r_Inferior_Oblique/activation
+y[468] = /forceset/r_Inferior_Oblique/LPF_velocity
+y[469] = /forceset/r_Inferior_Oblique/LPF_acceleration
+y[470] = /forceset/r_Inferior_Oblique/spindle/dynamic_activation
+y[471] = /forceset/r_Inferior_Oblique/spindle/static_activation
+y[472] = /forceset/r_Inferior_Oblique/spindle/tension_bag1
+y[473] = /forceset/r_Inferior_Oblique/spindle/tension_bag2
+y[474] = /forceset/r_Inferior_Oblique/spindle/tension_chain
+y[475] = /forceset/r_Inferior_Oblique/spindle/tension_bag1_deriv
+y[476] = /forceset/r_Inferior_Oblique/spindle/tension_bag2_deriv
+y[477] = /forceset/r_Inferior_Oblique/spindle/tension_chain_deriv
+y[478] = /forceset/r_Inferior_Oblique/GTO/nonlinear
+y[479] = /forceset/r_Inferior_Oblique/GTO/nonlinear_deriv
+y[480] = /forceset/r_Inferior_Oblique/GTO/filter_out
+y[481] = /forceset/r_Inferior_Oblique/GTO/filter_out_deriv
+y[482] = /forceset/l_Lateral_Rectus/activation
+y[483] = /forceset/l_Lateral_Rectus/LPF_velocity
+y[484] = /forceset/l_Lateral_Rectus/LPF_acceleration
+y[485] = /forceset/l_Lateral_Rectus/spindle/dynamic_activation
+y[486] = /forceset/l_Lateral_Rectus/spindle/static_activation
+y[487] = /forceset/l_Lateral_Rectus/spindle/tension_bag1
+y[488] = /forceset/l_Lateral_Rectus/spindle/tension_bag2
+y[489] = /forceset/l_Lateral_Rectus/spindle/tension_chain
+y[490] = /forceset/l_Lateral_Rectus/spindle/tension_bag1_deriv
+y[491] = /forceset/l_Lateral_Rectus/spindle/tension_bag2_deriv
+y[492] = /forceset/l_Lateral_Rectus/spindle/tension_chain_deriv
+y[493] = /forceset/l_Lateral_Rectus/GTO/nonlinear
+y[494] = /forceset/l_Lateral_Rectus/GTO/nonlinear_deriv
+y[495] = /forceset/l_Lateral_Rectus/GTO/filter_out
+y[496] = /forceset/l_Lateral_Rectus/GTO/filter_out_deriv
+y[497] = /forceset/l_Medial_Rectus/activation
+y[498] = /forceset/l_Medial_Rectus/LPF_velocity
+y[499] = /forceset/l_Medial_Rectus/LPF_acceleration
+y[500] = /forceset/l_Medial_Rectus/spindle/dynamic_activation
+y[501] = /forceset/l_Medial_Rectus/spindle/static_activation
+y[502] = /forceset/l_Medial_Rectus/spindle/tension_bag1
+y[503] = /forceset/l_Medial_Rectus/spindle/tension_bag2
+y[504] = /forceset/l_Medial_Rectus/spindle/tension_chain
+y[505] = /forceset/l_Medial_Rectus/spindle/tension_bag1_deriv
+y[506] = /forceset/l_Medial_Rectus/spindle/tension_bag2_deriv
+y[507] = /forceset/l_Medial_Rectus/spindle/tension_chain_deriv
+y[508] = /forceset/l_Medial_Rectus/GTO/nonlinear
+y[509] = /forceset/l_Medial_Rectus/GTO/nonlinear_deriv
+y[510] = /forceset/l_Medial_Rectus/GTO/filter_out
+y[511] = /forceset/l_Medial_Rectus/GTO/filter_out_deriv
+y[512] = /forceset/l_Superior_Rectus/activation
+y[513] = /forceset/l_Superior_Rectus/LPF_velocity
+y[514] = /forceset/l_Superior_Rectus/LPF_acceleration
+y[515] = /forceset/l_Superior_Rectus/spindle/dynamic_activation
+y[516] = /forceset/l_Superior_Rectus/spindle/static_activation
+y[517] = /forceset/l_Superior_Rectus/spindle/tension_bag1
+y[518] = /forceset/l_Superior_Rectus/spindle/tension_bag2
+y[519] = /forceset/l_Superior_Rectus/spindle/tension_chain
+y[520] = /forceset/l_Superior_Rectus/spindle/tension_bag1_deriv
+y[521] = /forceset/l_Superior_Rectus/spindle/tension_bag2_deriv
+y[522] = /forceset/l_Superior_Rectus/spindle/tension_chain_deriv
+y[523] = /forceset/l_Superior_Rectus/GTO/nonlinear
+y[524] = /forceset/l_Superior_Rectus/GTO/nonlinear_deriv
+y[525] = /forceset/l_Superior_Rectus/GTO/filter_out
+y[526] = /forceset/l_Superior_Rectus/GTO/filter_out_deriv
+y[527] = /forceset/l_Inferior_Rectus/activation
+y[528] = /forceset/l_Inferior_Rectus/LPF_velocity
+y[529] = /forceset/l_Inferior_Rectus/LPF_acceleration
+y[530] = /forceset/l_Inferior_Rectus/spindle/dynamic_activation
+y[531] = /forceset/l_Inferior_Rectus/spindle/static_activation
+y[532] = /forceset/l_Inferior_Rectus/spindle/tension_bag1
+y[533] = /forceset/l_Inferior_Rectus/spindle/tension_bag2
+y[534] = /forceset/l_Inferior_Rectus/spindle/tension_chain
+y[535] = /forceset/l_Inferior_Rectus/spindle/tension_bag1_deriv
+y[536] = /forceset/l_Inferior_Rectus/spindle/tension_bag2_deriv
+y[537] = /forceset/l_Inferior_Rectus/spindle/tension_chain_deriv
+y[538] = /forceset/l_Inferior_Rectus/GTO/nonlinear
+y[539] = /forceset/l_Inferior_Rectus/GTO/nonlinear_deriv
+y[540] = /forceset/l_Inferior_Rectus/GTO/filter_out
+y[541] = /forceset/l_Inferior_Rectus/GTO/filter_out_deriv
+y[542] = /forceset/l_Superior_Oblique/activation
+y[543] = /forceset/l_Superior_Oblique/LPF_velocity
+y[544] = /forceset/l_Superior_Oblique/LPF_acceleration
+y[545] = /forceset/l_Superior_Oblique/spindle/dynamic_activation
+y[546] = /forceset/l_Superior_Oblique/spindle/static_activation
+y[547] = /forceset/l_Superior_Oblique/spindle/tension_bag1
+y[548] = /forceset/l_Superior_Oblique/spindle/tension_bag2
+y[549] = /forceset/l_Superior_Oblique/spindle/tension_chain
+y[550] = /forceset/l_Superior_Oblique/spindle/tension_bag1_deriv
+y[551] = /forceset/l_Superior_Oblique/spindle/tension_bag2_deriv
+y[552] = /forceset/l_Superior_Oblique/spindle/tension_chain_deriv
+y[553] = /forceset/l_Superior_Oblique/GTO/nonlinear
+y[554] = /forceset/l_Superior_Oblique/GTO/nonlinear_deriv
+y[555] = /forceset/l_Superior_Oblique/GTO/filter_out
+y[556] = /forceset/l_Superior_Oblique/GTO/filter_out_deriv
+y[557] = /forceset/l_Inferior_Oblique/activation
+y[558] = /forceset/l_Inferior_Oblique/LPF_velocity
+y[559] = /forceset/l_Inferior_Oblique/LPF_acceleration
+y[560] = /forceset/l_Inferior_Oblique/spindle/dynamic_activation
+y[561] = /forceset/l_Inferior_Oblique/spindle/static_activation
+y[562] = /forceset/l_Inferior_Oblique/spindle/tension_bag1
+y[563] = /forceset/l_Inferior_Oblique/spindle/tension_bag2
+y[564] = /forceset/l_Inferior_Oblique/spindle/tension_chain
+y[565] = /forceset/l_Inferior_Oblique/spindle/tension_bag1_deriv
+y[566] = /forceset/l_Inferior_Oblique/spindle/tension_bag2_deriv
+y[567] = /forceset/l_Inferior_Oblique/spindle/tension_chain_deriv
+y[568] = /forceset/l_Inferior_Oblique/GTO/nonlinear
+y[569] = /forceset/l_Inferior_Oblique/GTO/nonlinear_deriv
+y[570] = /forceset/l_Inferior_Oblique/GTO/filter_out
+y[571] = /forceset/l_Inferior_Oblique/GTO/filter_out_deriv
+
+[2026-08-31 21:57:27.577] [info] -------
+[2026-08-31 21:57:27.577] [info] Manager
+[2026-08-31 21:57:27.577] [info] -------
+[2026-08-31 21:57:27.577] [info] Starting integration at initial time 0.00 s...
+[2026-08-31 21:57:27.593] [info] Integration complete at final time 1.00 s.
+[2026-08-31 21:57:27.593] [info]  - CPU time elapsed: 0.031250 s
+[2026-08-31 21:57:27.593] [info]  - real time elapsed: 0.016227 s
+[2026-08-31 21:57:27.593] [info]  - ratio sim-to-real time: 61.624
+[2026-08-31 21:57:27.593] [info]  - integrator method: RungeKuttaMerson
+[2026-08-31 21:57:27.593] [info]  - number of realizations: 6
+[2026-08-31 21:57:27.593] [info]  - number of steps taken / attempted: 1 / 1
+[2026-08-31 21:57:27.593] [info]  - number of projections: 1
+[2026-08-31 21:57:27.593] [info]  - number of iterations: 1
+[2026-08-31 21:57:27.593] [info] Printing results of investigation HYOID_Scaled to D:\Akademik\PhD_Thesis\OpenSim\Proprioception_Plugin_Opensim4_6_Explicit\osim_files
+[2026-08-31 21:58:04.226] [info] Updating Model file from 30000 to latest format...
+[2026-08-31 21:58:04.231] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:58:04.231] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:58:04.231] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:58:04.231] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:58:04.231] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:58:04.231] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:58:04.231] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:58:04.231] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:58:04.231] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:58:04.231] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:58:04.232] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:58:04.232] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:58:04.232] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:58:04.232] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:58:04.232] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:58:04.232] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:58:04.232] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:58:04.232] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:58:04.232] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:58:04.232] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:58:04.232] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:58:04.232] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:58:04.232] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:58:04.232] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:58:04.232] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:58:04.232] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:58:04.232] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:58:04.232] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:58:04.233] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:58:04.233] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:58:04.233] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:58:04.233] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:58:04.233] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:58:04.233] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:58:04.233] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:58:04.233] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:58:04.233] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:58:04.233] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:58:04.233] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:58:04.233] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:58:04.233] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:58:04.233] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:58:04.233] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:58:04.233] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:58:04.233] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:58:04.233] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:58:04.233] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:58:04.233] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:58:04.233] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:58:04.233] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:58:04.233] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:58:04.233] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:58:04.233] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 21:58:04.233] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 21:58:04.233] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 21:58:04.233] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 21:58:04.242] [info] Loaded model HYOID_Scaled from file D:\Akademik\PhD_Thesis\OpenSim\Proprioception_Plugin_Opensim4_6_Explicit\osim_files\HYOID_ScaledStrength_v1.2andEye_v1_IndependentEyes_Afferents.osim
+[2026-08-31 21:58:04.311] [info] 'ComponentSet' was renamed and is being set to 'componentset'.
+[2026-08-31 21:58:25.535] [warning] Running tool HYOID_Scaled...
+[2026-08-31 21:58:25.535] [info] No external loads will be applied (external loads file not specified).
+[2026-08-31 21:58:25.546] [cout] [info] MODEL: HYOID_Scaled
+
+numStates = 572
+numCoordinates = 36
+numSpeeds = 36
+numActuators = 86
+numBodies = 17
+numConstraints = 18
+numProbes = 0
+
+ANALYSES (total: 2)
+analysis[0] = Un-named analysis.
+analysis[1] = Un-named analysis.
+
+BODIES (total: 17)
+body[0] = spine. mass: 70
+              moments of inertia:  ~[1,1,1]
+              products of inertia: ~[0,0,0]
+body[1] = rscapula. mass: 1
+              moments of inertia:  ~[1,1,0.5]
+              products of inertia: ~[0,0,0]
+body[2] = rclavicle. mass: 1
+              moments of inertia:  ~[1,1,0.5]
+              products of inertia: ~[0,0,0]
+body[3] = lscapula. mass: 1
+              moments of inertia:  ~[1,1,0.5]
+              products of inertia: ~[0,0,0]
+body[4] = lclavicle. mass: 1
+              moments of inertia:  ~[1,1,0.5]
+              products of inertia: ~[0,0,0]
+body[5] = ribcage. mass: 1
+              moments of inertia:  ~[1,1,0.75]
+              products of inertia: ~[0,0,0]
+body[6] = cerv7. mass: 0.584085
+              moments of inertia:  ~[0.02,0.08,0.02]
+              products of inertia: ~[0,0,0]
+body[7] = cerv6. mass: 0.507749
+              moments of inertia:  ~[0.02,0.08,0.02]
+              products of inertia: ~[0,0,0]
+body[8] = cerv5. mass: 0.4291
+              moments of inertia:  ~[0.02,0.08,0.02]
+              products of inertia: ~[0,0,0]
+body[9] = cerv4. mass: 0.423317
+              moments of inertia:  ~[0.02,0.08,0.02]
+              products of inertia: ~[0,0,0]
+body[10] = cerv3. mass: 0.419847
+              moments of inertia:  ~[0.02,0.08,0.02]
+              products of inertia: ~[0,0,0]
+body[11] = cerv2. mass: 0.587554
+              moments of inertia:  ~[0.02,0.08,0.02]
+              products of inertia: ~[0,0,0]
+body[12] = cerv1. mass: 0.467268
+              moments of inertia:  ~[0.02,0.08,0.02]
+              products of inertia: ~[0,0,0]
+body[13] = skull. mass: 4.3
+              moments of inertia:  ~[0.02073,0.015,0.022605]
+              products of inertia: ~[0,0,0]
+body[14] = jaw. mass: 0
+              moments of inertia:  ~[0,0,0]
+              products of inertia: ~[0,0,0]
+body[15] = r_eye. mass: 0.0075
+              moments of inertia:  ~[4.32e-07,4.32e-07,4.32e-07]
+              products of inertia: ~[0,0,0]
+body[16] = l_eye. mass: 0.0075
+              moments of inertia:  ~[4.32e-07,4.32e-07,4.32e-07]
+              products of inertia: ~[0,0,0]
+
+JOINTS (total: 17)
+joint[0] = spine. parent: ground_offset, child: spine_offset
+joint[1] = rscapulajnt. parent: spine_offset, child: rscapula_offset
+joint[2] = rclaviclejnt. parent: spine_offset, child: rclavicle_offset
+joint[3] = lscapulajnt. parent: spine_offset, child: lscapula_offset
+joint[4] = lclaviclejnt. parent: spine_offset, child: lclavicle_offset
+joint[5] = ribcagejnt. parent: spine_offset, child: ribcage_offset
+joint[6] = auxt1jnt. parent: spine_offset, child: cerv7_offset
+joint[7] = aux7jnt. parent: cerv7_offset, child: cerv6_offset
+joint[8] = aux6jnt. parent: cerv6_offset, child: cerv5_offset
+joint[9] = aux5jnt. parent: cerv5_offset, child: cerv4_offset
+joint[10] = aux4jnt. parent: cerv4_offset, child: cerv3_offset
+joint[11] = aux3jnt. parent: cerv3_offset, child: cerv2_offset
+joint[12] = aux2jnt. parent: cerv2_offset, child: cerv1_offset
+joint[13] = aux1jnt. parent: cerv1_offset, child: skull_offset
+joint[14] = jawjnt. parent: skull_offset, child: jaw_offset
+joint[15] = Right_Eye_Joint. parent: skull_offset, child: r_eye_offset
+joint[16] = Left_Eye_Joint. parent: skull_offset, child: l_eye_offset
+
+ACTUATORS (total: 86)
+actuator[0] = Skull_Impact
+actuator[1] = Skull_Moment
+actuator[2] = digastric_post
+actuator[3] = digastric_ant
+actuator[4] = Geniohyoid
+actuator[5] = Mylohyoid_Post
+actuator[6] = Mylohyoid_Ant
+actuator[7] = Stylohyoid_Lat
+actuator[8] = Stylohyoid_Med
+actuator[9] = Sterno_hyoid
+actuator[10] = SternoThyroid
+actuator[11] = Omo_hyoid
+actuator[12] = digastric_post_L
+actuator[13] = digastric_ant_L
+actuator[14] = Geniohyoid_L
+actuator[15] = Mylohyoid_Post_L
+actuator[16] = Mylohyoid_Ant_L
+actuator[17] = Stylohyoid_Lat_L
+actuator[18] = Stylohyoid_Med_L
+actuator[19] = Sterno_hyoid_L
+actuator[20] = SternoThyroid_L
+actuator[21] = Omo_hyoid_L
+actuator[22] = stern_mast
+actuator[23] = stern_mast_L
+actuator[24] = cleid_mast
+actuator[25] = cleid_mast_L
+actuator[26] = cleid_occ
+actuator[27] = cleid_occ_L
+actuator[28] = scalenus_ant
+actuator[29] = scalenus_ant_L
+actuator[30] = scalenus_med
+actuator[31] = scalenus_med_L
+actuator[32] = scalenus_post
+actuator[33] = scalenus_post_L
+actuator[34] = long_cap_sklc4
+actuator[35] = long_cap_sklc4_L
+actuator[36] = long_col_c1thx
+actuator[37] = long_col_c1thx_L
+actuator[38] = long_col_c1c5
+actuator[39] = long_col_c1c5_L
+actuator[40] = long_col_c5thx
+actuator[41] = long_col_c5thx_L
+actuator[42] = trap_cl
+actuator[43] = trap_cl_L
+actuator[44] = trap_acr
+actuator[45] = trap_acr_L
+actuator[46] = splen_cap_sklc6
+actuator[47] = splen_cap_sklc6_L
+actuator[48] = splen_cap_sklthx
+actuator[49] = splen_cap_sklthx_L
+actuator[50] = splen_cerv_c3thx
+actuator[51] = splen_cerv_c3thx_L
+actuator[52] = semi_cap_sklc5
+actuator[53] = semi_cap_sklc5_L
+actuator[54] = semi_cap_sklthx
+actuator[55] = semi_cap_sklthx_L
+actuator[56] = semi_cerv_c3thx
+actuator[57] = semi_cerv_c3thx_L
+actuator[58] = levator_scap
+actuator[59] = levator_scap_L
+actuator[60] = longissi_cap_sklc6
+actuator[61] = longissi_cap_sklc6_L
+actuator[62] = longissi_cerv_c4thx
+actuator[63] = longissi_cerv_c4thx_L
+actuator[64] = iliocost_cerv_c5rib
+actuator[65] = iliocost_cerv_c5rib_L
+actuator[66] = rectcap_post_maj
+actuator[67] = rectcap_post_maj_L
+actuator[68] = rectcap_post_min
+actuator[69] = rectcap_post_min_L
+actuator[70] = obl_cap_sup
+actuator[71] = obl_cap_sup_L
+actuator[72] = obl_cap_inf
+actuator[73] = obl_cap_inf_L
+actuator[74] = r_Lateral_Rectus
+actuator[75] = r_Medial_Rectus
+actuator[76] = r_Superior_Rectus
+actuator[77] = r_Inferior_Rectus
+actuator[78] = r_Superior_Oblique
+actuator[79] = r_Inferior_Oblique
+actuator[80] = l_Lateral_Rectus
+actuator[81] = l_Medial_Rectus
+actuator[82] = l_Superior_Rectus
+actuator[83] = l_Inferior_Rectus
+actuator[84] = l_Superior_Oblique
+actuator[85] = l_Inferior_Oblique
+
+STATES (total: 572)
+y[0] = /jointset/spine/gndpitch/value
+y[1] = /jointset/spine/gndpitch/speed
+y[2] = /jointset/spine/gndroll/value
+y[3] = /jointset/spine/gndroll/speed
+y[4] = /jointset/spine/gndyaw/value
+y[5] = /jointset/spine/gndyaw/speed
+y[6] = /jointset/spine/spine_tx/value
+y[7] = /jointset/spine/spine_tx/speed
+y[8] = /jointset/spine/spine_ty/value
+y[9] = /jointset/spine/spine_ty/speed
+y[10] = /jointset/spine/spine_tz/value
+y[11] = /jointset/spine/spine_tz/speed
+y[12] = /jointset/auxt1jnt/pitch2/value
+y[13] = /jointset/auxt1jnt/pitch2/speed
+y[14] = /jointset/auxt1jnt/roll2/value
+y[15] = /jointset/auxt1jnt/roll2/speed
+y[16] = /jointset/auxt1jnt/yaw2/value
+y[17] = /jointset/auxt1jnt/yaw2/speed
+y[18] = /jointset/aux7jnt/aux7jnt_r3/value
+y[19] = /jointset/aux7jnt/aux7jnt_r3/speed
+y[20] = /jointset/aux7jnt/aux7jnt_r1/value
+y[21] = /jointset/aux7jnt/aux7jnt_r1/speed
+y[22] = /jointset/aux7jnt/aux7jnt_r2/value
+y[23] = /jointset/aux7jnt/aux7jnt_r2/speed
+y[24] = /jointset/aux6jnt/aux6jnt_r3/value
+y[25] = /jointset/aux6jnt/aux6jnt_r3/speed
+y[26] = /jointset/aux6jnt/aux6jnt_r1/value
+y[27] = /jointset/aux6jnt/aux6jnt_r1/speed
+y[28] = /jointset/aux6jnt/aux6jnt_r2/value
+y[29] = /jointset/aux6jnt/aux6jnt_r2/speed
+y[30] = /jointset/aux5jnt/aux5jnt_r3/value
+y[31] = /jointset/aux5jnt/aux5jnt_r3/speed
+y[32] = /jointset/aux5jnt/aux5jnt_r1/value
+y[33] = /jointset/aux5jnt/aux5jnt_r1/speed
+y[34] = /jointset/aux5jnt/aux5jnt_r2/value
+y[35] = /jointset/aux5jnt/aux5jnt_r2/speed
+y[36] = /jointset/aux4jnt/aux4jnt_r3/value
+y[37] = /jointset/aux4jnt/aux4jnt_r3/speed
+y[38] = /jointset/aux4jnt/aux4jnt_r1/value
+y[39] = /jointset/aux4jnt/aux4jnt_r1/speed
+y[40] = /jointset/aux4jnt/aux4jnt_r2/value
+y[41] = /jointset/aux4jnt/aux4jnt_r2/speed
+y[42] = /jointset/aux3jnt/aux3jnt_r3/value
+y[43] = /jointset/aux3jnt/aux3jnt_r3/speed
+y[44] = /jointset/aux3jnt/aux3jnt_r1/value
+y[45] = /jointset/aux3jnt/aux3jnt_r1/speed
+y[46] = /jointset/aux3jnt/aux3jnt_r2/value
+y[47] = /jointset/aux3jnt/aux3jnt_r2/speed
+y[48] = /jointset/aux2jnt/pitch1/value
+y[49] = /jointset/aux2jnt/pitch1/speed
+y[50] = /jointset/aux2jnt/roll1/value
+y[51] = /jointset/aux2jnt/roll1/speed
+y[52] = /jointset/aux2jnt/yaw1/value
+y[53] = /jointset/aux2jnt/yaw1/speed
+y[54] = /jointset/aux1jnt/aux1jnt_r3/value
+y[55] = /jointset/aux1jnt/aux1jnt_r3/speed
+y[56] = /jointset/aux1jnt/aux1jnt_r1/value
+y[57] = /jointset/aux1jnt/aux1jnt_r1/speed
+y[58] = /jointset/aux1jnt/aux1jnt_r2/value
+y[59] = /jointset/aux1jnt/aux1jnt_r2/speed
+y[60] = /jointset/Right_Eye_Joint/r_eye_add_abd/value
+y[61] = /jointset/Right_Eye_Joint/r_eye_add_abd/speed
+y[62] = /jointset/Right_Eye_Joint/r_eye_sup_inf/value
+y[63] = /jointset/Right_Eye_Joint/r_eye_sup_inf/speed
+y[64] = /jointset/Right_Eye_Joint/r_eye_inc_exc/value
+y[65] = /jointset/Right_Eye_Joint/r_eye_inc_exc/speed
+y[66] = /jointset/Left_Eye_Joint/l_eye_add_abd/value
+y[67] = /jointset/Left_Eye_Joint/l_eye_add_abd/speed
+y[68] = /jointset/Left_Eye_Joint/l_eye_sup_inf/value
+y[69] = /jointset/Left_Eye_Joint/l_eye_sup_inf/speed
+y[70] = /jointset/Left_Eye_Joint/l_eye_inc_exc/value
+y[71] = /jointset/Left_Eye_Joint/l_eye_inc_exc/speed
+y[72] = /forceset/digastric_post/activation
+y[73] = /forceset/digastric_post/fiber_length
+y[74] = /forceset/digastric_ant/activation
+y[75] = /forceset/digastric_ant/fiber_length
+y[76] = /forceset/Geniohyoid/activation
+y[77] = /forceset/Geniohyoid/fiber_length
+y[78] = /forceset/Mylohyoid_Post/activation
+y[79] = /forceset/Mylohyoid_Post/fiber_length
+y[80] = /forceset/Mylohyoid_Ant/activation
+y[81] = /forceset/Mylohyoid_Ant/fiber_length
+y[82] = /forceset/Stylohyoid_Lat/activation
+y[83] = /forceset/Stylohyoid_Lat/fiber_length
+y[84] = /forceset/Stylohyoid_Med/activation
+y[85] = /forceset/Stylohyoid_Med/fiber_length
+y[86] = /forceset/Sterno_hyoid/activation
+y[87] = /forceset/Sterno_hyoid/fiber_length
+y[88] = /forceset/SternoThyroid/activation
+y[89] = /forceset/SternoThyroid/fiber_length
+y[90] = /forceset/Omo_hyoid/activation
+y[91] = /forceset/Omo_hyoid/fiber_length
+y[92] = /forceset/digastric_post_L/activation
+y[93] = /forceset/digastric_post_L/fiber_length
+y[94] = /forceset/digastric_ant_L/activation
+y[95] = /forceset/digastric_ant_L/fiber_length
+y[96] = /forceset/Geniohyoid_L/activation
+y[97] = /forceset/Geniohyoid_L/fiber_length
+y[98] = /forceset/Mylohyoid_Post_L/activation
+y[99] = /forceset/Mylohyoid_Post_L/fiber_length
+y[100] = /forceset/Mylohyoid_Ant_L/activation
+y[101] = /forceset/Mylohyoid_Ant_L/fiber_length
+y[102] = /forceset/Stylohyoid_Lat_L/activation
+y[103] = /forceset/Stylohyoid_Lat_L/fiber_length
+y[104] = /forceset/Stylohyoid_Med_L/activation
+y[105] = /forceset/Stylohyoid_Med_L/fiber_length
+y[106] = /forceset/Sterno_hyoid_L/activation
+y[107] = /forceset/Sterno_hyoid_L/fiber_length
+y[108] = /forceset/SternoThyroid_L/activation
+y[109] = /forceset/SternoThyroid_L/fiber_length
+y[110] = /forceset/Omo_hyoid_L/activation
+y[111] = /forceset/Omo_hyoid_L/fiber_length
+y[112] = /forceset/stern_mast/activation
+y[113] = /forceset/stern_mast/fiber_length
+y[114] = /forceset/stern_mast/LPF_velocity
+y[115] = /forceset/stern_mast/LPF_acceleration
+y[116] = /forceset/stern_mast/spindle/dynamic_activation
+y[117] = /forceset/stern_mast/spindle/static_activation
+y[118] = /forceset/stern_mast/spindle/tension_bag1
+y[119] = /forceset/stern_mast/spindle/tension_bag2
+y[120] = /forceset/stern_mast/spindle/tension_chain
+y[121] = /forceset/stern_mast/spindle/tension_bag1_deriv
+y[122] = /forceset/stern_mast/spindle/tension_bag2_deriv
+y[123] = /forceset/stern_mast/spindle/tension_chain_deriv
+y[124] = /forceset/stern_mast/GTO/nonlinear
+y[125] = /forceset/stern_mast/GTO/nonlinear_deriv
+y[126] = /forceset/stern_mast/GTO/filter_out
+y[127] = /forceset/stern_mast/GTO/filter_out_deriv
+y[128] = /forceset/stern_mast_L/activation
+y[129] = /forceset/stern_mast_L/fiber_length
+y[130] = /forceset/stern_mast_L/LPF_velocity
+y[131] = /forceset/stern_mast_L/LPF_acceleration
+y[132] = /forceset/stern_mast_L/spindle/dynamic_activation
+y[133] = /forceset/stern_mast_L/spindle/static_activation
+y[134] = /forceset/stern_mast_L/spindle/tension_bag1
+y[135] = /forceset/stern_mast_L/spindle/tension_bag2
+y[136] = /forceset/stern_mast_L/spindle/tension_chain
+y[137] = /forceset/stern_mast_L/spindle/tension_bag1_deriv
+y[138] = /forceset/stern_mast_L/spindle/tension_bag2_deriv
+y[139] = /forceset/stern_mast_L/spindle/tension_chain_deriv
+y[140] = /forceset/stern_mast_L/GTO/nonlinear
+y[141] = /forceset/stern_mast_L/GTO/nonlinear_deriv
+y[142] = /forceset/stern_mast_L/GTO/filter_out
+y[143] = /forceset/stern_mast_L/GTO/filter_out_deriv
+y[144] = /forceset/cleid_mast/activation
+y[145] = /forceset/cleid_mast/fiber_length
+y[146] = /forceset/cleid_mast_L/activation
+y[147] = /forceset/cleid_mast_L/fiber_length
+y[148] = /forceset/cleid_occ/activation
+y[149] = /forceset/cleid_occ/fiber_length
+y[150] = /forceset/cleid_occ_L/activation
+y[151] = /forceset/cleid_occ_L/fiber_length
+y[152] = /forceset/scalenus_ant/activation
+y[153] = /forceset/scalenus_ant/fiber_length
+y[154] = /forceset/scalenus_ant_L/activation
+y[155] = /forceset/scalenus_ant_L/fiber_length
+y[156] = /forceset/scalenus_med/activation
+y[157] = /forceset/scalenus_med/fiber_length
+y[158] = /forceset/scalenus_med_L/activation
+y[159] = /forceset/scalenus_med_L/fiber_length
+y[160] = /forceset/scalenus_post/activation
+y[161] = /forceset/scalenus_post/fiber_length
+y[162] = /forceset/scalenus_post_L/activation
+y[163] = /forceset/scalenus_post_L/fiber_length
+y[164] = /forceset/long_cap_sklc4/activation
+y[165] = /forceset/long_cap_sklc4/fiber_length
+y[166] = /forceset/long_cap_sklc4_L/activation
+y[167] = /forceset/long_cap_sklc4_L/fiber_length
+y[168] = /forceset/long_col_c1thx/activation
+y[169] = /forceset/long_col_c1thx/fiber_length
+y[170] = /forceset/long_col_c1thx_L/activation
+y[171] = /forceset/long_col_c1thx_L/fiber_length
+y[172] = /forceset/long_col_c1c5/activation
+y[173] = /forceset/long_col_c1c5/fiber_length
+y[174] = /forceset/long_col_c1c5_L/activation
+y[175] = /forceset/long_col_c1c5_L/fiber_length
+y[176] = /forceset/long_col_c5thx/activation
+y[177] = /forceset/long_col_c5thx/fiber_length
+y[178] = /forceset/long_col_c5thx_L/activation
+y[179] = /forceset/long_col_c5thx_L/fiber_length
+y[180] = /forceset/trap_cl/activation
+y[181] = /forceset/trap_cl/fiber_length
+y[182] = /forceset/trap_cl_L/activation
+y[183] = /forceset/trap_cl_L/fiber_length
+y[184] = /forceset/trap_acr/activation
+y[185] = /forceset/trap_acr/fiber_length
+y[186] = /forceset/trap_acr_L/activation
+y[187] = /forceset/trap_acr_L/fiber_length
+y[188] = /forceset/splen_cap_sklc6/activation
+y[189] = /forceset/splen_cap_sklc6/fiber_length
+y[190] = /forceset/splen_cap_sklc6/LPF_velocity
+y[191] = /forceset/splen_cap_sklc6/LPF_acceleration
+y[192] = /forceset/splen_cap_sklc6/spindle/dynamic_activation
+y[193] = /forceset/splen_cap_sklc6/spindle/static_activation
+y[194] = /forceset/splen_cap_sklc6/spindle/tension_bag1
+y[195] = /forceset/splen_cap_sklc6/spindle/tension_bag2
+y[196] = /forceset/splen_cap_sklc6/spindle/tension_chain
+y[197] = /forceset/splen_cap_sklc6/spindle/tension_bag1_deriv
+y[198] = /forceset/splen_cap_sklc6/spindle/tension_bag2_deriv
+y[199] = /forceset/splen_cap_sklc6/spindle/tension_chain_deriv
+y[200] = /forceset/splen_cap_sklc6/GTO/nonlinear
+y[201] = /forceset/splen_cap_sklc6/GTO/nonlinear_deriv
+y[202] = /forceset/splen_cap_sklc6/GTO/filter_out
+y[203] = /forceset/splen_cap_sklc6/GTO/filter_out_deriv
+y[204] = /forceset/splen_cap_sklc6_L/activation
+y[205] = /forceset/splen_cap_sklc6_L/fiber_length
+y[206] = /forceset/splen_cap_sklc6_L/LPF_velocity
+y[207] = /forceset/splen_cap_sklc6_L/LPF_acceleration
+y[208] = /forceset/splen_cap_sklc6_L/spindle/dynamic_activation
+y[209] = /forceset/splen_cap_sklc6_L/spindle/static_activation
+y[210] = /forceset/splen_cap_sklc6_L/spindle/tension_bag1
+y[211] = /forceset/splen_cap_sklc6_L/spindle/tension_bag2
+y[212] = /forceset/splen_cap_sklc6_L/spindle/tension_chain
+y[213] = /forceset/splen_cap_sklc6_L/spindle/tension_bag1_deriv
+y[214] = /forceset/splen_cap_sklc6_L/spindle/tension_bag2_deriv
+y[215] = /forceset/splen_cap_sklc6_L/spindle/tension_chain_deriv
+y[216] = /forceset/splen_cap_sklc6_L/GTO/nonlinear
+y[217] = /forceset/splen_cap_sklc6_L/GTO/nonlinear_deriv
+y[218] = /forceset/splen_cap_sklc6_L/GTO/filter_out
+y[219] = /forceset/splen_cap_sklc6_L/GTO/filter_out_deriv
+y[220] = /forceset/splen_cap_sklthx/activation
+y[221] = /forceset/splen_cap_sklthx/fiber_length
+y[222] = /forceset/splen_cap_sklthx_L/activation
+y[223] = /forceset/splen_cap_sklthx_L/fiber_length
+y[224] = /forceset/splen_cerv_c3thx/activation
+y[225] = /forceset/splen_cerv_c3thx/fiber_length
+y[226] = /forceset/splen_cerv_c3thx_L/activation
+y[227] = /forceset/splen_cerv_c3thx_L/fiber_length
+y[228] = /forceset/semi_cap_sklc5/activation
+y[229] = /forceset/semi_cap_sklc5/fiber_length
+y[230] = /forceset/semi_cap_sklc5/LPF_velocity
+y[231] = /forceset/semi_cap_sklc5/LPF_acceleration
+y[232] = /forceset/semi_cap_sklc5/spindle/dynamic_activation
+y[233] = /forceset/semi_cap_sklc5/spindle/static_activation
+y[234] = /forceset/semi_cap_sklc5/spindle/tension_bag1
+y[235] = /forceset/semi_cap_sklc5/spindle/tension_bag2
+y[236] = /forceset/semi_cap_sklc5/spindle/tension_chain
+y[237] = /forceset/semi_cap_sklc5/spindle/tension_bag1_deriv
+y[238] = /forceset/semi_cap_sklc5/spindle/tension_bag2_deriv
+y[239] = /forceset/semi_cap_sklc5/spindle/tension_chain_deriv
+y[240] = /forceset/semi_cap_sklc5/GTO/nonlinear
+y[241] = /forceset/semi_cap_sklc5/GTO/nonlinear_deriv
+y[242] = /forceset/semi_cap_sklc5/GTO/filter_out
+y[243] = /forceset/semi_cap_sklc5/GTO/filter_out_deriv
+y[244] = /forceset/semi_cap_sklc5_L/activation
+y[245] = /forceset/semi_cap_sklc5_L/fiber_length
+y[246] = /forceset/semi_cap_sklc5_L/LPF_velocity
+y[247] = /forceset/semi_cap_sklc5_L/LPF_acceleration
+y[248] = /forceset/semi_cap_sklc5_L/spindle/dynamic_activation
+y[249] = /forceset/semi_cap_sklc5_L/spindle/static_activation
+y[250] = /forceset/semi_cap_sklc5_L/spindle/tension_bag1
+y[251] = /forceset/semi_cap_sklc5_L/spindle/tension_bag2
+y[252] = /forceset/semi_cap_sklc5_L/spindle/tension_chain
+y[253] = /forceset/semi_cap_sklc5_L/spindle/tension_bag1_deriv
+y[254] = /forceset/semi_cap_sklc5_L/spindle/tension_bag2_deriv
+y[255] = /forceset/semi_cap_sklc5_L/spindle/tension_chain_deriv
+y[256] = /forceset/semi_cap_sklc5_L/GTO/nonlinear
+y[257] = /forceset/semi_cap_sklc5_L/GTO/nonlinear_deriv
+y[258] = /forceset/semi_cap_sklc5_L/GTO/filter_out
+y[259] = /forceset/semi_cap_sklc5_L/GTO/filter_out_deriv
+y[260] = /forceset/semi_cap_sklthx/activation
+y[261] = /forceset/semi_cap_sklthx/fiber_length
+y[262] = /forceset/semi_cap_sklthx_L/activation
+y[263] = /forceset/semi_cap_sklthx_L/fiber_length
+y[264] = /forceset/semi_cerv_c3thx/activation
+y[265] = /forceset/semi_cerv_c3thx/fiber_length
+y[266] = /forceset/semi_cerv_c3thx_L/activation
+y[267] = /forceset/semi_cerv_c3thx_L/fiber_length
+y[268] = /forceset/levator_scap/activation
+y[269] = /forceset/levator_scap/fiber_length
+y[270] = /forceset/levator_scap/LPF_velocity
+y[271] = /forceset/levator_scap/LPF_acceleration
+y[272] = /forceset/levator_scap/spindle/dynamic_activation
+y[273] = /forceset/levator_scap/spindle/static_activation
+y[274] = /forceset/levator_scap/spindle/tension_bag1
+y[275] = /forceset/levator_scap/spindle/tension_bag2
+y[276] = /forceset/levator_scap/spindle/tension_chain
+y[277] = /forceset/levator_scap/spindle/tension_bag1_deriv
+y[278] = /forceset/levator_scap/spindle/tension_bag2_deriv
+y[279] = /forceset/levator_scap/spindle/tension_chain_deriv
+y[280] = /forceset/levator_scap/GTO/nonlinear
+y[281] = /forceset/levator_scap/GTO/nonlinear_deriv
+y[282] = /forceset/levator_scap/GTO/filter_out
+y[283] = /forceset/levator_scap/GTO/filter_out_deriv
+y[284] = /forceset/levator_scap_L/activation
+y[285] = /forceset/levator_scap_L/fiber_length
+y[286] = /forceset/levator_scap_L/LPF_velocity
+y[287] = /forceset/levator_scap_L/LPF_acceleration
+y[288] = /forceset/levator_scap_L/spindle/dynamic_activation
+y[289] = /forceset/levator_scap_L/spindle/static_activation
+y[290] = /forceset/levator_scap_L/spindle/tension_bag1
+y[291] = /forceset/levator_scap_L/spindle/tension_bag2
+y[292] = /forceset/levator_scap_L/spindle/tension_chain
+y[293] = /forceset/levator_scap_L/spindle/tension_bag1_deriv
+y[294] = /forceset/levator_scap_L/spindle/tension_bag2_deriv
+y[295] = /forceset/levator_scap_L/spindle/tension_chain_deriv
+y[296] = /forceset/levator_scap_L/GTO/nonlinear
+y[297] = /forceset/levator_scap_L/GTO/nonlinear_deriv
+y[298] = /forceset/levator_scap_L/GTO/filter_out
+y[299] = /forceset/levator_scap_L/GTO/filter_out_deriv
+y[300] = /forceset/longissi_cap_sklc6/activation
+y[301] = /forceset/longissi_cap_sklc6/fiber_length
+y[302] = /forceset/longissi_cap_sklc6/LPF_velocity
+y[303] = /forceset/longissi_cap_sklc6/LPF_acceleration
+y[304] = /forceset/longissi_cap_sklc6/spindle/dynamic_activation
+y[305] = /forceset/longissi_cap_sklc6/spindle/static_activation
+y[306] = /forceset/longissi_cap_sklc6/spindle/tension_bag1
+y[307] = /forceset/longissi_cap_sklc6/spindle/tension_bag2
+y[308] = /forceset/longissi_cap_sklc6/spindle/tension_chain
+y[309] = /forceset/longissi_cap_sklc6/spindle/tension_bag1_deriv
+y[310] = /forceset/longissi_cap_sklc6/spindle/tension_bag2_deriv
+y[311] = /forceset/longissi_cap_sklc6/spindle/tension_chain_deriv
+y[312] = /forceset/longissi_cap_sklc6/GTO/nonlinear
+y[313] = /forceset/longissi_cap_sklc6/GTO/nonlinear_deriv
+y[314] = /forceset/longissi_cap_sklc6/GTO/filter_out
+y[315] = /forceset/longissi_cap_sklc6/GTO/filter_out_deriv
+y[316] = /forceset/longissi_cap_sklc6_L/activation
+y[317] = /forceset/longissi_cap_sklc6_L/fiber_length
+y[318] = /forceset/longissi_cap_sklc6_L/LPF_velocity
+y[319] = /forceset/longissi_cap_sklc6_L/LPF_acceleration
+y[320] = /forceset/longissi_cap_sklc6_L/spindle/dynamic_activation
+y[321] = /forceset/longissi_cap_sklc6_L/spindle/static_activation
+y[322] = /forceset/longissi_cap_sklc6_L/spindle/tension_bag1
+y[323] = /forceset/longissi_cap_sklc6_L/spindle/tension_bag2
+y[324] = /forceset/longissi_cap_sklc6_L/spindle/tension_chain
+y[325] = /forceset/longissi_cap_sklc6_L/spindle/tension_bag1_deriv
+y[326] = /forceset/longissi_cap_sklc6_L/spindle/tension_bag2_deriv
+y[327] = /forceset/longissi_cap_sklc6_L/spindle/tension_chain_deriv
+y[328] = /forceset/longissi_cap_sklc6_L/GTO/nonlinear
+y[329] = /forceset/longissi_cap_sklc6_L/GTO/nonlinear_deriv
+y[330] = /forceset/longissi_cap_sklc6_L/GTO/filter_out
+y[331] = /forceset/longissi_cap_sklc6_L/GTO/filter_out_deriv
+y[332] = /forceset/longissi_cerv_c4thx/activation
+y[333] = /forceset/longissi_cerv_c4thx/fiber_length
+y[334] = /forceset/longissi_cerv_c4thx_L/activation
+y[335] = /forceset/longissi_cerv_c4thx_L/fiber_length
+y[336] = /forceset/iliocost_cerv_c5rib/activation
+y[337] = /forceset/iliocost_cerv_c5rib/fiber_length
+y[338] = /forceset/iliocost_cerv_c5rib_L/activation
+y[339] = /forceset/iliocost_cerv_c5rib_L/fiber_length
+y[340] = /forceset/rectcap_post_maj/activation
+y[341] = /forceset/rectcap_post_maj/fiber_length
+y[342] = /forceset/rectcap_post_maj/LPF_velocity
+y[343] = /forceset/rectcap_post_maj/LPF_acceleration
+y[344] = /forceset/rectcap_post_maj/spindle/dynamic_activation
+y[345] = /forceset/rectcap_post_maj/spindle/static_activation
+y[346] = /forceset/rectcap_post_maj/spindle/tension_bag1
+y[347] = /forceset/rectcap_post_maj/spindle/tension_bag2
+y[348] = /forceset/rectcap_post_maj/spindle/tension_chain
+y[349] = /forceset/rectcap_post_maj/spindle/tension_bag1_deriv
+y[350] = /forceset/rectcap_post_maj/spindle/tension_bag2_deriv
+y[351] = /forceset/rectcap_post_maj/spindle/tension_chain_deriv
+y[352] = /forceset/rectcap_post_maj/GTO/nonlinear
+y[353] = /forceset/rectcap_post_maj/GTO/nonlinear_deriv
+y[354] = /forceset/rectcap_post_maj/GTO/filter_out
+y[355] = /forceset/rectcap_post_maj/GTO/filter_out_deriv
+y[356] = /forceset/rectcap_post_maj_L/activation
+y[357] = /forceset/rectcap_post_maj_L/fiber_length
+y[358] = /forceset/rectcap_post_maj_L/LPF_velocity
+y[359] = /forceset/rectcap_post_maj_L/LPF_acceleration
+y[360] = /forceset/rectcap_post_maj_L/spindle/dynamic_activation
+y[361] = /forceset/rectcap_post_maj_L/spindle/static_activation
+y[362] = /forceset/rectcap_post_maj_L/spindle/tension_bag1
+y[363] = /forceset/rectcap_post_maj_L/spindle/tension_bag2
+y[364] = /forceset/rectcap_post_maj_L/spindle/tension_chain
+y[365] = /forceset/rectcap_post_maj_L/spindle/tension_bag1_deriv
+y[366] = /forceset/rectcap_post_maj_L/spindle/tension_bag2_deriv
+y[367] = /forceset/rectcap_post_maj_L/spindle/tension_chain_deriv
+y[368] = /forceset/rectcap_post_maj_L/GTO/nonlinear
+y[369] = /forceset/rectcap_post_maj_L/GTO/nonlinear_deriv
+y[370] = /forceset/rectcap_post_maj_L/GTO/filter_out
+y[371] = /forceset/rectcap_post_maj_L/GTO/filter_out_deriv
+y[372] = /forceset/rectcap_post_min/activation
+y[373] = /forceset/rectcap_post_min/fiber_length
+y[374] = /forceset/rectcap_post_min_L/activation
+y[375] = /forceset/rectcap_post_min_L/fiber_length
+y[376] = /forceset/obl_cap_sup/activation
+y[377] = /forceset/obl_cap_sup/fiber_length
+y[378] = /forceset/obl_cap_sup_L/activation
+y[379] = /forceset/obl_cap_sup_L/fiber_length
+y[380] = /forceset/obl_cap_inf/activation
+y[381] = /forceset/obl_cap_inf/fiber_length
+y[382] = /forceset/obl_cap_inf_L/activation
+y[383] = /forceset/obl_cap_inf_L/fiber_length
+y[384] = /forceset/Spine_C7_Bushing/dissipated_energy
+y[385] = /forceset/C7_C6_Bushing/dissipated_energy
+y[386] = /forceset/C6_C5_Bushing/dissipated_energy
+y[387] = /forceset/C5_C4_Bushing/dissipated_energy
+y[388] = /forceset/C4_C3_Bushing/dissipated_energy
+y[389] = /forceset/C3_C2_Bushing/dissipated_energy
+y[390] = /forceset/C2_C1_Bushing/dissipated_energy
+y[391] = /forceset/C1_skull_Bushing/dissipated_energy
+y[392] = /forceset/r_Lateral_Rectus/activation
+y[393] = /forceset/r_Lateral_Rectus/LPF_velocity
+y[394] = /forceset/r_Lateral_Rectus/LPF_acceleration
+y[395] = /forceset/r_Lateral_Rectus/spindle/dynamic_activation
+y[396] = /forceset/r_Lateral_Rectus/spindle/static_activation
+y[397] = /forceset/r_Lateral_Rectus/spindle/tension_bag1
+y[398] = /forceset/r_Lateral_Rectus/spindle/tension_bag2
+y[399] = /forceset/r_Lateral_Rectus/spindle/tension_chain
+y[400] = /forceset/r_Lateral_Rectus/spindle/tension_bag1_deriv
+y[401] = /forceset/r_Lateral_Rectus/spindle/tension_bag2_deriv
+y[402] = /forceset/r_Lateral_Rectus/spindle/tension_chain_deriv
+y[403] = /forceset/r_Lateral_Rectus/GTO/nonlinear
+y[404] = /forceset/r_Lateral_Rectus/GTO/nonlinear_deriv
+y[405] = /forceset/r_Lateral_Rectus/GTO/filter_out
+y[406] = /forceset/r_Lateral_Rectus/GTO/filter_out_deriv
+y[407] = /forceset/r_Medial_Rectus/activation
+y[408] = /forceset/r_Medial_Rectus/LPF_velocity
+y[409] = /forceset/r_Medial_Rectus/LPF_acceleration
+y[410] = /forceset/r_Medial_Rectus/spindle/dynamic_activation
+y[411] = /forceset/r_Medial_Rectus/spindle/static_activation
+y[412] = /forceset/r_Medial_Rectus/spindle/tension_bag1
+y[413] = /forceset/r_Medial_Rectus/spindle/tension_bag2
+y[414] = /forceset/r_Medial_Rectus/spindle/tension_chain
+y[415] = /forceset/r_Medial_Rectus/spindle/tension_bag1_deriv
+y[416] = /forceset/r_Medial_Rectus/spindle/tension_bag2_deriv
+y[417] = /forceset/r_Medial_Rectus/spindle/tension_chain_deriv
+y[418] = /forceset/r_Medial_Rectus/GTO/nonlinear
+y[419] = /forceset/r_Medial_Rectus/GTO/nonlinear_deriv
+y[420] = /forceset/r_Medial_Rectus/GTO/filter_out
+y[421] = /forceset/r_Medial_Rectus/GTO/filter_out_deriv
+y[422] = /forceset/r_Superior_Rectus/activation
+y[423] = /forceset/r_Superior_Rectus/LPF_velocity
+y[424] = /forceset/r_Superior_Rectus/LPF_acceleration
+y[425] = /forceset/r_Superior_Rectus/spindle/dynamic_activation
+y[426] = /forceset/r_Superior_Rectus/spindle/static_activation
+y[427] = /forceset/r_Superior_Rectus/spindle/tension_bag1
+y[428] = /forceset/r_Superior_Rectus/spindle/tension_bag2
+y[429] = /forceset/r_Superior_Rectus/spindle/tension_chain
+y[430] = /forceset/r_Superior_Rectus/spindle/tension_bag1_deriv
+y[431] = /forceset/r_Superior_Rectus/spindle/tension_bag2_deriv
+y[432] = /forceset/r_Superior_Rectus/spindle/tension_chain_deriv
+y[433] = /forceset/r_Superior_Rectus/GTO/nonlinear
+y[434] = /forceset/r_Superior_Rectus/GTO/nonlinear_deriv
+y[435] = /forceset/r_Superior_Rectus/GTO/filter_out
+y[436] = /forceset/r_Superior_Rectus/GTO/filter_out_deriv
+y[437] = /forceset/r_Inferior_Rectus/activation
+y[438] = /forceset/r_Inferior_Rectus/LPF_velocity
+y[439] = /forceset/r_Inferior_Rectus/LPF_acceleration
+y[440] = /forceset/r_Inferior_Rectus/spindle/dynamic_activation
+y[441] = /forceset/r_Inferior_Rectus/spindle/static_activation
+y[442] = /forceset/r_Inferior_Rectus/spindle/tension_bag1
+y[443] = /forceset/r_Inferior_Rectus/spindle/tension_bag2
+y[444] = /forceset/r_Inferior_Rectus/spindle/tension_chain
+y[445] = /forceset/r_Inferior_Rectus/spindle/tension_bag1_deriv
+y[446] = /forceset/r_Inferior_Rectus/spindle/tension_bag2_deriv
+y[447] = /forceset/r_Inferior_Rectus/spindle/tension_chain_deriv
+y[448] = /forceset/r_Inferior_Rectus/GTO/nonlinear
+y[449] = /forceset/r_Inferior_Rectus/GTO/nonlinear_deriv
+y[450] = /forceset/r_Inferior_Rectus/GTO/filter_out
+y[451] = /forceset/r_Inferior_Rectus/GTO/filter_out_deriv
+y[452] = /forceset/r_Superior_Oblique/activation
+y[453] = /forceset/r_Superior_Oblique/LPF_velocity
+y[454] = /forceset/r_Superior_Oblique/LPF_acceleration
+y[455] = /forceset/r_Superior_Oblique/spindle/dynamic_activation
+y[456] = /forceset/r_Superior_Oblique/spindle/static_activation
+y[457] = /forceset/r_Superior_Oblique/spindle/tension_bag1
+y[458] = /forceset/r_Superior_Oblique/spindle/tension_bag2
+y[459] = /forceset/r_Superior_Oblique/spindle/tension_chain
+y[460] = /forceset/r_Superior_Oblique/spindle/tension_bag1_deriv
+y[461] = /forceset/r_Superior_Oblique/spindle/tension_bag2_deriv
+y[462] = /forceset/r_Superior_Oblique/spindle/tension_chain_deriv
+y[463] = /forceset/r_Superior_Oblique/GTO/nonlinear
+y[464] = /forceset/r_Superior_Oblique/GTO/nonlinear_deriv
+y[465] = /forceset/r_Superior_Oblique/GTO/filter_out
+y[466] = /forceset/r_Superior_Oblique/GTO/filter_out_deriv
+y[467] = /forceset/r_Inferior_Oblique/activation
+y[468] = /forceset/r_Inferior_Oblique/LPF_velocity
+y[469] = /forceset/r_Inferior_Oblique/LPF_acceleration
+y[470] = /forceset/r_Inferior_Oblique/spindle/dynamic_activation
+y[471] = /forceset/r_Inferior_Oblique/spindle/static_activation
+y[472] = /forceset/r_Inferior_Oblique/spindle/tension_bag1
+y[473] = /forceset/r_Inferior_Oblique/spindle/tension_bag2
+y[474] = /forceset/r_Inferior_Oblique/spindle/tension_chain
+y[475] = /forceset/r_Inferior_Oblique/spindle/tension_bag1_deriv
+y[476] = /forceset/r_Inferior_Oblique/spindle/tension_bag2_deriv
+y[477] = /forceset/r_Inferior_Oblique/spindle/tension_chain_deriv
+y[478] = /forceset/r_Inferior_Oblique/GTO/nonlinear
+y[479] = /forceset/r_Inferior_Oblique/GTO/nonlinear_deriv
+y[480] = /forceset/r_Inferior_Oblique/GTO/filter_out
+y[481] = /forceset/r_Inferior_Oblique/GTO/filter_out_deriv
+y[482] = /forceset/l_Lateral_Rectus/activation
+y[483] = /forceset/l_Lateral_Rectus/LPF_velocity
+y[484] = /forceset/l_Lateral_Rectus/LPF_acceleration
+y[485] = /forceset/l_Lateral_Rectus/spindle/dynamic_activation
+y[486] = /forceset/l_Lateral_Rectus/spindle/static_activation
+y[487] = /forceset/l_Lateral_Rectus/spindle/tension_bag1
+y[488] = /forceset/l_Lateral_Rectus/spindle/tension_bag2
+y[489] = /forceset/l_Lateral_Rectus/spindle/tension_chain
+y[490] = /forceset/l_Lateral_Rectus/spindle/tension_bag1_deriv
+y[491] = /forceset/l_Lateral_Rectus/spindle/tension_bag2_deriv
+y[492] = /forceset/l_Lateral_Rectus/spindle/tension_chain_deriv
+y[493] = /forceset/l_Lateral_Rectus/GTO/nonlinear
+y[494] = /forceset/l_Lateral_Rectus/GTO/nonlinear_deriv
+y[495] = /forceset/l_Lateral_Rectus/GTO/filter_out
+y[496] = /forceset/l_Lateral_Rectus/GTO/filter_out_deriv
+y[497] = /forceset/l_Medial_Rectus/activation
+y[498] = /forceset/l_Medial_Rectus/LPF_velocity
+y[499] = /forceset/l_Medial_Rectus/LPF_acceleration
+y[500] = /forceset/l_Medial_Rectus/spindle/dynamic_activation
+y[501] = /forceset/l_Medial_Rectus/spindle/static_activation
+y[502] = /forceset/l_Medial_Rectus/spindle/tension_bag1
+y[503] = /forceset/l_Medial_Rectus/spindle/tension_bag2
+y[504] = /forceset/l_Medial_Rectus/spindle/tension_chain
+y[505] = /forceset/l_Medial_Rectus/spindle/tension_bag1_deriv
+y[506] = /forceset/l_Medial_Rectus/spindle/tension_bag2_deriv
+y[507] = /forceset/l_Medial_Rectus/spindle/tension_chain_deriv
+y[508] = /forceset/l_Medial_Rectus/GTO/nonlinear
+y[509] = /forceset/l_Medial_Rectus/GTO/nonlinear_deriv
+y[510] = /forceset/l_Medial_Rectus/GTO/filter_out
+y[511] = /forceset/l_Medial_Rectus/GTO/filter_out_deriv
+y[512] = /forceset/l_Superior_Rectus/activation
+y[513] = /forceset/l_Superior_Rectus/LPF_velocity
+y[514] = /forceset/l_Superior_Rectus/LPF_acceleration
+y[515] = /forceset/l_Superior_Rectus/spindle/dynamic_activation
+y[516] = /forceset/l_Superior_Rectus/spindle/static_activation
+y[517] = /forceset/l_Superior_Rectus/spindle/tension_bag1
+y[518] = /forceset/l_Superior_Rectus/spindle/tension_bag2
+y[519] = /forceset/l_Superior_Rectus/spindle/tension_chain
+y[520] = /forceset/l_Superior_Rectus/spindle/tension_bag1_deriv
+y[521] = /forceset/l_Superior_Rectus/spindle/tension_bag2_deriv
+y[522] = /forceset/l_Superior_Rectus/spindle/tension_chain_deriv
+y[523] = /forceset/l_Superior_Rectus/GTO/nonlinear
+y[524] = /forceset/l_Superior_Rectus/GTO/nonlinear_deriv
+y[525] = /forceset/l_Superior_Rectus/GTO/filter_out
+y[526] = /forceset/l_Superior_Rectus/GTO/filter_out_deriv
+y[527] = /forceset/l_Inferior_Rectus/activation
+y[528] = /forceset/l_Inferior_Rectus/LPF_velocity
+y[529] = /forceset/l_Inferior_Rectus/LPF_acceleration
+y[530] = /forceset/l_Inferior_Rectus/spindle/dynamic_activation
+y[531] = /forceset/l_Inferior_Rectus/spindle/static_activation
+y[532] = /forceset/l_Inferior_Rectus/spindle/tension_bag1
+y[533] = /forceset/l_Inferior_Rectus/spindle/tension_bag2
+y[534] = /forceset/l_Inferior_Rectus/spindle/tension_chain
+y[535] = /forceset/l_Inferior_Rectus/spindle/tension_bag1_deriv
+y[536] = /forceset/l_Inferior_Rectus/spindle/tension_bag2_deriv
+y[537] = /forceset/l_Inferior_Rectus/spindle/tension_chain_deriv
+y[538] = /forceset/l_Inferior_Rectus/GTO/nonlinear
+y[539] = /forceset/l_Inferior_Rectus/GTO/nonlinear_deriv
+y[540] = /forceset/l_Inferior_Rectus/GTO/filter_out
+y[541] = /forceset/l_Inferior_Rectus/GTO/filter_out_deriv
+y[542] = /forceset/l_Superior_Oblique/activation
+y[543] = /forceset/l_Superior_Oblique/LPF_velocity
+y[544] = /forceset/l_Superior_Oblique/LPF_acceleration
+y[545] = /forceset/l_Superior_Oblique/spindle/dynamic_activation
+y[546] = /forceset/l_Superior_Oblique/spindle/static_activation
+y[547] = /forceset/l_Superior_Oblique/spindle/tension_bag1
+y[548] = /forceset/l_Superior_Oblique/spindle/tension_bag2
+y[549] = /forceset/l_Superior_Oblique/spindle/tension_chain
+y[550] = /forceset/l_Superior_Oblique/spindle/tension_bag1_deriv
+y[551] = /forceset/l_Superior_Oblique/spindle/tension_bag2_deriv
+y[552] = /forceset/l_Superior_Oblique/spindle/tension_chain_deriv
+y[553] = /forceset/l_Superior_Oblique/GTO/nonlinear
+y[554] = /forceset/l_Superior_Oblique/GTO/nonlinear_deriv
+y[555] = /forceset/l_Superior_Oblique/GTO/filter_out
+y[556] = /forceset/l_Superior_Oblique/GTO/filter_out_deriv
+y[557] = /forceset/l_Inferior_Oblique/activation
+y[558] = /forceset/l_Inferior_Oblique/LPF_velocity
+y[559] = /forceset/l_Inferior_Oblique/LPF_acceleration
+y[560] = /forceset/l_Inferior_Oblique/spindle/dynamic_activation
+y[561] = /forceset/l_Inferior_Oblique/spindle/static_activation
+y[562] = /forceset/l_Inferior_Oblique/spindle/tension_bag1
+y[563] = /forceset/l_Inferior_Oblique/spindle/tension_bag2
+y[564] = /forceset/l_Inferior_Oblique/spindle/tension_chain
+y[565] = /forceset/l_Inferior_Oblique/spindle/tension_bag1_deriv
+y[566] = /forceset/l_Inferior_Oblique/spindle/tension_bag2_deriv
+y[567] = /forceset/l_Inferior_Oblique/spindle/tension_chain_deriv
+y[568] = /forceset/l_Inferior_Oblique/GTO/nonlinear
+y[569] = /forceset/l_Inferior_Oblique/GTO/nonlinear_deriv
+y[570] = /forceset/l_Inferior_Oblique/GTO/filter_out
+y[571] = /forceset/l_Inferior_Oblique/GTO/filter_out_deriv
+
+[2026-08-31 21:58:25.551] [info] -------
+[2026-08-31 21:58:25.551] [info] Manager
+[2026-08-31 21:58:25.551] [info] -------
+[2026-08-31 21:58:25.551] [info] Starting integration at initial time 0.00 s...
+[2026-08-31 21:58:25.662] [warning] Coordinate.setValue:  coordinate gndpitch is locked. Unable to change its value.
+[2026-08-31 21:58:25.663] [warning] Coordinate.setValue:  coordinate gndroll is locked. Unable to change its value.
+[2026-08-31 21:58:25.663] [warning] Coordinate.setValue:  coordinate gndyaw is locked. Unable to change its value.
+[2026-08-31 21:58:25.663] [warning] Coordinate.setValue:  coordinate spine_tx is locked. Unable to change its value.
+[2026-08-31 21:58:25.663] [warning] Coordinate.setValue:  coordinate spine_ty is locked. Unable to change its value.
+[2026-08-31 21:58:25.663] [warning] Coordinate.setValue:  coordinate spine_tz is locked. Unable to change its value.
+[2026-08-31 21:59:35.538] [info] Integration complete at final time 1.00 s.
+[2026-08-31 21:59:35.538] [info]  - CPU time elapsed: 83.359375 s
+[2026-08-31 21:59:35.538] [info]  - real time elapsed: 69.986347 s
+[2026-08-31 21:59:35.538] [info]  - ratio sim-to-real time: 0.014
+[2026-08-31 21:59:35.538] [info]  - integrator method: RungeKuttaMerson
+[2026-08-31 21:59:35.538] [info]  - number of realizations: 58353
+[2026-08-31 21:59:35.538] [info]  - number of steps taken / attempted: 11668 / 11671
+[2026-08-31 21:59:35.538] [info]  - number of projections: 1
+[2026-08-31 21:59:35.538] [info]  - number of iterations: 11671
+[2026-08-31 21:59:35.538] [info] Printing results of investigation HYOID_Scaled to D:\Akademik\PhD_Thesis\OpenSim\Proprioception_Plugin_Opensim4_6_Explicit\osim_files
+[2026-08-31 22:00:40.077] [info] Updating Model file from 30000 to latest format...
+[2026-08-31 22:00:40.082] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:00:40.082] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:00:40.082] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:00:40.082] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:00:40.082] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:00:40.082] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:00:40.082] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:00:40.082] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:00:40.082] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:00:40.082] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:00:40.082] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:00:40.082] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:00:40.082] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:00:40.082] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:00:40.082] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:00:40.082] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:00:40.082] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:00:40.082] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:00:40.082] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:00:40.082] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:00:40.083] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:00:40.083] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:00:40.083] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:00:40.083] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:00:40.083] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:00:40.083] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:00:40.083] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:00:40.083] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:00:40.083] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:00:40.083] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:00:40.083] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:00:40.083] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:00:40.083] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:00:40.083] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:00:40.083] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:00:40.083] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:00:40.083] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:00:40.083] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:00:40.084] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:00:40.084] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:00:40.084] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:00:40.084] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:00:40.084] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:00:40.084] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:00:40.084] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:00:40.084] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:00:40.084] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:00:40.084] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:00:40.084] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:00:40.084] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:00:40.084] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:00:40.084] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:00:40.084] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:00:40.084] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:00:40.084] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:00:40.084] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:00:40.093] [info] Loaded model HYOID_Scaled from file D:\Akademik\PhD_Thesis\OpenSim\Proprioception_Plugin_Opensim4_6_Explicit\osim_files\HYOID_ScaledStrength_v1.2andEye_v1_IndependentEyes_Afferents.osim
+[2026-08-31 22:00:40.161] [info] 'ComponentSet' was renamed and is being set to 'componentset'.
+[2026-08-31 22:01:53.185] [info] Updating Model file from 30000 to latest format...
+[2026-08-31 22:01:53.190] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:01:53.190] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:01:53.190] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:01:53.190] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:01:53.190] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:01:53.190] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:01:53.190] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:01:53.190] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:01:53.190] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:01:53.190] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:01:53.190] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:01:53.190] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:01:53.190] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:01:53.190] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:01:53.190] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:01:53.190] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:01:53.190] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:01:53.190] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:01:53.190] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:01:53.190] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:01:53.191] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:01:53.191] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:01:53.191] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:01:53.191] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:01:53.191] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:01:53.191] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:01:53.191] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:01:53.191] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:01:53.191] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:01:53.191] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:01:53.191] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:01:53.191] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:01:53.191] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:01:53.191] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:01:53.191] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:01:53.191] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:01:53.191] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:01:53.191] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:01:53.191] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:01:53.191] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:01:53.192] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:01:53.192] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:01:53.192] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:01:53.192] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:01:53.192] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:01:53.192] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:01:53.192] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:01:53.192] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:01:53.192] [warning] PathPoint name 'digastric post-P1' contains whitespace.
+[2026-08-31 22:01:53.192] [warning] It was renamed to 'digastricpost-P1'.
+[2026-08-31 22:01:53.192] [warning] PathPoint name 'digastric post-P2' contains whitespace.
+[2026-08-31 22:01:53.192] [warning] It was renamed to 'digastricpost-P2'.
+[2026-08-31 22:01:53.201] [info] Loaded model HYOID_Scaled from file D:\Akademik\PhD_Thesis\OpenSim\Proprioception_Plugin_Opensim4_6_Explicit\osim_files\HYOID_ScaledStrength_v1.2andEye_v1_IndependentEyes_Afferents.osim
+[2026-08-31 22:01:53.269] [info] 'ComponentSet' was renamed and is being set to 'componentset'.
+[2026-08-31 22:03:18.454] [info] Updating Model file from 30000 to latest format...
+[2026-08-31 22:03:18.469] [info] Loaded model HYOID_Scaled from file D:\Akademik\PhD_Thesis\OpenSim\Proprioception_Plugin_Opensim4_6_Explicit\osim_files\HYOID_ScaledStrength_v1.2andEye_v1_IndependentEyes_Afferents.osim
+[2026-08-31 22:03:18.537] [info] 'ComponentSet' was renamed and is being set to 'componentset'.
+[2026-08-31 22:04:13.385] [info] Updating Model file from 30000 to latest format...
+[2026-08-31 22:04:13.402] [info] Loaded model HYOID_Scaled from file D:\Akademik\PhD_Thesis\OpenSim\Proprioception_Plugin_Opensim4_6_Explicit\osim_files\HYOID_ScaledStrength_v1.2andEye_v1_IndependentEyes_Afferents.osim
+[2026-08-31 22:04:50.653] [warning] Running tool HYOID_Scaled...
+[2026-08-31 22:04:50.653] [info] No external loads will be applied (external loads file not specified).
+[2026-08-31 22:04:50.664] [cout] [info] MODEL: HYOID_Scaled
+
+numStates = 572
+numCoordinates = 36
+numSpeeds = 36
+numActuators = 86
+numBodies = 17
+numConstraints = 18
+numProbes = 0
+
+ANALYSES (total: 2)
+analysis[0] = Un-named analysis.
+analysis[1] = Un-named analysis.
+
+BODIES (total: 17)
+body[0] = spine. mass: 70
+              moments of inertia:  ~[1,1,1]
+              products of inertia: ~[0,0,0]
+body[1] = rscapula. mass: 1
+              moments of inertia:  ~[1,1,0.5]
+              products of inertia: ~[0,0,0]
+body[2] = rclavicle. mass: 1
+              moments of inertia:  ~[1,1,0.5]
+              products of inertia: ~[0,0,0]
+body[3] = lscapula. mass: 1
+              moments of inertia:  ~[1,1,0.5]
+              products of inertia: ~[0,0,0]
+body[4] = lclavicle. mass: 1
+              moments of inertia:  ~[1,1,0.5]
+              products of inertia: ~[0,0,0]
+body[5] = ribcage. mass: 1
+              moments of inertia:  ~[1,1,0.75]
+              products of inertia: ~[0,0,0]
+body[6] = cerv7. mass: 0.584085
+              moments of inertia:  ~[0.02,0.08,0.02]
+              products of inertia: ~[0,0,0]
+body[7] = cerv6. mass: 0.507749
+              moments of inertia:  ~[0.02,0.08,0.02]
+              products of inertia: ~[0,0,0]
+body[8] = cerv5. mass: 0.4291
+              moments of inertia:  ~[0.02,0.08,0.02]
+              products of inertia: ~[0,0,0]
+body[9] = cerv4. mass: 0.423317
+              moments of inertia:  ~[0.02,0.08,0.02]
+              products of inertia: ~[0,0,0]
+body[10] = cerv3. mass: 0.419847
+              moments of inertia:  ~[0.02,0.08,0.02]
+              products of inertia: ~[0,0,0]
+body[11] = cerv2. mass: 0.587554
+              moments of inertia:  ~[0.02,0.08,0.02]
+              products of inertia: ~[0,0,0]
+body[12] = cerv1. mass: 0.467268
+              moments of inertia:  ~[0.02,0.08,0.02]
+              products of inertia: ~[0,0,0]
+body[13] = skull. mass: 4.3
+              moments of inertia:  ~[0.02073,0.015,0.022605]
+              products of inertia: ~[0,0,0]
+body[14] = jaw. mass: 0
+              moments of inertia:  ~[0,0,0]
+              products of inertia: ~[0,0,0]
+body[15] = r_eye. mass: 0.0075
+              moments of inertia:  ~[4.32e-07,4.32e-07,4.32e-07]
+              products of inertia: ~[0,0,0]
+body[16] = l_eye. mass: 0.0075
+              moments of inertia:  ~[4.32e-07,4.32e-07,4.32e-07]
+              products of inertia: ~[0,0,0]
+
+JOINTS (total: 17)
+joint[0] = spine. parent: ground_offset, child: spine_offset
+joint[1] = rscapulajnt. parent: spine_offset, child: rscapula_offset
+joint[2] = rclaviclejnt. parent: spine_offset, child: rclavicle_offset
+joint[3] = lscapulajnt. parent: spine_offset, child: lscapula_offset
+joint[4] = lclaviclejnt. parent: spine_offset, child: lclavicle_offset
+joint[5] = ribcagejnt. parent: spine_offset, child: ribcage_offset
+joint[6] = auxt1jnt. parent: spine_offset, child: cerv7_offset
+joint[7] = aux7jnt. parent: cerv7_offset, child: cerv6_offset
+joint[8] = aux6jnt. parent: cerv6_offset, child: cerv5_offset
+joint[9] = aux5jnt. parent: cerv5_offset, child: cerv4_offset
+joint[10] = aux4jnt. parent: cerv4_offset, child: cerv3_offset
+joint[11] = aux3jnt. parent: cerv3_offset, child: cerv2_offset
+joint[12] = aux2jnt. parent: cerv2_offset, child: cerv1_offset
+joint[13] = aux1jnt. parent: cerv1_offset, child: skull_offset
+joint[14] = jawjnt. parent: skull_offset, child: jaw_offset
+joint[15] = Right_Eye_Joint. parent: skull_offset, child: r_eye_offset
+joint[16] = Left_Eye_Joint. parent: skull_offset, child: l_eye_offset
+
+ACTUATORS (total: 86)
+actuator[0] = Skull_Impact
+actuator[1] = Skull_Moment
+actuator[2] = digastric_post
+actuator[3] = digastric_ant
+actuator[4] = Geniohyoid
+actuator[5] = Mylohyoid_Post
+actuator[6] = Mylohyoid_Ant
+actuator[7] = Stylohyoid_Lat
+actuator[8] = Stylohyoid_Med
+actuator[9] = Sterno_hyoid
+actuator[10] = SternoThyroid
+actuator[11] = Omo_hyoid
+actuator[12] = digastric_post_L
+actuator[13] = digastric_ant_L
+actuator[14] = Geniohyoid_L
+actuator[15] = Mylohyoid_Post_L
+actuator[16] = Mylohyoid_Ant_L
+actuator[17] = Stylohyoid_Lat_L
+actuator[18] = Stylohyoid_Med_L
+actuator[19] = Sterno_hyoid_L
+actuator[20] = SternoThyroid_L
+actuator[21] = Omo_hyoid_L
+actuator[22] = stern_mast
+actuator[23] = stern_mast_L
+actuator[24] = cleid_mast
+actuator[25] = cleid_mast_L
+actuator[26] = cleid_occ
+actuator[27] = cleid_occ_L
+actuator[28] = scalenus_ant
+actuator[29] = scalenus_ant_L
+actuator[30] = scalenus_med
+actuator[31] = scalenus_med_L
+actuator[32] = scalenus_post
+actuator[33] = scalenus_post_L
+actuator[34] = long_cap_sklc4
+actuator[35] = long_cap_sklc4_L
+actuator[36] = long_col_c1thx
+actuator[37] = long_col_c1thx_L
+actuator[38] = long_col_c1c5
+actuator[39] = long_col_c1c5_L
+actuator[40] = long_col_c5thx
+actuator[41] = long_col_c5thx_L
+actuator[42] = trap_cl
+actuator[43] = trap_cl_L
+actuator[44] = trap_acr
+actuator[45] = trap_acr_L
+actuator[46] = splen_cap_sklc6
+actuator[47] = splen_cap_sklc6_L
+actuator[48] = splen_cap_sklthx
+actuator[49] = splen_cap_sklthx_L
+actuator[50] = splen_cerv_c3thx
+actuator[51] = splen_cerv_c3thx_L
+actuator[52] = semi_cap_sklc5
+actuator[53] = semi_cap_sklc5_L
+actuator[54] = semi_cap_sklthx
+actuator[55] = semi_cap_sklthx_L
+actuator[56] = semi_cerv_c3thx
+actuator[57] = semi_cerv_c3thx_L
+actuator[58] = levator_scap
+actuator[59] = levator_scap_L
+actuator[60] = longissi_cap_sklc6
+actuator[61] = longissi_cap_sklc6_L
+actuator[62] = longissi_cerv_c4thx
+actuator[63] = longissi_cerv_c4thx_L
+actuator[64] = iliocost_cerv_c5rib
+actuator[65] = iliocost_cerv_c5rib_L
+actuator[66] = rectcap_post_maj
+actuator[67] = rectcap_post_maj_L
+actuator[68] = rectcap_post_min
+actuator[69] = rectcap_post_min_L
+actuator[70] = obl_cap_sup
+actuator[71] = obl_cap_sup_L
+actuator[72] = obl_cap_inf
+actuator[73] = obl_cap_inf_L
+actuator[74] = r_Lateral_Rectus
+actuator[75] = r_Medial_Rectus
+actuator[76] = r_Superior_Rectus
+actuator[77] = r_Inferior_Rectus
+actuator[78] = r_Superior_Oblique
+actuator[79] = r_Inferior_Oblique
+actuator[80] = l_Lateral_Rectus
+actuator[81] = l_Medial_Rectus
+actuator[82] = l_Superior_Rectus
+actuator[83] = l_Inferior_Rectus
+actuator[84] = l_Superior_Oblique
+actuator[85] = l_Inferior_Oblique
+
+STATES (total: 572)
+y[0] = /jointset/spine/gndpitch/value
+y[1] = /jointset/spine/gndpitch/speed
+y[2] = /jointset/spine/gndroll/value
+y[3] = /jointset/spine/gndroll/speed
+y[4] = /jointset/spine/gndyaw/value
+y[5] = /jointset/spine/gndyaw/speed
+y[6] = /jointset/spine/spine_tx/value
+y[7] = /jointset/spine/spine_tx/speed
+y[8] = /jointset/spine/spine_ty/value
+y[9] = /jointset/spine/spine_ty/speed
+y[10] = /jointset/spine/spine_tz/value
+y[11] = /jointset/spine/spine_tz/speed
+y[12] = /jointset/auxt1jnt/pitch2/value
+y[13] = /jointset/auxt1jnt/pitch2/speed
+y[14] = /jointset/auxt1jnt/roll2/value
+y[15] = /jointset/auxt1jnt/roll2/speed
+y[16] = /jointset/auxt1jnt/yaw2/value
+y[17] = /jointset/auxt1jnt/yaw2/speed
+y[18] = /jointset/aux7jnt/aux7jnt_r3/value
+y[19] = /jointset/aux7jnt/aux7jnt_r3/speed
+y[20] = /jointset/aux7jnt/aux7jnt_r1/value
+y[21] = /jointset/aux7jnt/aux7jnt_r1/speed
+y[22] = /jointset/aux7jnt/aux7jnt_r2/value
+y[23] = /jointset/aux7jnt/aux7jnt_r2/speed
+y[24] = /jointset/aux6jnt/aux6jnt_r3/value
+y[25] = /jointset/aux6jnt/aux6jnt_r3/speed
+y[26] = /jointset/aux6jnt/aux6jnt_r1/value
+y[27] = /jointset/aux6jnt/aux6jnt_r1/speed
+y[28] = /jointset/aux6jnt/aux6jnt_r2/value
+y[29] = /jointset/aux6jnt/aux6jnt_r2/speed
+y[30] = /jointset/aux5jnt/aux5jnt_r3/value
+y[31] = /jointset/aux5jnt/aux5jnt_r3/speed
+y[32] = /jointset/aux5jnt/aux5jnt_r1/value
+y[33] = /jointset/aux5jnt/aux5jnt_r1/speed
+y[34] = /jointset/aux5jnt/aux5jnt_r2/value
+y[35] = /jointset/aux5jnt/aux5jnt_r2/speed
+y[36] = /jointset/aux4jnt/aux4jnt_r3/value
+y[37] = /jointset/aux4jnt/aux4jnt_r3/speed
+y[38] = /jointset/aux4jnt/aux4jnt_r1/value
+y[39] = /jointset/aux4jnt/aux4jnt_r1/speed
+y[40] = /jointset/aux4jnt/aux4jnt_r2/value
+y[41] = /jointset/aux4jnt/aux4jnt_r2/speed
+y[42] = /jointset/aux3jnt/aux3jnt_r3/value
+y[43] = /jointset/aux3jnt/aux3jnt_r3/speed
+y[44] = /jointset/aux3jnt/aux3jnt_r1/value
+y[45] = /jointset/aux3jnt/aux3jnt_r1/speed
+y[46] = /jointset/aux3jnt/aux3jnt_r2/value
+y[47] = /jointset/aux3jnt/aux3jnt_r2/speed
+y[48] = /jointset/aux2jnt/pitch1/value
+y[49] = /jointset/aux2jnt/pitch1/speed
+y[50] = /jointset/aux2jnt/roll1/value
+y[51] = /jointset/aux2jnt/roll1/speed
+y[52] = /jointset/aux2jnt/yaw1/value
+y[53] = /jointset/aux2jnt/yaw1/speed
+y[54] = /jointset/aux1jnt/aux1jnt_r3/value
+y[55] = /jointset/aux1jnt/aux1jnt_r3/speed
+y[56] = /jointset/aux1jnt/aux1jnt_r1/value
+y[57] = /jointset/aux1jnt/aux1jnt_r1/speed
+y[58] = /jointset/aux1jnt/aux1jnt_r2/value
+y[59] = /jointset/aux1jnt/aux1jnt_r2/speed
+y[60] = /jointset/Right_Eye_Joint/r_eye_add_abd/value
+y[61] = /jointset/Right_Eye_Joint/r_eye_add_abd/speed
+y[62] = /jointset/Right_Eye_Joint/r_eye_sup_inf/value
+y[63] = /jointset/Right_Eye_Joint/r_eye_sup_inf/speed
+y[64] = /jointset/Right_Eye_Joint/r_eye_inc_exc/value
+y[65] = /jointset/Right_Eye_Joint/r_eye_inc_exc/speed
+y[66] = /jointset/Left_Eye_Joint/l_eye_add_abd/value
+y[67] = /jointset/Left_Eye_Joint/l_eye_add_abd/speed
+y[68] = /jointset/Left_Eye_Joint/l_eye_sup_inf/value
+y[69] = /jointset/Left_Eye_Joint/l_eye_sup_inf/speed
+y[70] = /jointset/Left_Eye_Joint/l_eye_inc_exc/value
+y[71] = /jointset/Left_Eye_Joint/l_eye_inc_exc/speed
+y[72] = /forceset/digastric_post/activation
+y[73] = /forceset/digastric_post/fiber_length
+y[74] = /forceset/digastric_ant/activation
+y[75] = /forceset/digastric_ant/fiber_length
+y[76] = /forceset/Geniohyoid/activation
+y[77] = /forceset/Geniohyoid/fiber_length
+y[78] = /forceset/Mylohyoid_Post/activation
+y[79] = /forceset/Mylohyoid_Post/fiber_length
+y[80] = /forceset/Mylohyoid_Ant/activation
+y[81] = /forceset/Mylohyoid_Ant/fiber_length
+y[82] = /forceset/Stylohyoid_Lat/activation
+y[83] = /forceset/Stylohyoid_Lat/fiber_length
+y[84] = /forceset/Stylohyoid_Med/activation
+y[85] = /forceset/Stylohyoid_Med/fiber_length
+y[86] = /forceset/Sterno_hyoid/activation
+y[87] = /forceset/Sterno_hyoid/fiber_length
+y[88] = /forceset/SternoThyroid/activation
+y[89] = /forceset/SternoThyroid/fiber_length
+y[90] = /forceset/Omo_hyoid/activation
+y[91] = /forceset/Omo_hyoid/fiber_length
+y[92] = /forceset/digastric_post_L/activation
+y[93] = /forceset/digastric_post_L/fiber_length
+y[94] = /forceset/digastric_ant_L/activation
+y[95] = /forceset/digastric_ant_L/fiber_length
+y[96] = /forceset/Geniohyoid_L/activation
+y[97] = /forceset/Geniohyoid_L/fiber_length
+y[98] = /forceset/Mylohyoid_Post_L/activation
+y[99] = /forceset/Mylohyoid_Post_L/fiber_length
+y[100] = /forceset/Mylohyoid_Ant_L/activation
+y[101] = /forceset/Mylohyoid_Ant_L/fiber_length
+y[102] = /forceset/Stylohyoid_Lat_L/activation
+y[103] = /forceset/Stylohyoid_Lat_L/fiber_length
+y[104] = /forceset/Stylohyoid_Med_L/activation
+y[105] = /forceset/Stylohyoid_Med_L/fiber_length
+y[106] = /forceset/Sterno_hyoid_L/activation
+y[107] = /forceset/Sterno_hyoid_L/fiber_length
+y[108] = /forceset/SternoThyroid_L/activation
+y[109] = /forceset/SternoThyroid_L/fiber_length
+y[110] = /forceset/Omo_hyoid_L/activation
+y[111] = /forceset/Omo_hyoid_L/fiber_length
+y[112] = /forceset/stern_mast/activation
+y[113] = /forceset/stern_mast/fiber_length
+y[114] = /forceset/stern_mast/LPF_velocity
+y[115] = /forceset/stern_mast/LPF_acceleration
+y[116] = /forceset/stern_mast/spindle/dynamic_activation
+y[117] = /forceset/stern_mast/spindle/static_activation
+y[118] = /forceset/stern_mast/spindle/tension_bag1
+y[119] = /forceset/stern_mast/spindle/tension_bag2
+y[120] = /forceset/stern_mast/spindle/tension_chain
+y[121] = /forceset/stern_mast/spindle/tension_bag1_deriv
+y[122] = /forceset/stern_mast/spindle/tension_bag2_deriv
+y[123] = /forceset/stern_mast/spindle/tension_chain_deriv
+y[124] = /forceset/stern_mast/GTO/nonlinear
+y[125] = /forceset/stern_mast/GTO/nonlinear_deriv
+y[126] = /forceset/stern_mast/GTO/filter_out
+y[127] = /forceset/stern_mast/GTO/filter_out_deriv
+y[128] = /forceset/stern_mast_L/activation
+y[129] = /forceset/stern_mast_L/fiber_length
+y[130] = /forceset/stern_mast_L/LPF_velocity
+y[131] = /forceset/stern_mast_L/LPF_acceleration
+y[132] = /forceset/stern_mast_L/spindle/dynamic_activation
+y[133] = /forceset/stern_mast_L/spindle/static_activation
+y[134] = /forceset/stern_mast_L/spindle/tension_bag1
+y[135] = /forceset/stern_mast_L/spindle/tension_bag2
+y[136] = /forceset/stern_mast_L/spindle/tension_chain
+y[137] = /forceset/stern_mast_L/spindle/tension_bag1_deriv
+y[138] = /forceset/stern_mast_L/spindle/tension_bag2_deriv
+y[139] = /forceset/stern_mast_L/spindle/tension_chain_deriv
+y[140] = /forceset/stern_mast_L/GTO/nonlinear
+y[141] = /forceset/stern_mast_L/GTO/nonlinear_deriv
+y[142] = /forceset/stern_mast_L/GTO/filter_out
+y[143] = /forceset/stern_mast_L/GTO/filter_out_deriv
+y[144] = /forceset/cleid_mast/activation
+y[145] = /forceset/cleid_mast/fiber_length
+y[146] = /forceset/cleid_mast_L/activation
+y[147] = /forceset/cleid_mast_L/fiber_length
+y[148] = /forceset/cleid_occ/activation
+y[149] = /forceset/cleid_occ/fiber_length
+y[150] = /forceset/cleid_occ_L/activation
+y[151] = /forceset/cleid_occ_L/fiber_length
+y[152] = /forceset/scalenus_ant/activation
+y[153] = /forceset/scalenus_ant/fiber_length
+y[154] = /forceset/scalenus_ant_L/activation
+y[155] = /forceset/scalenus_ant_L/fiber_length
+y[156] = /forceset/scalenus_med/activation
+y[157] = /forceset/scalenus_med/fiber_length
+y[158] = /forceset/scalenus_med_L/activation
+y[159] = /forceset/scalenus_med_L/fiber_length
+y[160] = /forceset/scalenus_post/activation
+y[161] = /forceset/scalenus_post/fiber_length
+y[162] = /forceset/scalenus_post_L/activation
+y[163] = /forceset/scalenus_post_L/fiber_length
+y[164] = /forceset/long_cap_sklc4/activation
+y[165] = /forceset/long_cap_sklc4/fiber_length
+y[166] = /forceset/long_cap_sklc4_L/activation
+y[167] = /forceset/long_cap_sklc4_L/fiber_length
+y[168] = /forceset/long_col_c1thx/activation
+y[169] = /forceset/long_col_c1thx/fiber_length
+y[170] = /forceset/long_col_c1thx_L/activation
+y[171] = /forceset/long_col_c1thx_L/fiber_length
+y[172] = /forceset/long_col_c1c5/activation
+y[173] = /forceset/long_col_c1c5/fiber_length
+y[174] = /forceset/long_col_c1c5_L/activation
+y[175] = /forceset/long_col_c1c5_L/fiber_length
+y[176] = /forceset/long_col_c5thx/activation
+y[177] = /forceset/long_col_c5thx/fiber_length
+y[178] = /forceset/long_col_c5thx_L/activation
+y[179] = /forceset/long_col_c5thx_L/fiber_length
+y[180] = /forceset/trap_cl/activation
+y[181] = /forceset/trap_cl/fiber_length
+y[182] = /forceset/trap_cl_L/activation
+y[183] = /forceset/trap_cl_L/fiber_length
+y[184] = /forceset/trap_acr/activation
+y[185] = /forceset/trap_acr/fiber_length
+y[186] = /forceset/trap_acr_L/activation
+y[187] = /forceset/trap_acr_L/fiber_length
+y[188] = /forceset/splen_cap_sklc6/activation
+y[189] = /forceset/splen_cap_sklc6/fiber_length
+y[190] = /forceset/splen_cap_sklc6/LPF_velocity
+y[191] = /forceset/splen_cap_sklc6/LPF_acceleration
+y[192] = /forceset/splen_cap_sklc6/spindle/dynamic_activation
+y[193] = /forceset/splen_cap_sklc6/spindle/static_activation
+y[194] = /forceset/splen_cap_sklc6/spindle/tension_bag1
+y[195] = /forceset/splen_cap_sklc6/spindle/tension_bag2
+y[196] = /forceset/splen_cap_sklc6/spindle/tension_chain
+y[197] = /forceset/splen_cap_sklc6/spindle/tension_bag1_deriv
+y[198] = /forceset/splen_cap_sklc6/spindle/tension_bag2_deriv
+y[199] = /forceset/splen_cap_sklc6/spindle/tension_chain_deriv
+y[200] = /forceset/splen_cap_sklc6/GTO/nonlinear
+y[201] = /forceset/splen_cap_sklc6/GTO/nonlinear_deriv
+y[202] = /forceset/splen_cap_sklc6/GTO/filter_out
+y[203] = /forceset/splen_cap_sklc6/GTO/filter_out_deriv
+y[204] = /forceset/splen_cap_sklc6_L/activation
+y[205] = /forceset/splen_cap_sklc6_L/fiber_length
+y[206] = /forceset/splen_cap_sklc6_L/LPF_velocity
+y[207] = /forceset/splen_cap_sklc6_L/LPF_acceleration
+y[208] = /forceset/splen_cap_sklc6_L/spindle/dynamic_activation
+y[209] = /forceset/splen_cap_sklc6_L/spindle/static_activation
+y[210] = /forceset/splen_cap_sklc6_L/spindle/tension_bag1
+y[211] = /forceset/splen_cap_sklc6_L/spindle/tension_bag2
+y[212] = /forceset/splen_cap_sklc6_L/spindle/tension_chain
+y[213] = /forceset/splen_cap_sklc6_L/spindle/tension_bag1_deriv
+y[214] = /forceset/splen_cap_sklc6_L/spindle/tension_bag2_deriv
+y[215] = /forceset/splen_cap_sklc6_L/spindle/tension_chain_deriv
+y[216] = /forceset/splen_cap_sklc6_L/GTO/nonlinear
+y[217] = /forceset/splen_cap_sklc6_L/GTO/nonlinear_deriv
+y[218] = /forceset/splen_cap_sklc6_L/GTO/filter_out
+y[219] = /forceset/splen_cap_sklc6_L/GTO/filter_out_deriv
+y[220] = /forceset/splen_cap_sklthx/activation
+y[221] = /forceset/splen_cap_sklthx/fiber_length
+y[222] = /forceset/splen_cap_sklthx_L/activation
+y[223] = /forceset/splen_cap_sklthx_L/fiber_length
+y[224] = /forceset/splen_cerv_c3thx/activation
+y[225] = /forceset/splen_cerv_c3thx/fiber_length
+y[226] = /forceset/splen_cerv_c3thx_L/activation
+y[227] = /forceset/splen_cerv_c3thx_L/fiber_length
+y[228] = /forceset/semi_cap_sklc5/activation
+y[229] = /forceset/semi_cap_sklc5/fiber_length
+y[230] = /forceset/semi_cap_sklc5/LPF_velocity
+y[231] = /forceset/semi_cap_sklc5/LPF_acceleration
+y[232] = /forceset/semi_cap_sklc5/spindle/dynamic_activation
+y[233] = /forceset/semi_cap_sklc5/spindle/static_activation
+y[234] = /forceset/semi_cap_sklc5/spindle/tension_bag1
+y[235] = /forceset/semi_cap_sklc5/spindle/tension_bag2
+y[236] = /forceset/semi_cap_sklc5/spindle/tension_chain
+y[237] = /forceset/semi_cap_sklc5/spindle/tension_bag1_deriv
+y[238] = /forceset/semi_cap_sklc5/spindle/tension_bag2_deriv
+y[239] = /forceset/semi_cap_sklc5/spindle/tension_chain_deriv
+y[240] = /forceset/semi_cap_sklc5/GTO/nonlinear
+y[241] = /forceset/semi_cap_sklc5/GTO/nonlinear_deriv
+y[242] = /forceset/semi_cap_sklc5/GTO/filter_out
+y[243] = /forceset/semi_cap_sklc5/GTO/filter_out_deriv
+y[244] = /forceset/semi_cap_sklc5_L/activation
+y[245] = /forceset/semi_cap_sklc5_L/fiber_length
+y[246] = /forceset/semi_cap_sklc5_L/LPF_velocity
+y[247] = /forceset/semi_cap_sklc5_L/LPF_acceleration
+y[248] = /forceset/semi_cap_sklc5_L/spindle/dynamic_activation
+y[249] = /forceset/semi_cap_sklc5_L/spindle/static_activation
+y[250] = /forceset/semi_cap_sklc5_L/spindle/tension_bag1
+y[251] = /forceset/semi_cap_sklc5_L/spindle/tension_bag2
+y[252] = /forceset/semi_cap_sklc5_L/spindle/tension_chain
+y[253] = /forceset/semi_cap_sklc5_L/spindle/tension_bag1_deriv
+y[254] = /forceset/semi_cap_sklc5_L/spindle/tension_bag2_deriv
+y[255] = /forceset/semi_cap_sklc5_L/spindle/tension_chain_deriv
+y[256] = /forceset/semi_cap_sklc5_L/GTO/nonlinear
+y[257] = /forceset/semi_cap_sklc5_L/GTO/nonlinear_deriv
+y[258] = /forceset/semi_cap_sklc5_L/GTO/filter_out
+y[259] = /forceset/semi_cap_sklc5_L/GTO/filter_out_deriv
+y[260] = /forceset/semi_cap_sklthx/activation
+y[261] = /forceset/semi_cap_sklthx/fiber_length
+y[262] = /forceset/semi_cap_sklthx_L/activation
+y[263] = /forceset/semi_cap_sklthx_L/fiber_length
+y[264] = /forceset/semi_cerv_c3thx/activation
+y[265] = /forceset/semi_cerv_c3thx/fiber_length
+y[266] = /forceset/semi_cerv_c3thx_L/activation
+y[267] = /forceset/semi_cerv_c3thx_L/fiber_length
+y[268] = /forceset/levator_scap/activation
+y[269] = /forceset/levator_scap/fiber_length
+y[270] = /forceset/levator_scap/LPF_velocity
+y[271] = /forceset/levator_scap/LPF_acceleration
+y[272] = /forceset/levator_scap/spindle/dynamic_activation
+y[273] = /forceset/levator_scap/spindle/static_activation
+y[274] = /forceset/levator_scap/spindle/tension_bag1
+y[275] = /forceset/levator_scap/spindle/tension_bag2
+y[276] = /forceset/levator_scap/spindle/tension_chain
+y[277] = /forceset/levator_scap/spindle/tension_bag1_deriv
+y[278] = /forceset/levator_scap/spindle/tension_bag2_deriv
+y[279] = /forceset/levator_scap/spindle/tension_chain_deriv
+y[280] = /forceset/levator_scap/GTO/nonlinear
+y[281] = /forceset/levator_scap/GTO/nonlinear_deriv
+y[282] = /forceset/levator_scap/GTO/filter_out
+y[283] = /forceset/levator_scap/GTO/filter_out_deriv
+y[284] = /forceset/levator_scap_L/activation
+y[285] = /forceset/levator_scap_L/fiber_length
+y[286] = /forceset/levator_scap_L/LPF_velocity
+y[287] = /forceset/levator_scap_L/LPF_acceleration
+y[288] = /forceset/levator_scap_L/spindle/dynamic_activation
+y[289] = /forceset/levator_scap_L/spindle/static_activation
+y[290] = /forceset/levator_scap_L/spindle/tension_bag1
+y[291] = /forceset/levator_scap_L/spindle/tension_bag2
+y[292] = /forceset/levator_scap_L/spindle/tension_chain
+y[293] = /forceset/levator_scap_L/spindle/tension_bag1_deriv
+y[294] = /forceset/levator_scap_L/spindle/tension_bag2_deriv
+y[295] = /forceset/levator_scap_L/spindle/tension_chain_deriv
+y[296] = /forceset/levator_scap_L/GTO/nonlinear
+y[297] = /forceset/levator_scap_L/GTO/nonlinear_deriv
+y[298] = /forceset/levator_scap_L/GTO/filter_out
+y[299] = /forceset/levator_scap_L/GTO/filter_out_deriv
+y[300] = /forceset/longissi_cap_sklc6/activation
+y[301] = /forceset/longissi_cap_sklc6/fiber_length
+y[302] = /forceset/longissi_cap_sklc6/LPF_velocity
+y[303] = /forceset/longissi_cap_sklc6/LPF_acceleration
+y[304] = /forceset/longissi_cap_sklc6/spindle/dynamic_activation
+y[305] = /forceset/longissi_cap_sklc6/spindle/static_activation
+y[306] = /forceset/longissi_cap_sklc6/spindle/tension_bag1
+y[307] = /forceset/longissi_cap_sklc6/spindle/tension_bag2
+y[308] = /forceset/longissi_cap_sklc6/spindle/tension_chain
+y[309] = /forceset/longissi_cap_sklc6/spindle/tension_bag1_deriv
+y[310] = /forceset/longissi_cap_sklc6/spindle/tension_bag2_deriv
+y[311] = /forceset/longissi_cap_sklc6/spindle/tension_chain_deriv
+y[312] = /forceset/longissi_cap_sklc6/GTO/nonlinear
+y[313] = /forceset/longissi_cap_sklc6/GTO/nonlinear_deriv
+y[314] = /forceset/longissi_cap_sklc6/GTO/filter_out
+y[315] = /forceset/longissi_cap_sklc6/GTO/filter_out_deriv
+y[316] = /forceset/longissi_cap_sklc6_L/activation
+y[317] = /forceset/longissi_cap_sklc6_L/fiber_length
+y[318] = /forceset/longissi_cap_sklc6_L/LPF_velocity
+y[319] = /forceset/longissi_cap_sklc6_L/LPF_acceleration
+y[320] = /forceset/longissi_cap_sklc6_L/spindle/dynamic_activation
+y[321] = /forceset/longissi_cap_sklc6_L/spindle/static_activation
+y[322] = /forceset/longissi_cap_sklc6_L/spindle/tension_bag1
+y[323] = /forceset/longissi_cap_sklc6_L/spindle/tension_bag2
+y[324] = /forceset/longissi_cap_sklc6_L/spindle/tension_chain
+y[325] = /forceset/longissi_cap_sklc6_L/spindle/tension_bag1_deriv
+y[326] = /forceset/longissi_cap_sklc6_L/spindle/tension_bag2_deriv
+y[327] = /forceset/longissi_cap_sklc6_L/spindle/tension_chain_deriv
+y[328] = /forceset/longissi_cap_sklc6_L/GTO/nonlinear
+y[329] = /forceset/longissi_cap_sklc6_L/GTO/nonlinear_deriv
+y[330] = /forceset/longissi_cap_sklc6_L/GTO/filter_out
+y[331] = /forceset/longissi_cap_sklc6_L/GTO/filter_out_deriv
+y[332] = /forceset/longissi_cerv_c4thx/activation
+y[333] = /forceset/longissi_cerv_c4thx/fiber_length
+y[334] = /forceset/longissi_cerv_c4thx_L/activation
+y[335] = /forceset/longissi_cerv_c4thx_L/fiber_length
+y[336] = /forceset/iliocost_cerv_c5rib/activation
+y[337] = /forceset/iliocost_cerv_c5rib/fiber_length
+y[338] = /forceset/iliocost_cerv_c5rib_L/activation
+y[339] = /forceset/iliocost_cerv_c5rib_L/fiber_length
+y[340] = /forceset/rectcap_post_maj/activation
+y[341] = /forceset/rectcap_post_maj/fiber_length
+y[342] = /forceset/rectcap_post_maj/LPF_velocity
+y[343] = /forceset/rectcap_post_maj/LPF_acceleration
+y[344] = /forceset/rectcap_post_maj/spindle/dynamic_activation
+y[345] = /forceset/rectcap_post_maj/spindle/static_activation
+y[346] = /forceset/rectcap_post_maj/spindle/tension_bag1
+y[347] = /forceset/rectcap_post_maj/spindle/tension_bag2
+y[348] = /forceset/rectcap_post_maj/spindle/tension_chain
+y[349] = /forceset/rectcap_post_maj/spindle/tension_bag1_deriv
+y[350] = /forceset/rectcap_post_maj/spindle/tension_bag2_deriv
+y[351] = /forceset/rectcap_post_maj/spindle/tension_chain_deriv
+y[352] = /forceset/rectcap_post_maj/GTO/nonlinear
+y[353] = /forceset/rectcap_post_maj/GTO/nonlinear_deriv
+y[354] = /forceset/rectcap_post_maj/GTO/filter_out
+y[355] = /forceset/rectcap_post_maj/GTO/filter_out_deriv
+y[356] = /forceset/rectcap_post_maj_L/activation
+y[357] = /forceset/rectcap_post_maj_L/fiber_length
+y[358] = /forceset/rectcap_post_maj_L/LPF_velocity
+y[359] = /forceset/rectcap_post_maj_L/LPF_acceleration
+y[360] = /forceset/rectcap_post_maj_L/spindle/dynamic_activation
+y[361] = /forceset/rectcap_post_maj_L/spindle/static_activation
+y[362] = /forceset/rectcap_post_maj_L/spindle/tension_bag1
+y[363] = /forceset/rectcap_post_maj_L/spindle/tension_bag2
+y[364] = /forceset/rectcap_post_maj_L/spindle/tension_chain
+y[365] = /forceset/rectcap_post_maj_L/spindle/tension_bag1_deriv
+y[366] = /forceset/rectcap_post_maj_L/spindle/tension_bag2_deriv
+y[367] = /forceset/rectcap_post_maj_L/spindle/tension_chain_deriv
+y[368] = /forceset/rectcap_post_maj_L/GTO/nonlinear
+y[369] = /forceset/rectcap_post_maj_L/GTO/nonlinear_deriv
+y[370] = /forceset/rectcap_post_maj_L/GTO/filter_out
+y[371] = /forceset/rectcap_post_maj_L/GTO/filter_out_deriv
+y[372] = /forceset/rectcap_post_min/activation
+y[373] = /forceset/rectcap_post_min/fiber_length
+y[374] = /forceset/rectcap_post_min_L/activation
+y[375] = /forceset/rectcap_post_min_L/fiber_length
+y[376] = /forceset/obl_cap_sup/activation
+y[377] = /forceset/obl_cap_sup/fiber_length
+y[378] = /forceset/obl_cap_sup_L/activation
+y[379] = /forceset/obl_cap_sup_L/fiber_length
+y[380] = /forceset/obl_cap_inf/activation
+y[381] = /forceset/obl_cap_inf/fiber_length
+y[382] = /forceset/obl_cap_inf_L/activation
+y[383] = /forceset/obl_cap_inf_L/fiber_length
+y[384] = /forceset/Spine_C7_Bushing/dissipated_energy
+y[385] = /forceset/C7_C6_Bushing/dissipated_energy
+y[386] = /forceset/C6_C5_Bushing/dissipated_energy
+y[387] = /forceset/C5_C4_Bushing/dissipated_energy
+y[388] = /forceset/C4_C3_Bushing/dissipated_energy
+y[389] = /forceset/C3_C2_Bushing/dissipated_energy
+y[390] = /forceset/C2_C1_Bushing/dissipated_energy
+y[391] = /forceset/C1_skull_Bushing/dissipated_energy
+y[392] = /forceset/r_Lateral_Rectus/activation
+y[393] = /forceset/r_Lateral_Rectus/LPF_velocity
+y[394] = /forceset/r_Lateral_Rectus/LPF_acceleration
+y[395] = /forceset/r_Lateral_Rectus/spindle/dynamic_activation
+y[396] = /forceset/r_Lateral_Rectus/spindle/static_activation
+y[397] = /forceset/r_Lateral_Rectus/spindle/tension_bag1
+y[398] = /forceset/r_Lateral_Rectus/spindle/tension_bag2
+y[399] = /forceset/r_Lateral_Rectus/spindle/tension_chain
+y[400] = /forceset/r_Lateral_Rectus/spindle/tension_bag1_deriv
+y[401] = /forceset/r_Lateral_Rectus/spindle/tension_bag2_deriv
+y[402] = /forceset/r_Lateral_Rectus/spindle/tension_chain_deriv
+y[403] = /forceset/r_Lateral_Rectus/GTO/nonlinear
+y[404] = /forceset/r_Lateral_Rectus/GTO/nonlinear_deriv
+y[405] = /forceset/r_Lateral_Rectus/GTO/filter_out
+y[406] = /forceset/r_Lateral_Rectus/GTO/filter_out_deriv
+y[407] = /forceset/r_Medial_Rectus/activation
+y[408] = /forceset/r_Medial_Rectus/LPF_velocity
+y[409] = /forceset/r_Medial_Rectus/LPF_acceleration
+y[410] = /forceset/r_Medial_Rectus/spindle/dynamic_activation
+y[411] = /forceset/r_Medial_Rectus/spindle/static_activation
+y[412] = /forceset/r_Medial_Rectus/spindle/tension_bag1
+y[413] = /forceset/r_Medial_Rectus/spindle/tension_bag2
+y[414] = /forceset/r_Medial_Rectus/spindle/tension_chain
+y[415] = /forceset/r_Medial_Rectus/spindle/tension_bag1_deriv
+y[416] = /forceset/r_Medial_Rectus/spindle/tension_bag2_deriv
+y[417] = /forceset/r_Medial_Rectus/spindle/tension_chain_deriv
+y[418] = /forceset/r_Medial_Rectus/GTO/nonlinear
+y[419] = /forceset/r_Medial_Rectus/GTO/nonlinear_deriv
+y[420] = /forceset/r_Medial_Rectus/GTO/filter_out
+y[421] = /forceset/r_Medial_Rectus/GTO/filter_out_deriv
+y[422] = /forceset/r_Superior_Rectus/activation
+y[423] = /forceset/r_Superior_Rectus/LPF_velocity
+y[424] = /forceset/r_Superior_Rectus/LPF_acceleration
+y[425] = /forceset/r_Superior_Rectus/spindle/dynamic_activation
+y[426] = /forceset/r_Superior_Rectus/spindle/static_activation
+y[427] = /forceset/r_Superior_Rectus/spindle/tension_bag1
+y[428] = /forceset/r_Superior_Rectus/spindle/tension_bag2
+y[429] = /forceset/r_Superior_Rectus/spindle/tension_chain
+y[430] = /forceset/r_Superior_Rectus/spindle/tension_bag1_deriv
+y[431] = /forceset/r_Superior_Rectus/spindle/tension_bag2_deriv
+y[432] = /forceset/r_Superior_Rectus/spindle/tension_chain_deriv
+y[433] = /forceset/r_Superior_Rectus/GTO/nonlinear
+y[434] = /forceset/r_Superior_Rectus/GTO/nonlinear_deriv
+y[435] = /forceset/r_Superior_Rectus/GTO/filter_out
+y[436] = /forceset/r_Superior_Rectus/GTO/filter_out_deriv
+y[437] = /forceset/r_Inferior_Rectus/activation
+y[438] = /forceset/r_Inferior_Rectus/LPF_velocity
+y[439] = /forceset/r_Inferior_Rectus/LPF_acceleration
+y[440] = /forceset/r_Inferior_Rectus/spindle/dynamic_activation
+y[441] = /forceset/r_Inferior_Rectus/spindle/static_activation
+y[442] = /forceset/r_Inferior_Rectus/spindle/tension_bag1
+y[443] = /forceset/r_Inferior_Rectus/spindle/tension_bag2
+y[444] = /forceset/r_Inferior_Rectus/spindle/tension_chain
+y[445] = /forceset/r_Inferior_Rectus/spindle/tension_bag1_deriv
+y[446] = /forceset/r_Inferior_Rectus/spindle/tension_bag2_deriv
+y[447] = /forceset/r_Inferior_Rectus/spindle/tension_chain_deriv
+y[448] = /forceset/r_Inferior_Rectus/GTO/nonlinear
+y[449] = /forceset/r_Inferior_Rectus/GTO/nonlinear_deriv
+y[450] = /forceset/r_Inferior_Rectus/GTO/filter_out
+y[451] = /forceset/r_Inferior_Rectus/GTO/filter_out_deriv
+y[452] = /forceset/r_Superior_Oblique/activation
+y[453] = /forceset/r_Superior_Oblique/LPF_velocity
+y[454] = /forceset/r_Superior_Oblique/LPF_acceleration
+y[455] = /forceset/r_Superior_Oblique/spindle/dynamic_activation
+y[456] = /forceset/r_Superior_Oblique/spindle/static_activation
+y[457] = /forceset/r_Superior_Oblique/spindle/tension_bag1
+y[458] = /forceset/r_Superior_Oblique/spindle/tension_bag2
+y[459] = /forceset/r_Superior_Oblique/spindle/tension_chain
+y[460] = /forceset/r_Superior_Oblique/spindle/tension_bag1_deriv
+y[461] = /forceset/r_Superior_Oblique/spindle/tension_bag2_deriv
+y[462] = /forceset/r_Superior_Oblique/spindle/tension_chain_deriv
+y[463] = /forceset/r_Superior_Oblique/GTO/nonlinear
+y[464] = /forceset/r_Superior_Oblique/GTO/nonlinear_deriv
+y[465] = /forceset/r_Superior_Oblique/GTO/filter_out
+y[466] = /forceset/r_Superior_Oblique/GTO/filter_out_deriv
+y[467] = /forceset/r_Inferior_Oblique/activation
+y[468] = /forceset/r_Inferior_Oblique/LPF_velocity
+y[469] = /forceset/r_Inferior_Oblique/LPF_acceleration
+y[470] = /forceset/r_Inferior_Oblique/spindle/dynamic_activation
+y[471] = /forceset/r_Inferior_Oblique/spindle/static_activation
+y[472] = /forceset/r_Inferior_Oblique/spindle/tension_bag1
+y[473] = /forceset/r_Inferior_Oblique/spindle/tension_bag2
+y[474] = /forceset/r_Inferior_Oblique/spindle/tension_chain
+y[475] = /forceset/r_Inferior_Oblique/spindle/tension_bag1_deriv
+y[476] = /forceset/r_Inferior_Oblique/spindle/tension_bag2_deriv
+y[477] = /forceset/r_Inferior_Oblique/spindle/tension_chain_deriv
+y[478] = /forceset/r_Inferior_Oblique/GTO/nonlinear
+y[479] = /forceset/r_Inferior_Oblique/GTO/nonlinear_deriv
+y[480] = /forceset/r_Inferior_Oblique/GTO/filter_out
+y[481] = /forceset/r_Inferior_Oblique/GTO/filter_out_deriv
+y[482] = /forceset/l_Lateral_Rectus/activation
+y[483] = /forceset/l_Lateral_Rectus/LPF_velocity
+y[484] = /forceset/l_Lateral_Rectus/LPF_acceleration
+y[485] = /forceset/l_Lateral_Rectus/spindle/dynamic_activation
+y[486] = /forceset/l_Lateral_Rectus/spindle/static_activation
+y[487] = /forceset/l_Lateral_Rectus/spindle/tension_bag1
+y[488] = /forceset/l_Lateral_Rectus/spindle/tension_bag2
+y[489] = /forceset/l_Lateral_Rectus/spindle/tension_chain
+y[490] = /forceset/l_Lateral_Rectus/spindle/tension_bag1_deriv
+y[491] = /forceset/l_Lateral_Rectus/spindle/tension_bag2_deriv
+y[492] = /forceset/l_Lateral_Rectus/spindle/tension_chain_deriv
+y[493] = /forceset/l_Lateral_Rectus/GTO/nonlinear
+y[494] = /forceset/l_Lateral_Rectus/GTO/nonlinear_deriv
+y[495] = /forceset/l_Lateral_Rectus/GTO/filter_out
+y[496] = /forceset/l_Lateral_Rectus/GTO/filter_out_deriv
+y[497] = /forceset/l_Medial_Rectus/activation
+y[498] = /forceset/l_Medial_Rectus/LPF_velocity
+y[499] = /forceset/l_Medial_Rectus/LPF_acceleration
+y[500] = /forceset/l_Medial_Rectus/spindle/dynamic_activation
+y[501] = /forceset/l_Medial_Rectus/spindle/static_activation
+y[502] = /forceset/l_Medial_Rectus/spindle/tension_bag1
+y[503] = /forceset/l_Medial_Rectus/spindle/tension_bag2
+y[504] = /forceset/l_Medial_Rectus/spindle/tension_chain
+y[505] = /forceset/l_Medial_Rectus/spindle/tension_bag1_deriv
+y[506] = /forceset/l_Medial_Rectus/spindle/tension_bag2_deriv
+y[507] = /forceset/l_Medial_Rectus/spindle/tension_chain_deriv
+y[508] = /forceset/l_Medial_Rectus/GTO/nonlinear
+y[509] = /forceset/l_Medial_Rectus/GTO/nonlinear_deriv
+y[510] = /forceset/l_Medial_Rectus/GTO/filter_out
+y[511] = /forceset/l_Medial_Rectus/GTO/filter_out_deriv
+y[512] = /forceset/l_Superior_Rectus/activation
+y[513] = /forceset/l_Superior_Rectus/LPF_velocity
+y[514] = /forceset/l_Superior_Rectus/LPF_acceleration
+y[515] = /forceset/l_Superior_Rectus/spindle/dynamic_activation
+y[516] = /forceset/l_Superior_Rectus/spindle/static_activation
+y[517] = /forceset/l_Superior_Rectus/spindle/tension_bag1
+y[518] = /forceset/l_Superior_Rectus/spindle/tension_bag2
+y[519] = /forceset/l_Superior_Rectus/spindle/tension_chain
+y[520] = /forceset/l_Superior_Rectus/spindle/tension_bag1_deriv
+y[521] = /forceset/l_Superior_Rectus/spindle/tension_bag2_deriv
+y[522] = /forceset/l_Superior_Rectus/spindle/tension_chain_deriv
+y[523] = /forceset/l_Superior_Rectus/GTO/nonlinear
+y[524] = /forceset/l_Superior_Rectus/GTO/nonlinear_deriv
+y[525] = /forceset/l_Superior_Rectus/GTO/filter_out
+y[526] = /forceset/l_Superior_Rectus/GTO/filter_out_deriv
+y[527] = /forceset/l_Inferior_Rectus/activation
+y[528] = /forceset/l_Inferior_Rectus/LPF_velocity
+y[529] = /forceset/l_Inferior_Rectus/LPF_acceleration
+y[530] = /forceset/l_Inferior_Rectus/spindle/dynamic_activation
+y[531] = /forceset/l_Inferior_Rectus/spindle/static_activation
+y[532] = /forceset/l_Inferior_Rectus/spindle/tension_bag1
+y[533] = /forceset/l_Inferior_Rectus/spindle/tension_bag2
+y[534] = /forceset/l_Inferior_Rectus/spindle/tension_chain
+y[535] = /forceset/l_Inferior_Rectus/spindle/tension_bag1_deriv
+y[536] = /forceset/l_Inferior_Rectus/spindle/tension_bag2_deriv
+y[537] = /forceset/l_Inferior_Rectus/spindle/tension_chain_deriv
+y[538] = /forceset/l_Inferior_Rectus/GTO/nonlinear
+y[539] = /forceset/l_Inferior_Rectus/GTO/nonlinear_deriv
+y[540] = /forceset/l_Inferior_Rectus/GTO/filter_out
+y[541] = /forceset/l_Inferior_Rectus/GTO/filter_out_deriv
+y[542] = /forceset/l_Superior_Oblique/activation
+y[543] = /forceset/l_Superior_Oblique/LPF_velocity
+y[544] = /forceset/l_Superior_Oblique/LPF_acceleration
+y[545] = /forceset/l_Superior_Oblique/spindle/dynamic_activation
+y[546] = /forceset/l_Superior_Oblique/spindle/static_activation
+y[547] = /forceset/l_Superior_Oblique/spindle/tension_bag1
+y[548] = /forceset/l_Superior_Oblique/spindle/tension_bag2
+y[549] = /forceset/l_Superior_Oblique/spindle/tension_chain
+y[550] = /forceset/l_Superior_Oblique/spindle/tension_bag1_deriv
+y[551] = /forceset/l_Superior_Oblique/spindle/tension_bag2_deriv
+y[552] = /forceset/l_Superior_Oblique/spindle/tension_chain_deriv
+y[553] = /forceset/l_Superior_Oblique/GTO/nonlinear
+y[554] = /forceset/l_Superior_Oblique/GTO/nonlinear_deriv
+y[555] = /forceset/l_Superior_Oblique/GTO/filter_out
+y[556] = /forceset/l_Superior_Oblique/GTO/filter_out_deriv
+y[557] = /forceset/l_Inferior_Oblique/activation
+y[558] = /forceset/l_Inferior_Oblique/LPF_velocity
+y[559] = /forceset/l_Inferior_Oblique/LPF_acceleration
+y[560] = /forceset/l_Inferior_Oblique/spindle/dynamic_activation
+y[561] = /forceset/l_Inferior_Oblique/spindle/static_activation
+y[562] = /forceset/l_Inferior_Oblique/spindle/tension_bag1
+y[563] = /forceset/l_Inferior_Oblique/spindle/tension_bag2
+y[564] = /forceset/l_Inferior_Oblique/spindle/tension_chain
+y[565] = /forceset/l_Inferior_Oblique/spindle/tension_bag1_deriv
+y[566] = /forceset/l_Inferior_Oblique/spindle/tension_bag2_deriv
+y[567] = /forceset/l_Inferior_Oblique/spindle/tension_chain_deriv
+y[568] = /forceset/l_Inferior_Oblique/GTO/nonlinear
+y[569] = /forceset/l_Inferior_Oblique/GTO/nonlinear_deriv
+y[570] = /forceset/l_Inferior_Oblique/GTO/filter_out
+y[571] = /forceset/l_Inferior_Oblique/GTO/filter_out_deriv
+
+[2026-08-31 22:04:50.668] [info] -------
+[2026-08-31 22:04:50.668] [info] Manager
+[2026-08-31 22:04:50.668] [info] -------
+[2026-08-31 22:04:50.668] [info] Starting integration at initial time 0.00 s...
+[2026-08-31 22:04:50.772] [warning] Coordinate.setValue:  coordinate gndpitch is locked. Unable to change its value.
+[2026-08-31 22:04:50.772] [warning] Coordinate.setValue:  coordinate gndroll is locked. Unable to change its value.
+[2026-08-31 22:04:50.772] [warning] Coordinate.setValue:  coordinate gndyaw is locked. Unable to change its value.
+[2026-08-31 22:04:50.772] [warning] Coordinate.setValue:  coordinate spine_tx is locked. Unable to change its value.
+[2026-08-31 22:04:50.772] [warning] Coordinate.setValue:  coordinate spine_ty is locked. Unable to change its value.
+[2026-08-31 22:04:50.772] [warning] Coordinate.setValue:  coordinate spine_tz is locked. Unable to change its value.
+[2026-08-31 22:06:01.681] [info] Integration complete at final time 1.00 s.
+[2026-08-31 22:06:01.681] [info]  - CPU time elapsed: 82.781250 s
+[2026-08-31 22:06:01.681] [info]  - real time elapsed: 71.012252 s
+[2026-08-31 22:06:01.681] [info]  - ratio sim-to-real time: 0.014
+[2026-08-31 22:06:01.681] [info]  - integrator method: RungeKuttaMerson
+[2026-08-31 22:06:01.681] [info]  - number of realizations: 58353
+[2026-08-31 22:06:01.681] [info]  - number of steps taken / attempted: 11668 / 11671
+[2026-08-31 22:06:01.681] [info]  - number of projections: 1
+[2026-08-31 22:06:01.681] [info]  - number of iterations: 11671
+[2026-08-31 22:06:01.682] [info] Printing results of investigation HYOID_Scaled to D:\Akademik\PhD_Thesis\OpenSim\Proprioception_Plugin_Opensim4_6_Explicit\osim_files
+[2026-08-31 22:15:43.474] [info] Storage: read data file = D:\Akademik\PhD_Thesis\OpenSim\Proprioception_Plugin_Opensim4_6_Explicit\osim_files\HYOID_Scaled_states.sto (nr=11669 nc=573)

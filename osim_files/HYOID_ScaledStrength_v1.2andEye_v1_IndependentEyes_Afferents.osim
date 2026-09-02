@@ -2967,11 +2967,11 @@
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
-								<PathPoint name="digastric post-P1">
+								<PathPoint name="digastric-post-P1">
 									<location> -0.0061 0.0034 0.0477</location>
 									<body>skull</body>
 								</PathPoint>
-								<PathPoint name="digastric post-P2">
+								<PathPoint name="digastric-post-P2">
 									<location> 0.02321 0.00597 0.0287</location>
 									<body>cerv3</body>
 								</PathPoint>
@@ -3056,11 +3056,11 @@
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
-								<PathPoint name="digastric post-P1">
+								<PathPoint name="digastric-post-P1">
 									<location> 0.0303 -0.0643 0.0173</location>
 									<body>skull</body>
 								</PathPoint>
-								<PathPoint name="digastric post-P2">
+								<PathPoint name="digastric-post-P2">
 									<location> 0.07289 -0.05758 0.0057</location>
 									<body>cerv1</body>
 								</PathPoint>
@@ -3145,11 +3145,11 @@
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
-								<PathPoint name="digastric post-P1">
+								<PathPoint name="digastric-post-P1">
 									<location> 0.0717298 -0.0537906 0.00509443</location>
 									<body>cerv1</body>
 								</PathPoint>
-								<PathPoint name="digastric post-P2">
+								<PathPoint name="digastric-post-P2">
 									<location> 0.0691 -0.0673 0.0016</location>
 									<body>skull</body>
 								</PathPoint>
@@ -3234,11 +3234,11 @@
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
-								<PathPoint name="digastric post-P1">
+								<PathPoint name="digastric-post-P1">
 									<location> 0.07525 -0.05588 0.0031</location>
 									<body>cerv1</body>
 								</PathPoint>
-								<PathPoint name="digastric post-P2">
+								<PathPoint name="digastric-post-P2">
 									<location> 0.0413 -0.0389 0.0291</location>
 									<body>skull</body>
 								</PathPoint>
@@ -3323,11 +3323,11 @@
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
-								<PathPoint name="digastric post-P1">
+								<PathPoint name="digastric-post-P1">
 									<location> 0.09725 -0.05668 -0.0031</location>
 									<body>cerv1</body>
 								</PathPoint>
-								<PathPoint name="digastric post-P2">
+								<PathPoint name="digastric-post-P2">
 									<location> 0.0579 -0.0596 0.0158</location>
 									<body>skull</body>
 								</PathPoint>
@@ -3414,11 +3414,11 @@
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
-								<PathPoint name="digastric post-P1">
+								<PathPoint name="digastric-post-P1">
 									<location> 0.0113 -0.0008 0.0376</location>
 									<body>skull</body>
 								</PathPoint>
-								<PathPoint name="digastric post-P2">
+								<PathPoint name="digastric-post-P2">
 									<location> 0.0643381 -0.0496832 0.01544</location>
 									<body>cerv1</body>
 								</PathPoint>
@@ -3503,11 +3503,11 @@
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
-								<PathPoint name="digastric post-P1">
+								<PathPoint name="digastric-post-P1">
 									<location> 0.0118 -0.002 0.0376</location>
 									<body>skull</body>
 								</PathPoint>
-								<PathPoint name="digastric post-P2">
+								<PathPoint name="digastric-post-P2">
 									<location> 0.0632661 -0.0450538 0.0162521</location>
 									<body>cerv1</body>
 								</PathPoint>
@@ -3859,11 +3859,11 @@
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
-								<PathPoint name="digastric post-P1">
+								<PathPoint name="digastric-post-P1">
 									<location> -0.0061 0.0034 -0.0477</location>
 									<body>skull</body>
 								</PathPoint>
-								<PathPoint name="digastric post-P2">
+								<PathPoint name="digastric-post-P2">
 									<location> 0.02321 0.00597 -0.0287</location>
 									<body>cerv3</body>
 								</PathPoint>
@@ -3948,11 +3948,11 @@
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
-								<PathPoint name="digastric post-P1">
+								<PathPoint name="digastric-post-P1">
 									<location> 0.0303 -0.0643 -0.0173</location>
 									<body>skull</body>
 								</PathPoint>
-								<PathPoint name="digastric post-P2">
+								<PathPoint name="digastric-post-P2">
 									<location> 0.07289 -0.05758 -0.0057</location>
 									<body>cerv1</body>
 								</PathPoint>
@@ -4037,11 +4037,11 @@
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
-								<PathPoint name="digastric post-P1">
+								<PathPoint name="digastric-post-P1">
 									<location> 0.0714947 -0.0538159 -0.00630312</location>
 									<body>cerv1</body>
 								</PathPoint>
-								<PathPoint name="digastric post-P2">
+								<PathPoint name="digastric-post-P2">
 									<location> 0.0691 -0.0673 -0.0016</location>
 									<body>skull</body>
 								</PathPoint>
@@ -4126,11 +4126,11 @@
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
-								<PathPoint name="digastric post-P1">
+								<PathPoint name="digastric-post-P1">
 									<location> 0.07525 -0.05588 -0.0031</location>
 									<body>cerv1</body>
 								</PathPoint>
-								<PathPoint name="digastric post-P2">
+								<PathPoint name="digastric-post-P2">
 									<location> 0.0413 -0.0389 -0.0291</location>
 									<body>skull</body>
 								</PathPoint>
@@ -4215,11 +4215,11 @@
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
-								<PathPoint name="digastric post-P1">
+								<PathPoint name="digastric-post-P1">
 									<location> 0.09725 -0.05668 0.0031</location>
 									<body>cerv1</body>
 								</PathPoint>
-								<PathPoint name="digastric post-P2">
+								<PathPoint name="digastric-post-P2">
 									<location> 0.0579 -0.0596 -0.0158</location>
 									<body>skull</body>
 								</PathPoint>
@@ -4304,11 +4304,11 @@
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
-								<PathPoint name="digastric post-P1">
+								<PathPoint name="digastric-post-P1">
 									<location> 0.0113 -0.0008 -0.0376</location>
 									<body>skull</body>
 								</PathPoint>
-								<PathPoint name="digastric post-P2">
+								<PathPoint name="digastric-post-P2">
 									<location> 0.0636822 -0.0497536 -0.0163531</location>
 									<body>cerv1</body>
 								</PathPoint>
@@ -4393,11 +4393,11 @@
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
-								<PathPoint name="digastric post-P1">
+								<PathPoint name="digastric-post-P1">
 									<location> 0.0118 -0.002 -0.0376</location>
 									<body>skull</body>
 								</PathPoint>
-								<PathPoint name="digastric post-P2">
+								<PathPoint name="digastric-post-P2">
 									<location> 0.0625772 -0.0451277 -0.0171408</location>
 									<body>cerv1</body>
 								</PathPoint>
@@ -11418,10 +11418,10 @@
 			<groups />
 		</ControllerSet>
 		<!--Additional components in the model.-->
-		<ComponentSet name="MiscComponents">
+		<componentset name="MiscComponents">
 			<objects />
 			<groups />
-		</ComponentSet>
+		</componentset>
 		<!--Probes in the model.-->
 		<ProbeSet>
 			<objects />
