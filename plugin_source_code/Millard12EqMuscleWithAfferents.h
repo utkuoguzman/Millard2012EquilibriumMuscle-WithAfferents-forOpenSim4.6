@@ -19,28 +19,33 @@ namespace OpenSim {
  * contributions to the stretch reflex: A model synthesis" 
  * Ann Biomed Eng 30:54-67.
  *
- * CLASS EXTENSION
+ * HOW THE CODE ACHIEVED
  * The implementation of this class was achieved by modifying the file
  * FatigableMuscle.h, which is part of the OpenSim API examples.
- *
- * The Muscle base class specifies the interface that must be implemented 
+ * The Muscle.h base class specifies the interface that must be implemented 
  * by the derived muscle classes.
  * 
+ * CLASS EXTENSION
  * The Millard12EqMuscleWithAfferents derives from Millard2012EquilibriumMuscle,
- * which is a concrete implementation of the  Muscle interface.
+ * which is a concrete implementation of the  Muscle interface (interfaces are done).
  * 
  * AFFERENTS SPINDLES
- * The dynamics for spindle afferents are handled by a member object of the
+ * The dynamics for spindle afferents are handled by a "member object" of the
  * Mileusnic06Spindle class.
- * 
  * The Mileusnic06Spindle object requires muscle fiber "acceleration", which is 
  * not available from the Millard2012EquilibriumMuscle class, so this has to
  * be approximated numerically. To aid this, this muscle class provides a
- * low-pass filtered version of the fiber velocity, and the acceleration is 
+ * LPF'ed version of the fiber velocity and LPF'ed version of the acceleration is 
  * provided as a state variable.
  * 
  * AFFERENTS TENDON ORGANS
  * The dynamics of the GTO are handled by an object of the Lin02GolgiTendonOrgan class.
+ * 
+ * INPUTS
+ * Unlike most muscle types, Millard12EqWithAfferents expects 3 inputs. One input causes
+ * the muscle activation, and the other 2 static and dynamic gamma motoneuron input
+ * that modulates the response of a muscle spindle. The inputs can be specified using objects
+ * of the SpindleController, or the TugOfWarController classes.
  */
 class Millard12EqMuscleWithAfferents : public Millard2012EquilibriumMuscle {OpenSim_DECLARE_CONCRETE_OBJECT(Millard12EqMuscleWithAfferents, Millard2012EquilibriumMuscle);
 

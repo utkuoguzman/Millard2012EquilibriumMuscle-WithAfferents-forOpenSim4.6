@@ -3,7 +3,18 @@
  *  pulling on a block. One of the muscles has afferents and the other does not.
  *  Both muscles should produce equal forces when given equal stimulation,
  *  initial positions, and parameters.
- *  Modified from the tugOfWar program for the Custom Muscle tutorial. 
+ *  Modified from the tugOfWar program for the Custom Muscle tutorial.
+ * 
+ * Unlike mainFatigue.cpp, mainAfferents.cpp has two alternatives for defining a controller,
+ * namely with a TugOfWarController, or with a SpindleController.
+ * Choosing one of these two only requires to uncomment the code for implementing the desired controller,
+ * and commenting the code to implement the other one.
+ * 
+ * As in the “Creating a Customized Muscle Model” tutorial, there is an "MuscleAnalysis" object that reports
+ * the output coming from the muscles. All this output is reported in the files of the folder
+ * "MuscleAnalysisResults", and have names prepended by the string “muscle”.
+ * In addition, there is also an AfferentAnalysis object that reports the output specific to
+ * Millard12EqMuscleWithAfferents. This output will be in the 3 files whose name is prepended with “afferents”.
  */
 
 //=============================================================================

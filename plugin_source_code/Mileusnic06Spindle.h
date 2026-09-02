@@ -2,12 +2,15 @@
 * The Mileusnic06Spindle class implements the spindle afferent model from: 
 * Mileusnic et al. "Mathematical Models of Proprioceptors. I. Control and
 * Transduction in the Muscle Spinle" J Neurophysiol 96: 1772-1788, 2006.
+*
 * Objects of this class are meant to be added as subcomponents of muscle
 * objects. Those muscles receive the inputs corresponding to static and dynamic 
 * gamma motoneuron activity, in addition to their excitation. The fusimotor
 * inputs have units of pulses per second.
 *
-* @author Sergio Verduzco Flores
+* The implementation requires 8 state variables to implement the dynamics of the
+* model, and 2 cache variables to place the outputs (the activity of Ia and II 
+* afferents).
 */
 #pragma once
 #include "OpenSim/Simulation/Model/ModelComponent.h"

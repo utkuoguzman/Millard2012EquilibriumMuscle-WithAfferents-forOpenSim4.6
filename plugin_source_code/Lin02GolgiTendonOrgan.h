@@ -17,6 +17,10 @@ namespace OpenSim {
 // PROPERTYNESS
 // Objects of this class are meant to be contained in particular muscle
 // objects, such as those of the Millard12EqMuscleWithAfferents class.
+
+// Implementing this model requires 4 state variables and 1 cache variable is
+// used to provide the output, corresponding to the aggregate firing rate of all 
+// Golgi tendon organs connected to the muscle.
 class Lin02GolgiTendonOrgan : public ModelComponent {
 OpenSim_DECLARE_CONCRETE_OBJECT(Lin02GolgiTendonOrgan, ModelComponent);
 friend class Millard12EqMuscleWithAfferents;

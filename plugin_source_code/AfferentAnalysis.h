@@ -1,31 +1,14 @@
 
 /* -------------------------------------------------------------------------- *
- *                        OpenSim:  AfferentAnalysis.h                        *
- * -------------------------------------------------------------------------- *
- * The OpenSim API is a toolkit for musculoskeletal modeling and simulation.  *
- * See http://opensim.stanford.edu and the NOTICE file for more information.  *
- * OpenSim is developed at Stanford University and supported by the US        *
- * National Institutes of Health (U54 GM072970, R24 HD065690) and by DARPA    *
- * through the Warrior Web program.                                           *
- *                                                                            *
- * Copyright (c) 2005-2012 Stanford University and the Authors                *
- * Author(s): Sergio Verduzco from MyAnalysis.h                               *
- *                                                                            *
- * Licensed under the Apache License, Version 2.0 (the "License"); you may    *
- * not use this file except in compliance with the License. You may obtain a  *
- * copy of the License at http://www.apache.org/licenses/LICENSE-2.0.         *
- *                                                                            *
- * Unless required by applicable law or agreed to in writing, software        *
- * distributed under the License is distributed on an "AS IS" BASIS,          *
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.   *
- * See the License for the specific language governing permissions and        *
- * limitations under the License.                                             *
- * -------------------------------------------------------------------------- */
+*This is a custom analysis object that creates and allocates 3 storage objects
+* to report the output of the simulation run in the mainAfferents.cpp program.
+* One storage object stores the inputs to the muscle (including the inputs to the spindle afferent),
+* another storage object stores the outputs of the muscle spindle,
+* and the remaining storage output handles the output of the Golgi tendon organ.
+*/
 
-//=============================================================================
 // INCLUDES
-//=============================================================================
-// Headers define the various property types that OpenSim objects can read 
+
 #include <OpenSim/Simulation/Model/Analysis.h>
 //#include "osimPluginDLL.h"      // Header to define plugin (DLL) interface
 
@@ -34,8 +17,7 @@
 #include <OpenSim/Common/Storage.h>
 
 
-//=============================================================================
-//=============================================================================
+
 /*
  * A class template for writing a custom Analysis 
  * Currently reports various values from Millard12EqMuscleWithAfferents objects.

@@ -16,22 +16,15 @@ class Function;
 /**
  * SpindleController is a concrete Controller that specifies functions to 
  * prescribe the control values of muscles with spindle afferents as a function 
- * of time. A spindle afferent is an object of the class Mileusnic06Spindle, and
- * expects two inputs, corresponding to static and dynamic gamma motoneurons.
+ * of time. A spindle afferent is an object of  class Mileusnic06Spindle, and
+ * expects 2 inputs: corresponding to static and dynamic gamma motoneurons.
  *
- * The class SpindleController is a version of the class PrescribedController,
+ * The class SpindleController is a version of the class PrescribedController.h,
  * where modifications have been made to allow three control functions for a 
  * single actuator (an object of the Millard12EqMuscleWithAfferents class) that 
  * contains a Mileusnic06Spindle object.
- *
- * Getting controls from files is not yet implemented.
- *
- * @author  Sergio Verduzco
  */
-//=============================================================================
 
-//class OSIMSIMULATION_API SpindleController : public Controller {
-// Maybe OSIMPLUGIN_API If I want to make this a plugin
 class SpindleController : public Controller {
 OpenSim_DECLARE_CONCRETE_OBJECT(SpindleController, Controller);
 
