@@ -1,26 +1,13 @@
-/* -------------------------------------------------------------------------- *
- *                 OpenSim:  Millard12EqMuscleWithAfferents.cpp               *
- * -------------------------------------------------------------------------- *
- */
- 
-//=============================================================================
 // INCLUDES
-//=============================================================================
 #include "Millard12EqMuscleWithAfferents.h"
 #include <iostream>  // remove later
 
-//=============================================================================
 // STATICS
-//=============================================================================
 using namespace std;
 using namespace OpenSim;
 
-//=============================================================================
-// CONSTRUCTOR(S) AND DESTRUCTOR
-//=============================================================================
-/*
- * Default constructor. Not used.
- */
+/* METHODS */
+// Default constructor. Not used.
 Millard12EqMuscleWithAfferents::Millard12EqMuscleWithAfferents()
 {
 	constructProperties();
@@ -28,14 +15,9 @@ Millard12EqMuscleWithAfferents::Millard12EqMuscleWithAfferents()
 	upd_GTO().setOwnerMuscleName("no_GTO_name");
 }
 
-/*
- * Constructor.
- */
-Millard12EqMuscleWithAfferents::Millard12EqMuscleWithAfferents(const std::string &name, 
-					double maxIsometricForce, double optimalFiberLength, 
-					double tendonSlackLength, double pennationAngle) : 
-	Super(name, maxIsometricForce, optimalFiberLength, tendonSlackLength, 
-          pennationAngle)
+// Constructor. Mainly used.
+Millard12EqMuscleWithAfferents::Millard12EqMuscleWithAfferents(const std::string &name, double maxIsometricForce, double optimalFiberLength, double tendonSlackLength, double pennationAngle)
+:Super(name, maxIsometricForce, optimalFiberLength, tendonSlackLength, pennationAngle)
 {
 	constructProperties();
 	upd_spindle().setOwnerMuscleName(getName());
@@ -47,40 +29,60 @@ Millard12EqMuscleWithAfferents::Millard12EqMuscleWithAfferents(const std::string
 	C0 = 0.0; C1 = 0.0;
 }
 
-/*
- * Construct and initialize properties.
- * All properties are added to the property set. Once added, they can be
- * read in and written to files.
- */
+// GET & SET "state variables" and their "derivatives"
+double Millard12EqMuscleWithAfferents::getLPFvelocity(const SimTK::State& s) const
+{
+	return getStateVariableValue(s, "LPF_velocity");
+}	
+
+void Millard12EqMuscleWithAfferents::setLPFvelocity(SimTK::State& s, double Velocity) const
+{
+	setStateVariableValue(s, "LPF_velocity", Velocity);
+}
+
+double Millard12EqMuscleWithAfferents::getLPFacceleration(const SimTK::State& s) const
+{
+	return getStateVariableValue(s, "LPF_acceleration");
+}
+
+void Millard12EqMuscleWithAfferents::setLPFacceleration(SimTK::State& s, double Acceleration) const
+{
+	setStateVariableValue(s, "LPF_acceleration", Acceleration);
+}
+
+// Get & Set the Properties
+void Millard12EqMuscleWithAfferents::setLPFtau(double aLPFtau) {
+	set_lpf_tau(aLPFtau);
+}
+
+// construct the new properties and set their default values without crowding the constructor
 void Millard12EqMuscleWithAfferents::constructProperties()
 {
 	setAuthors("Sergio Verduzco from code by Ajay Seth");
 	constructProperty_lpf_tau(0.01); // LPF time constant
 	constructProperty_spindle(Mileusnic06Spindle());
     constructProperty_GTO(Lin02GolgiTendonOrgan());
+	//All properties are added to the property set. Once added, they can be read in and written to files.
 }
 
-// Define new states and their derivatives in the underlying system
+/* "MODEL COMPONENT" INTERFACES */
+// Define new muscle states and their derivatives 
 void Millard12EqMuscleWithAfferents::extendAddToSystem(SimTK::MultibodySystem& system) const
 {
-	// Allow Millard2012EquilibriumMuscle to add its states, cache, etc.
-	// to the system
+	// Allow Millard2012EquilibriumMuscle to add its states, cache, etc. to the MultiBody Solver
 	Super::extendAddToSystem(system);
 	
 	// low-pass filtered state variables used to calculate derivatives 
 	addStateVariable("LPF_velocity"); // fiber velocity
 	addStateVariable("LPF_acceleration"); // fiber acceleration
-
-	// Allowing the afferent elements to become part of the system
-	//spindle.extendAddToSystem(system);
-	//GTO.extendAddToSystem(system);
 }
 
+// the way to initialize muscle state variables by using properties.
 void Millard12EqMuscleWithAfferents::extendInitStateFromProperties(SimTK::State& s) const
 {
     Super::extendInitStateFromProperties(s);
 	
-	// I'll init the state, but not from properties
+	// here we init the state directly, but not from any properties
 	setLPFvelocity(s, 0.0);
 	setLPFacceleration(s, 0.0);
 
@@ -91,64 +93,24 @@ void Millard12EqMuscleWithAfferents::extendInitStateFromProperties(SimTK::State&
 	C0 = 0.0; C1 = 0.0;
 }
 
+// use the current values of the muscle states to update the properties
 void Millard12EqMuscleWithAfferents::extendSetPropertiesFromState(const SimTK::State& s)
 {
     Super::extendSetPropertiesFromState(s);
-	
-
 }
 
+// the way to declare the spindle as a subcomponent
 void Millard12EqMuscleWithAfferents::extendConnectToModel(Model& aModel)
 {
-
-	
 	// The afferents need the name of their owner muscle
 	upd_spindle().setOwnerMuscleName(getName());
 	upd_GTO().setOwnerMuscleName(getName());
 	Super::extendConnectToModel(aModel);
-	// I read in Ligament.cpp that includeAsSubComponent should 
-	// appear before Super::connectToModel() 
-	/// I REMOVED IT. For some reason the state variables of the spindle
-	/// object were not being added to the system despite this
-	/// statement.
-	/// includeAsSubComponent(&spindle);
-	
-	/// What allowed the state variables of spindle to be
-	/// connected was to invoke this here.
-
-	
-	
 }
 
-//--------------------------------------------------------------------------
-// GET & SET Properties
-//--------------------------------------------------------------------------
-void Millard12EqMuscleWithAfferents::setLPFtau(double aLPFtau) {
-	set_lpf_tau(aLPFtau);
-}
-
-//--------------------------------------------------------------------------
-// GET & SET States and their derivatives
-//--------------------------------------------------------------------------
-
-double Millard12EqMuscleWithAfferents::getLPFvelocity(const SimTK::State& s) const {
-	return getStateVariableValue(s, "LPF_velocity");
-}	
-void Millard12EqMuscleWithAfferents::setLPFvelocity(SimTK::State& s, double Velocity) const {
-	setStateVariableValue(s, "LPF_velocity", Velocity);
-}	
-double Millard12EqMuscleWithAfferents::getLPFacceleration(const SimTK::State& s) const {
-	return getStateVariableValue(s, "LPF_acceleration");
-}
-void Millard12EqMuscleWithAfferents::setLPFacceleration(SimTK::State& s, double Acceleration) const {
-	setStateVariableValue(s, "LPF_acceleration", Acceleration);
-}
-
-//=============================================================================
-// COMPUTATION
-//=============================================================================
-void Millard12EqMuscleWithAfferents::
-computeInitialFiberEquilibrium(SimTK::State& s) const
+/* COMPUTATIONS */
+// This function finds the initial state for the tension & then it calls the same-named method of the parent class
+void Millard12EqMuscleWithAfferents::computeInitialFiberEquilibrium(SimTK::State& s) const
 {
 	// First let the muscle find an equilibrium state
 	Super::computeInitialFiberEquilibrium(s);
@@ -172,25 +134,7 @@ computeInitialFiberEquilibrium(SimTK::State& s) const
 
 void Millard12EqMuscleWithAfferents::computeStateVariableDerivatives(const SimTK::State& s) const
 {
-// This is the parent's computeStateVariableDerivatives
-/*--------------------------------------------------------------------
-	int idx = 0;
-
-    if (!isDisabled(s)) {
-        // Activation is the first state (if it is a state at all)
-        if(!get_ignore_activation_dynamics() &&
-           idx+1 <= getNumStateVariables()) {
-               derivs[idx] = getActivationDerivative(s);
-               idx++;
-        }
-
-        // Fiber length is the next state (if it is a state at all)
-        if(!get_ignore_tendon_compliance() && idx+1 <= getNumStateVariables()) {
-            derivs[idx] = getFiberVelocity(s);
-        }
-    }
---------------------------------------------------------------------*/
-// This is a "carefree" version of that:
+	// This is a "carefree" version of that:
 	Super::computeStateVariableDerivatives(s);
 	
 	// next state is the LPF velocity
@@ -198,15 +142,12 @@ void Millard12EqMuscleWithAfferents::computeStateVariableDerivatives(const SimTK
 	 
 	// the LPF acceleration
 	setStateVariableDerivativeValue(s, "LPF_acceleration",(approxFiberAcceleration(s) - getLPFacceleration(s)) / getLPFtau());
-	
-
 }
 
 //--------------------------------------------------------------------------
 // Approximate the muscle fiber acceleration
 //--------------------------------------------------------------------------
-double Millard12EqMuscleWithAfferents::
-       approxFiberAcceleration(const SimTK::State& s) const
+double Millard12EqMuscleWithAfferents::approxFiberAcceleration(const SimTK::State& s) const
 {
 	double accel;   // muscle fiber acceleration 
 	double curr_vel;	//  muscle fiber velocity		

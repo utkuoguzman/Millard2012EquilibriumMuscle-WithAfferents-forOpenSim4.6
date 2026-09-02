@@ -5,60 +5,62 @@
 #include "Lin02GolgiTendonOrgan.h"
 
 namespace OpenSim {
-
-//=============================================================================
-//=============================================================================
 /**
+ * FUNCTIONALITY
  * This class extends a Millard2012EquilibriumMuscle by including including
  * inputs and outputs to represent spindle afferents and Golgi tendon organs. 
+ * 
+ * MODEL SOURCE
  * The spindle afferent model comes from: Mileusnic et al 2006 "Mathematical 
  * models of proprioceptors. I. Control and transduction in the muscle spindle"
  * J Neurophysiol 96:1772-1788.
+ * 
  * The GTO model is the one used in: Lin, Crago 2002 "Neural and mechanical 
  * contributions to the stretch reflex: A model synthesis" 
  * Ann Biomed Eng 30:54-67.
  *
+ * CLASS EXTENSION
  * The implementation of this class was achieved by modifying the file
  * FatigableMuscle.h, which is part of the OpenSim API examples.
  *
- * @author Sergio Verduzco Flores (based on Millard2012EquilibriumMuscle)
- *
  * The Muscle base class specifies the interface that must be implemented 
- * by derived muscle classes. The Millard12EqMuscleWithAfferents derives from
- * Millard2012EquilibriumMuscle, which is a concrete implementation of the 
- * Muscle interface. The dynamics for spindle afferents are handled by
- * a member object of the Mileusnic06Spindle class. The dynamics of the
- * GTO are handled by an object of the Lin02GolgiTendonOrgan class.
+ * by the derived muscle classes.
  * 
- * The Mileusnic06Spindle object requires muscle fiber acceleration, which is 
+ * The Millard12EqMuscleWithAfferents derives from Millard2012EquilibriumMuscle,
+ * which is a concrete implementation of the  Muscle interface.
+ * 
+ * AFFERENTS SPINDLES
+ * The dynamics for spindle afferents are handled by a member object of the
+ * Mileusnic06Spindle class.
+ * 
+ * The Mileusnic06Spindle object requires muscle fiber "acceleration", which is 
  * not available from the Millard2012EquilibriumMuscle class, so this has to
  * be approximated numerically. To aid this, this muscle class provides a
  * low-pass filtered version of the fiber velocity, and the acceleration is 
  * provided as a state variable.
- *
- * @see Millard2012EquilibriumMuscle
- * @see Muscle
- * @see Mileusnic06Spindle
- * @see Lin02GolgiTendonOrgan  
+ * 
+ * AFFERENTS TENDON ORGANS
+ * The dynamics of the GTO are handled by an object of the Lin02GolgiTendonOrgan class.
  */
-class Millard12EqMuscleWithAfferents : public Millard2012EquilibriumMuscle {
-OpenSim_DECLARE_CONCRETE_OBJECT(Millard12EqMuscleWithAfferents, 
-								Millard2012EquilibriumMuscle);
+class Millard12EqMuscleWithAfferents : public Millard2012EquilibriumMuscle {OpenSim_DECLARE_CONCRETE_OBJECT(Millard12EqMuscleWithAfferents, Millard2012EquilibriumMuscle);
+
 friend class Mileusnic06Spindle;
 
 public:
-// PROPERTIES
+	/* PROPERTIES */
 	OpenSim_DECLARE_PROPERTY(lpf_tau, double, "time constant for all the low-pass filters");
 
-// THE AFFERENTS 
+	// the afferents
 	OpenSim_DECLARE_PROPERTY(spindle, Mileusnic06Spindle, "Spindle model");
 	OpenSim_DECLARE_PROPERTY(GTO, Lin02GolgiTendonOrgan, "GTO model");
 
+	// This storage object records the afferent outputs
+	Storage *afferents;
+	
 private:
 
-	/** These auxiliary vectors are used to approximate the 
-	 *  derivatives of muscle variables. 
-	 *  'vel' and 'ts' are the velocity and time values used in the method
+	/** These auxiliary vectors are used to approximate the derivatives of muscle variables. 
+	 *  'vel' and 'ts' are the "velocity" and "time values" used in the method
 	 *  to calculate the acceleration. 
 	 *  Since computeStateVariableDerivatives is const, mutable is needed. */
 	mutable SimTK::Vec<3> vel, ts; 
@@ -66,70 +68,59 @@ private:
 	mutable SimTK::Mat44 C1;
 		
 public:
-//=============================================================================
-// METHODS
-//=============================================================================
-	/** The class constructors */
+	/* METHODS */
+	// The class constructors 
 	Millard12EqMuscleWithAfferents();
-	Millard12EqMuscleWithAfferents(const std::string &name, double maxIsometricForce, 
-					double optimalFiberLength, double tendonSlackLength,
-					double pennationAngle);
+	Millard12EqMuscleWithAfferents(const std::string &name,
+								double maxIsometricForce, 
+								double optimalFiberLength,
+								double tendonSlackLength,
+								double pennationAngle);
 
-    // employs the default destructor, copy constructor and copy assignment 
-	// that are automatically supplied by the compiler if none are defined
-	
-	//-------------------------------------------------------------------------
-	// GET & SET state variables and their derivatives
-	//-------------------------------------------------------------------------
+	// Get & Set "state variables" and their "derivatives"
 	double getLPFvelocity(const SimTK::State& s) const;
 	void setLPFvelocity(SimTK::State& s, double Velocity) const;
-	
 	double getLPFacceleration(const SimTK::State& s) const;
 	void setLPFacceleration(SimTK::State& s, double Acceleration) const;
 	
-	//-------------------------------------------------------------------------
-	// GET & SET Properties
-	//-------------------------------------------------------------------------
+	// Get & Set the Properties
 	double getLPFtau() const { return get_lpf_tau(); }
 	void setLPFtau(double aLPFtau);
-	
-	//-------------------------------------------------------------------------
-	// Other methods
-	//-------------------------------------------------------------------------
-	/** This function should override Actuator::numControls() */
+
+private:
+	/** construct the new properties and set their default values */
+	void constructProperties();
+
+public:
+	/* OTHER SHORT METHODS */
+	// This function should override Actuator::numControls() 
 	int numControls() const {return 3;};
 	
-
-	/** This function allows to peek at the Mileusnic06Spindle object.
-	 *  Mostly for the sake of Analysis objects. */
+	// This function allows to peek at the Mileusnic06Spindle object, Mostly for the sake of Analysis objects
 	const Mileusnic06Spindle* getSpindle() const { return &get_spindle(); }
 	
-	/** This one allows to peek at the Lin02GolgiTendonOrgan object. */
+	// This one allows to peek at the Lin02GolgiTendonOrgan object, Mostly the same.
 	const Lin02GolgiTendonOrgan* getGTO() const { return &get_GTO(); }
 	
 protected:
-	// Model Component Interface
-	/** add new dynamical states to the multibody system corresponding
-	    to this muscle */
+	/* "MODEL COMPONENT" INTERFACES */
+	// the way to add new dynamical muscle states to the multibody system corresponding to this muscle
 	void extendAddToSystem(SimTK::MultibodySystem& system) const override;
-	/** initialize muscle state variables from properties. For example, any 
-	    properties that contain default state values */
+
+	// the way to initialize muscle state variables by using properties.
 	void extendInitStateFromProperties(SimTK::State& s) const override;
-	/** use the current values in the state to update any properties such as 
-	    default values for state variables */
+
+	// use the current values of the muscle states to update the properties
 	void extendSetPropertiesFromState(const SimTK::State& s) override;
-	/** Extension of the parent class method.
-	    Used here to declare the spindle as a subcomponent. */
+
+	// the way to declare the spindle as a subcomponent. 
 	void extendConnectToModel(Model& aModel) override;
 
-	//-------------------------------------------------------------------------
-	// COMPUTATIONS
-	//-------------------------------------------------------------------------
-	/** This function finds an initial state for the tension, and
-	 *  then it calls the homonimous method of the parent class. */
+	/* COMPUTATIONS */
+	// This function finds the initial state for the tension & then it calls the same-named method of the parent class
 	void computeInitialFiberEquilibrium(SimTK::State& s) const override;
 	
-	/** Compute the derivatives for state variables added by this muscle */
+	// Compute the derivatives for muscle state variables of this muscle
 	void computeStateVariableDerivatives(const SimTK::State& s) const override; 
 		
 	/** The following function calculates the derivative of the fiber velocity
@@ -138,19 +129,5 @@ protected:
 	 *  The method is adapted to use with four points and to always evaluate at the
 	 *  last point.  */
 	double approxFiberAcceleration(const SimTK::State& s) const;
-	
-private:
-	/** construct the new properties and set their default values */
-	void constructProperties();
-	
-public:
-	/** This storage object records the afferent outputs */
-	Storage *afferents;
-	
-//=============================================================================
-};	// END of class Millard12EqMuscleWithAfferents
-//=============================================================================
-//=============================================================================
-
-} // end of namespace OpenSim
-
+};	
+}

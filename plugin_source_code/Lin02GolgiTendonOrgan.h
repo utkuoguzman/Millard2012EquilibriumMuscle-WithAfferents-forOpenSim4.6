@@ -6,17 +6,17 @@
 
 namespace OpenSim {
 	
-/* 
-* The Lin02GolgiTendonOrgan class implements a model for the aggregate
-* population response of the Golgi tendon organs in a muscle.
-* The model is taken from: Lin & Crago, "Neural and Mechanical Contributions
-* to the Stretch Reflex: A Model Synthesis" Ann Biomed Eng 30:54-67.
-*
-* Objects of this class are meant to be contained in particular muscle
-* objects, such as those of the Millard12EqMuscleWithAfferents class.
-*
-* @author Sergio Verduzco Flores
-*/
+// FUNCTIONALITY
+// The Lin02GolgiTendonOrgan class implements a model for the aggregate
+// population response of the Golgi tendon organs in a muscle.
+// 
+// MODEL SOURCE
+// The model is taken from: Lin & Crago, "Neural and Mechanical Contributions
+// to the Stretch Reflex: A Model Synthesis" Ann Biomed Eng 30:54-67.
+// 
+// PROPERTYNESS
+// Objects of this class are meant to be contained in particular muscle
+// objects, such as those of the Millard12EqMuscleWithAfferents class.
 class Lin02GolgiTendonOrgan : public ModelComponent {
 OpenSim_DECLARE_CONCRETE_OBJECT(Lin02GolgiTendonOrgan, ModelComponent);
 friend class Millard12EqMuscleWithAfferents;
