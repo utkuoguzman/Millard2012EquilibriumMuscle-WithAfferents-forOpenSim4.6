@@ -76,17 +76,15 @@ public:
 	/* METHODS */
 	// The class constructors 
 	Millard12EqMuscleWithAfferents();
-	Millard12EqMuscleWithAfferents(const std::string &name,
-								double maxIsometricForce, 
-								double optimalFiberLength,
-								double tendonSlackLength,
+	Millard12EqMuscleWithAfferents(const std::string &name, double maxIsometricForce, 
+								double optimalFiberLength,	double tendonSlackLength,
 								double pennationAngle);
 
 	// Get & Set "state variables" and their "derivatives"
 	double getLPFvelocity(const SimTK::State& s) const;
-	void setLPFvelocity(SimTK::State& s, double Velocity) const;
+	void   setLPFvelocity(SimTK::State& s, double Velocity) const;
 	double getLPFacceleration(const SimTK::State& s) const;
-	void setLPFacceleration(SimTK::State& s, double Acceleration) const;
+	void   setLPFacceleration(SimTK::State& s, double Acceleration) const;
 	
 	// Get & Set the Properties
 	double getLPFtau() const { return get_lpf_tau(); }
